@@ -1,0 +1,4675 @@
+{
+  "tickers_scanned": 302,
+  "results": [
+    {
+      "ticker": "CSX",
+      "profile": {
+        "price": 50.27,
+        "iv_rank": 28.149710100000004,
+        "iv_percentile": 30.231012699999997,
+        "hv_30": 10.81,
+        "rsi_14": 51.93,
+        "pct_off_52w_high": -5.560773999624261,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": "2026-07-22",
+        "days_to_earnings": -16,
+        "nearest_support": 50.0,
+        "nearest_resistance": 51.29,
+        "fair_value_mid": 44.04,
+        "fair_value_upside_pct": -12.4
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "pmcc",
+          "score": 88.2,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "cal_low_iv",
+          "score": 53.7,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "EW",
+      "profile": {
+        "price": 89.72,
+        "iv_rank": 29.9413591,
+        "iv_percentile": 26.1322713,
+        "hv_30": 18.88,
+        "rsi_14": 57.85,
+        "pct_off_52w_high": -5.736499264551384,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": "2026-07-23",
+        "days_to_earnings": -15,
+        "nearest_support": 89.33,
+        "nearest_resistance": 90.0,
+        "fair_value_mid": 84.77,
+        "fair_value_upside_pct": -5.5
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "pmcc",
+          "score": 87.5,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "cal_low_iv",
+          "score": 44.3,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "CPRT",
+      "profile": {
+        "price": 29.66,
+        "iv_rank": 72.0238095,
+        "iv_percentile": 91.869504,
+        "hv_30": 18.26,
+        "rsi_14": 54.06,
+        "pct_off_52w_high": -40.64438663197919,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-09-03",
+        "days_to_earnings": 27,
+        "nearest_support": 29.41,
+        "nearest_resistance": 29.78,
+        "fair_value_mid": 34.92,
+        "fair_value_upside_pct": 17.7
+      },
+      "analyst": {
+        "consensus": "Buy",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "condor",
+          "score": 85.9,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "RSP",
+      "profile": {
+        "price": 220.09,
+        "iv_rank": 30.0762631,
+        "iv_percentile": 33.7754253,
+        "hv_30": 9.85,
+        "rsi_14": 64.87,
+        "pct_off_52w_high": -0.06356990419106677,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": null,
+        "days_to_earnings": null,
+        "nearest_support": 218.11,
+        "nearest_resistance": 225.0,
+        "fair_value_mid": 204.29,
+        "fair_value_upside_pct": -7.2
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "pmcc",
+          "score": 82.2,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "cal_high_iv",
+          "score": 33.2,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "HRL",
+      "profile": {
+        "price": 25.02,
+        "iv_rank": 64.74153299999999,
+        "iv_percentile": 62.3875821,
+        "hv_30": 22.05,
+        "rsi_14": 49.65,
+        "pct_off_52w_high": -14.461538461538462,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": "2026-08-27",
+        "days_to_earnings": 20,
+        "nearest_support": 24.85,
+        "nearest_resistance": 25.38,
+        "fair_value_mid": 24.31,
+        "fair_value_upside_pct": -2.9
+      },
+      "analyst": {
+        "consensus": "Hold",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "condor",
+          "score": 81.9,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "cal_high_iv",
+          "score": 77.4,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "CPB",
+      "profile": {
+        "price": 23.05,
+        "iv_rank": 66.1029977,
+        "iv_percentile": 62.95714770000001,
+        "hv_30": 27.75,
+        "rsi_14": 56.64,
+        "pct_off_52w_high": -32.26564795768439,
+        "price_above_ma50": true,
+        "price_above_ma200": false,
+        "earnings_date": "2026-09-02",
+        "days_to_earnings": 26,
+        "nearest_support": 22.46,
+        "nearest_resistance": 23.34,
+        "fair_value_mid": 24.95,
+        "fair_value_upside_pct": 8.2
+      },
+      "analyst": {
+        "consensus": "Hold",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_high_iv",
+          "score": 80.4,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "condor",
+          "score": 66.4,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "GIS",
+      "profile": {
+        "price": 36.89,
+        "iv_rank": 67.1213547,
+        "iv_percentile": 79.8694789,
+        "hv_30": 20.37,
+        "rsi_14": 53.63,
+        "pct_off_52w_high": -27.822343963999213,
+        "price_above_ma50": true,
+        "price_above_ma200": false,
+        "earnings_date": "2026-09-16",
+        "days_to_earnings": 40,
+        "nearest_support": 36.08,
+        "nearest_resistance": 38.09,
+        "fair_value_mid": 39.84,
+        "fair_value_upside_pct": 8.0
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "condor",
+          "score": 79.4,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "AWK",
+      "profile": {
+        "price": 135.31,
+        "iv_rank": 31.831256000000003,
+        "iv_percentile": 39.6873754,
+        "hv_30": 17.55,
+        "rsi_14": 55.2,
+        "pct_off_52w_high": -7.448700410396708,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": "2026-07-29",
+        "days_to_earnings": -9,
+        "nearest_support": 134.31,
+        "nearest_resistance": 137.58,
+        "fair_value_mid": 122.41,
+        "fair_value_upside_pct": -9.5
+      },
+      "analyst": {
+        "consensus": "Hold",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "pmcc",
+          "score": 79.0,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "cal_high_iv",
+          "score": 52.9,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "SBUX",
+      "profile": {
+        "price": 105.58,
+        "iv_rank": 6.3262540000000005,
+        "iv_percentile": 7.3041223,
+        "hv_30": 30.93,
+        "rsi_14": 54.37,
+        "pct_off_52w_high": -2.5745132416720553,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": "2026-07-29",
+        "days_to_earnings": -9,
+        "nearest_support": 104.82,
+        "nearest_resistance": 105.75,
+        "fair_value_mid": 97.13,
+        "fair_value_upside_pct": -8.0
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_low_iv",
+          "score": 78.4,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "ASHR",
+      "profile": {
+        "price": 35.12,
+        "iv_rank": 54.632034600000004,
+        "iv_percentile": 51.219194099999996,
+        "hv_30": 14.1,
+        "rsi_14": 53.27,
+        "pct_off_52w_high": -5.844504021447721,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": null,
+        "days_to_earnings": null,
+        "nearest_support": 35.0,
+        "nearest_resistance": 35.13,
+        "fair_value_mid": 33.97,
+        "fair_value_upside_pct": -3.3
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_high_iv",
+          "score": 77.9,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "RF",
+      "profile": {
+        "price": 31.43,
+        "iv_rank": 6.865883999999999,
+        "iv_percentile": 4.8105318,
+        "hv_30": 19.1,
+        "rsi_14": 56.69,
+        "pct_off_52w_high": -2.9938271604938236,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": "2026-07-17",
+        "days_to_earnings": -21,
+        "nearest_support": 31.04,
+        "nearest_resistance": 31.53,
+        "fair_value_mid": 28.6,
+        "fair_value_upside_pct": -9.0
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_low_iv",
+          "score": 77.4,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "BKR",
+      "profile": {
+        "price": 61.55,
+        "iv_rank": 31.9455253,
+        "iv_percentile": 29.234380199999997,
+        "hv_30": 31.53,
+        "rsi_14": 59.24,
+        "pct_off_52w_high": -11.654944739486155,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": "2026-07-26",
+        "days_to_earnings": -12,
+        "nearest_support": 60.0,
+        "nearest_resistance": 62.4,
+        "fair_value_mid": 50.55,
+        "fair_value_upside_pct": -17.9
+      },
+      "analyst": {
+        "consensus": "Buy",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "pmcc",
+          "score": 77.1,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "cal_high_iv",
+          "score": 39.3,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "OXY",
+      "profile": {
+        "price": 55.91,
+        "iv_rank": 25.170583800000003,
+        "iv_percentile": 29.2771306,
+        "hv_30": 30.88,
+        "rsi_14": 53.59,
+        "pct_off_52w_high": -15.594806763285025,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": "2026-08-05",
+        "days_to_earnings": -2,
+        "nearest_support": 55.7,
+        "nearest_resistance": 56.02,
+        "fair_value_mid": 37.32,
+        "fair_value_upside_pct": -33.2
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "pmcc",
+          "score": 76.8,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "cal_low_iv",
+          "score": 53.2,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "CNC",
+      "profile": {
+        "price": 65.77,
+        "iv_rank": 7.476076600000001,
+        "iv_percentile": 4.9615824,
+        "hv_30": 34.24,
+        "rsi_14": 53.68,
+        "pct_off_52w_high": -4.292782305005825,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": "2026-07-28",
+        "days_to_earnings": -10,
+        "nearest_support": 64.95,
+        "nearest_resistance": 66.55,
+        "fair_value_mid": 51.99,
+        "fair_value_upside_pct": -21.0
+      },
+      "analyst": {
+        "consensus": "Hold",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_low_iv",
+          "score": 75.7,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "GM",
+      "profile": {
+        "price": 87.58,
+        "iv_rank": 25.228595199999997,
+        "iv_percentile": 29.2101923,
+        "hv_30": 22.52,
+        "rsi_14": 60.86,
+        "pct_off_52w_high": -3.0121816168327786,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": "2026-07-21",
+        "days_to_earnings": -17,
+        "nearest_support": 85.43,
+        "nearest_resistance": 87.62,
+        "fair_value_mid": 76.32,
+        "fair_value_upside_pct": -12.9
+      },
+      "analyst": {
+        "consensus": "Buy",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "pmcc",
+          "score": 74.8,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "cal_low_iv",
+          "score": 42.7,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "INDA",
+      "profile": {
+        "price": 50.37,
+        "iv_rank": 31.5062581,
+        "iv_percentile": 48.1548557,
+        "hv_30": 11.39,
+        "rsi_14": 61.37,
+        "pct_off_52w_high": -8.898534997287037,
+        "price_above_ma50": true,
+        "price_above_ma200": false,
+        "earnings_date": null,
+        "days_to_earnings": null,
+        "nearest_support": 50.19,
+        "nearest_resistance": 50.75,
+        "fair_value_mid": 50.25,
+        "fair_value_upside_pct": -0.2
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "pmcc",
+          "score": 74.1,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "cal_high_iv",
+          "score": 41.6,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "MDT",
+      "profile": {
+        "price": 87.16,
+        "iv_rank": 73.8879736,
+        "iv_percentile": 98.5876057,
+        "hv_30": 16.17,
+        "rsi_14": 61.92,
+        "pct_off_52w_high": -17.266255339345037,
+        "price_above_ma50": true,
+        "price_above_ma200": false,
+        "earnings_date": "2026-09-01",
+        "days_to_earnings": 25,
+        "nearest_support": 85.99,
+        "nearest_resistance": 87.5,
+        "fair_value_mid": 87.46,
+        "fair_value_upside_pct": 0.3
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "condor",
+          "score": 74.0,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "KO",
+      "profile": {
+        "price": 87.05,
+        "iv_rank": 39.9109792,
+        "iv_percentile": 41.6510641,
+        "hv_30": 12.65,
+        "rsi_14": 59.88,
+        "pct_off_52w_high": -2.278850471486306,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": "2026-07-28",
+        "days_to_earnings": -10,
+        "nearest_support": 85.68,
+        "nearest_resistance": 90.0,
+        "fair_value_mid": 78.56,
+        "fair_value_upside_pct": -9.7
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "pmcc",
+          "score": 72.9,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "cal_high_iv",
+          "score": 52.7,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "KVUE",
+      "profile": {
+        "price": 19.23,
+        "iv_rank": 12.0391118,
+        "iv_percentile": 31.5828982,
+        "hv_30": 15.21,
+        "rsi_14": 51.43,
+        "pct_off_52w_high": -12.191780821917801,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": "2026-08-06",
+        "days_to_earnings": -1,
+        "nearest_support": 19.18,
+        "nearest_resistance": 19.36,
+        "fair_value_mid": 18.24,
+        "fair_value_upside_pct": -5.2
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_low_iv",
+          "score": 72.4,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "ENPH",
+      "profile": {
+        "price": 41.87,
+        "iv_rank": 30.620805400000002,
+        "iv_percentile": 38.2357176,
+        "hv_30": 38.45,
+        "rsi_14": 50.82,
+        "pct_off_52w_high": -42.112539748375504,
+        "price_above_ma50": false,
+        "price_above_ma200": true,
+        "earnings_date": "2026-07-28",
+        "days_to_earnings": -10,
+        "nearest_support": 41.28,
+        "nearest_resistance": 43.48,
+        "fair_value_mid": 43.75,
+        "fair_value_upside_pct": 4.5
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "double_cal",
+          "score": 71.9,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "cal_high_iv",
+          "score": 29.8,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "JNJ",
+      "profile": {
+        "price": 259.24,
+        "iv_rank": 51.8971848,
+        "iv_percentile": 70.9484366,
+        "hv_30": 18.87,
+        "rsi_14": 55.45,
+        "pct_off_52w_high": -2.99356383774884,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": "2026-07-15",
+        "days_to_earnings": -23,
+        "nearest_support": 251.71,
+        "nearest_resistance": 269.43,
+        "fair_value_mid": 230.43,
+        "fair_value_upside_pct": -11.1
+      },
+      "analyst": {
+        "consensus": "Buy",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_high_iv",
+          "score": 71.9,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "condor",
+          "score": 59.6,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "FITB",
+      "profile": {
+        "price": 57.09,
+        "iv_rank": 12.8615385,
+        "iv_percentile": 30.5450034,
+        "hv_30": 23.64,
+        "rsi_14": 52.86,
+        "pct_off_52w_high": -3.840323395654361,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": "2026-07-17",
+        "days_to_earnings": -21,
+        "nearest_support": 56.19,
+        "nearest_resistance": 58.29,
+        "fair_value_mid": 51.44,
+        "fair_value_upside_pct": -9.9
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_low_iv",
+          "score": 71.0,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "profile": {
+        "price": 223.96,
+        "iv_rank": 32.204861099999995,
+        "iv_percentile": 35.1556085,
+        "hv_30": 29.26,
+        "rsi_14": 64.41,
+        "pct_off_52w_high": -4.997030626961908,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": "2026-08-26",
+        "days_to_earnings": 19,
+        "nearest_support": 216.83,
+        "nearest_resistance": 225.0,
+        "fair_value_mid": 198.96,
+        "fair_value_upside_pct": -11.2
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "pmcc",
+          "score": 70.8,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "cal_high_iv",
+          "score": 29.3,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "CFG",
+      "profile": {
+        "price": 72.67,
+        "iv_rank": 12.854442299999999,
+        "iv_percentile": 11.1566955,
+        "hv_30": 21.0,
+        "rsi_14": 55.98,
+        "pct_off_52w_high": -2.325268817204306,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": "2026-07-16",
+        "days_to_earnings": -22,
+        "nearest_support": 71.21,
+        "nearest_resistance": 72.94,
+        "fair_value_mid": 63.68,
+        "fair_value_upside_pct": -12.4
+      },
+      "analyst": {
+        "consensus": "Strong Buy",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_low_iv",
+          "score": 70.2,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "KHC",
+      "profile": {
+        "price": 25.32,
+        "iv_rank": 52.560148100000006,
+        "iv_percentile": 33.9740909,
+        "hv_30": 16.66,
+        "rsi_14": 48.4,
+        "pct_off_52w_high": -9.764789736279395,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": "2026-08-05",
+        "days_to_earnings": -2,
+        "nearest_support": 25.2,
+        "nearest_resistance": 25.75,
+        "fair_value_mid": 24.7,
+        "fair_value_upside_pct": -2.5
+      },
+      "analyst": {
+        "consensus": "Hold",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "condor",
+          "score": 69.8,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "cal_high_iv",
+          "score": 64.5,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "C",
+      "profile": {
+        "price": 135.0,
+        "iv_rank": 11.2706701,
+        "iv_percentile": 12.5955409,
+        "hv_30": 21.76,
+        "rsi_14": 50.91,
+        "pct_off_52w_high": -7.324775176769402,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": "2026-07-14",
+        "days_to_earnings": -24,
+        "nearest_support": 133.76,
+        "nearest_resistance": 135.29,
+        "fair_value_mid": 123.2,
+        "fair_value_upside_pct": -8.7
+      },
+      "analyst": {
+        "consensus": "Buy",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_low_iv",
+          "score": 69.6,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "GLW",
+      "profile": {
+        "price": 165.68,
+        "iv_rank": 67.514854,
+        "iv_percentile": 91.1880568,
+        "hv_30": 39.61,
+        "rsi_14": 51.61,
+        "pct_off_52w_high": -35.2027846220032,
+        "price_above_ma50": false,
+        "price_above_ma200": true,
+        "earnings_date": "2026-07-28",
+        "days_to_earnings": -10,
+        "nearest_support": 162.1,
+        "nearest_resistance": 166.0,
+        "fair_value_mid": 150.92,
+        "fair_value_upside_pct": -8.9
+      },
+      "analyst": {
+        "consensus": "Buy",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "condor",
+          "score": 68.5,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "BF.B",
+      "profile": {
+        "price": 28.52,
+        "iv_rank": 60.290791600000006,
+        "iv_percentile": 52.740652600000004,
+        "hv_30": 32.73,
+        "rsi_14": 58.73,
+        "pct_off_52w_high": -8.765195137555988,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": "2026-09-02",
+        "days_to_earnings": 26,
+        "nearest_support": 28.46,
+        "nearest_resistance": 29.14,
+        "fair_value_mid": 27.17,
+        "fair_value_upside_pct": -4.7
+      },
+      "analyst": {
+        "consensus": "Hold",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_high_iv",
+          "score": 68.3,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "condor",
+          "score": 51.5,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "COP",
+      "profile": {
+        "price": 117.61,
+        "iv_rank": 40.7002188,
+        "iv_percentile": 39.536598899999994,
+        "hv_30": 33.21,
+        "rsi_14": 54.6,
+        "pct_off_52w_high": -12.100149476831099,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": "2026-08-06",
+        "days_to_earnings": -1,
+        "nearest_support": 115.11,
+        "nearest_resistance": 120.0,
+        "fair_value_mid": 96.29,
+        "fair_value_upside_pct": -18.1
+      },
+      "analyst": {
+        "consensus": "Buy",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "pmcc",
+          "score": 68.3,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "double_cal",
+          "score": 58.9,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "cal_high_iv",
+          "score": 57.3,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "condor",
+          "score": 37.0,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "CGNX",
+      "profile": {
+        "price": 66.89,
+        "iv_rank": 35.368217099999995,
+        "iv_percentile": 42.293425400000004,
+        "hv_30": null,
+        "rsi_14": 53.64,
+        "pct_off_52w_high": -7.636012151339411,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": "2026-08-05",
+        "days_to_earnings": -2,
+        "nearest_support": 64.1,
+        "nearest_resistance": 68.55,
+        "fair_value_mid": 56.37,
+        "fair_value_upside_pct": -15.7
+      },
+      "analyst": {
+        "consensus": "Buy",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "double_cal",
+          "score": 68.1,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "pmcc",
+          "score": 65.1,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "cal_high_iv",
+          "score": 44.6,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "GAP",
+      "profile": {
+        "price": 20.47,
+        "iv_rank": 68.7285223,
+        "iv_percentile": 67.453353,
+        "hv_30": null,
+        "rsi_14": 53.67,
+        "pct_off_52w_high": -29.728801922416753,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-08-27",
+        "days_to_earnings": 20,
+        "nearest_support": 20.05,
+        "nearest_resistance": 20.5,
+        "fair_value_mid": 22.53,
+        "fair_value_upside_pct": 10.1
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_high_iv",
+          "score": 68.0,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "condor",
+          "score": 65.5,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "QQQ",
+      "profile": {
+        "price": 723.03,
+        "iv_rank": 49.1116173,
+        "iv_percentile": 61.183007700000005,
+        "hv_30": 13.2,
+        "rsi_14": 57.15,
+        "pct_off_52w_high": -3.099871341267288,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": null,
+        "days_to_earnings": null,
+        "nearest_support": 722.03,
+        "nearest_resistance": 726.39,
+        "fair_value_mid": 666.1,
+        "fair_value_upside_pct": -7.9
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_high_iv",
+          "score": 67.6,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "pmcc",
+          "score": 62.5,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "PCG",
+      "profile": {
+        "price": 17.46,
+        "iv_rank": 52.325314999999996,
+        "iv_percentile": 75.7951588,
+        "hv_30": 18.44,
+        "rsi_14": 51.91,
+        "pct_off_52w_high": -8.634222919937198,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": "2026-07-23",
+        "days_to_earnings": -15,
+        "nearest_support": 17.41,
+        "nearest_resistance": 17.92,
+        "fair_value_mid": 19.47,
+        "fair_value_upside_pct": 11.5
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "condor",
+          "score": 67.5,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "IWM",
+      "profile": {
+        "price": 301.56,
+        "iv_rank": 11.3043478,
+        "iv_percentile": 1.8420937,
+        "hv_30": 14.96,
+        "rsi_14": 59.64,
+        "pct_off_52w_high": -0.04971661529282333,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": null,
+        "days_to_earnings": null,
+        "nearest_support": 300.0,
+        "nearest_resistance": 302.72,
+        "fair_value_mid": 272.87,
+        "fair_value_upside_pct": -9.5
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_low_iv",
+          "score": 66.9,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "AES",
+      "profile": {
+        "price": 14.73,
+        "iv_rank": 10.2849836,
+        "iv_percentile": 25.4986141,
+        "hv_30": 22.01,
+        "rsi_14": 48.97,
+        "pct_off_52w_high": -14.756944444444448,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": "2026-08-13",
+        "days_to_earnings": 6,
+        "nearest_support": 14.7,
+        "nearest_resistance": 14.76,
+        "fair_value_mid": 21.4,
+        "fair_value_upside_pct": 45.3
+      },
+      "analyst": {
+        "consensus": "Hold",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_low_iv",
+          "score": 66.7,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "HBAN",
+      "profile": {
+        "price": 17.55,
+        "iv_rank": 15.316827499999999,
+        "iv_percentile": 33.9620939,
+        "hv_30": 19.8,
+        "rsi_14": 51.16,
+        "pct_off_52w_high": -8.925791385573424,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": "2026-07-23",
+        "days_to_earnings": -15,
+        "nearest_support": 17.33,
+        "nearest_resistance": 17.75,
+        "fair_value_mid": 17.11,
+        "fair_value_upside_pct": -2.5
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_low_iv",
+          "score": 65.6,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "pmcc",
+          "score": 58.9,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "BMY",
+      "profile": {
+        "price": 64.72,
+        "iv_rank": 20.240585799999998,
+        "iv_percentile": 26.1850154,
+        "hv_30": 22.83,
+        "rsi_14": 63.25,
+        "pct_off_52w_high": -1.775686750645017,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": "2026-07-30",
+        "days_to_earnings": -8,
+        "nearest_support": 62.56,
+        "nearest_resistance": 68.1,
+        "fair_value_mid": 56.29,
+        "fair_value_upside_pct": -13.0
+      },
+      "analyst": {
+        "consensus": "Hold",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "pmcc",
+          "score": 64.0,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "cal_low_iv",
+          "score": 44.1,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "F",
+      "profile": {
+        "price": 13.98,
+        "iv_rank": 29.231311700000003,
+        "iv_percentile": 32.1466256,
+        "hv_30": 19.57,
+        "rsi_14": 45.29,
+        "pct_off_52w_high": -19.839449541284406,
+        "price_above_ma50": false,
+        "price_above_ma200": true,
+        "earnings_date": "2026-07-28",
+        "days_to_earnings": -10,
+        "nearest_support": 13.71,
+        "nearest_resistance": 14.02,
+        "fair_value_mid": 13.8,
+        "fair_value_upside_pct": -1.3
+      },
+      "analyst": {
+        "consensus": "Hold",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "double_cal",
+          "score": 63.4,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "cal_low_iv",
+          "score": 24.5,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "MET",
+      "profile": {
+        "price": 97.77,
+        "iv_rank": 6.715993200000001,
+        "iv_percentile": 5.42297,
+        "hv_30": 18.2,
+        "rsi_14": 63.93,
+        "pct_off_52w_high": -2.1810905452726432,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": "2026-08-05",
+        "days_to_earnings": -2,
+        "nearest_support": 94.86,
+        "nearest_resistance": 97.8,
+        "fair_value_mid": 84.98,
+        "fair_value_upside_pct": -13.1
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_low_iv",
+          "score": 62.5,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "BX",
+      "profile": {
+        "price": 137.13,
+        "iv_rank": 34.3786635,
+        "iv_percentile": 34.362206699999994,
+        "hv_30": 22.07,
+        "rsi_14": 63.23,
+        "pct_off_52w_high": -27.32139071443715,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": "2026-07-23",
+        "days_to_earnings": -15,
+        "nearest_support": 135.77,
+        "nearest_resistance": 140.0,
+        "fair_value_mid": 135.64,
+        "fair_value_upside_pct": -1.1
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "pmcc",
+          "score": 62.4,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "cal_high_iv",
+          "score": 36.6,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "GLD",
+      "profile": {
+        "price": 398.47,
+        "iv_rank": 32.9793879,
+        "iv_percentile": 61.9029201,
+        "hv_30": 21.09,
+        "rsi_14": 65.33,
+        "pct_off_52w_high": -19.64710627142568,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": null,
+        "days_to_earnings": null,
+        "nearest_support": 392.79,
+        "nearest_resistance": 400.0,
+        "fair_value_mid": 392.92,
+        "fair_value_upside_pct": -1.4
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "pmcc",
+          "score": 62.2,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "cal_high_iv",
+          "score": 31.0,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "CRM",
+      "profile": {
+        "price": 192.74,
+        "iv_rank": 74.3386965,
+        "iv_percentile": 87.5415792,
+        "hv_30": 30.97,
+        "rsi_14": 62.53,
+        "pct_off_52w_high": -27.603951470533,
+        "price_above_ma50": true,
+        "price_above_ma200": false,
+        "earnings_date": "2026-08-26",
+        "days_to_earnings": 19,
+        "nearest_support": 190.31,
+        "nearest_resistance": 193.56,
+        "fair_value_mid": 196.97,
+        "fair_value_upside_pct": 2.2
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "condor",
+          "score": 61.4,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "DOC",
+      "profile": {
+        "price": 21.41,
+        "iv_rank": 11.5018315,
+        "iv_percentile": 25.2776444,
+        "hv_30": 16.47,
+        "rsi_14": 46.16,
+        "pct_off_52w_high": -6.178790534618757,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": "2026-08-04",
+        "days_to_earnings": -3,
+        "nearest_support": 21.3,
+        "nearest_resistance": 22.03,
+        "fair_value_mid": 19.62,
+        "fair_value_upside_pct": -8.4
+      },
+      "analyst": {
+        "consensus": "Hold",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_low_iv",
+          "score": 61.3,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "JCI",
+      "profile": {
+        "price": 152.21,
+        "iv_rank": 40.0502874,
+        "iv_percentile": 41.377439700000004,
+        "hv_30": 29.59,
+        "rsi_14": 62.69,
+        "pct_off_52w_high": -1.5140731154966052,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": "2026-07-29",
+        "days_to_earnings": -9,
+        "nearest_support": 151.18,
+        "nearest_resistance": 160.0,
+        "fair_value_mid": 133.71,
+        "fair_value_upside_pct": -12.2
+      },
+      "analyst": {
+        "consensus": "Buy",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "pmcc",
+          "score": 61.2,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "cal_high_iv",
+          "score": 40.7,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "condor",
+          "score": 23.0,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "PPL",
+      "profile": {
+        "price": 35.46,
+        "iv_rank": 60.050890599999995,
+        "iv_percentile": 40.2156791,
+        "hv_30": 14.95,
+        "rsi_14": 47.58,
+        "pct_off_52w_high": -10.926902788244162,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-08-07",
+        "days_to_earnings": 0,
+        "nearest_support": 35.23,
+        "nearest_resistance": 35.6,
+        "fair_value_mid": 33.85,
+        "fair_value_upside_pct": -4.5
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_high_iv",
+          "score": 60.9,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "MRK",
+      "profile": {
+        "price": 128.58,
+        "iv_rank": 22.417983,
+        "iv_percentile": 10.6637483,
+        "hv_30": 20.94,
+        "rsi_14": 54.42,
+        "pct_off_52w_high": -2.457897132453331,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": "2026-08-04",
+        "days_to_earnings": -3,
+        "nearest_support": 125.47,
+        "nearest_resistance": 130.0,
+        "fair_value_mid": 112.95,
+        "fair_value_upside_pct": -12.2
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_low_iv",
+          "score": 60.8,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "RGTI",
+      "profile": {
+        "price": 17.94,
+        "iv_rank": 10.3405186,
+        "iv_percentile": 18.5859436,
+        "hv_30": null,
+        "rsi_14": 56.66,
+        "pct_off_52w_high": -68.15761448349308,
+        "price_above_ma50": true,
+        "price_above_ma200": false,
+        "earnings_date": "2026-08-06",
+        "days_to_earnings": -1,
+        "nearest_support": 17.71,
+        "nearest_resistance": 18.47,
+        "fair_value_mid": 23.56,
+        "fair_value_upside_pct": 31.3
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_low_iv",
+          "score": 60.5,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "CAG",
+      "profile": {
+        "price": 15.11,
+        "iv_rank": 42.336049700000004,
+        "iv_percentile": 32.101313,
+        "hv_30": 17.95,
+        "rsi_14": 57.31,
+        "pct_off_52w_high": -24.52547452547453,
+        "price_above_ma50": true,
+        "price_above_ma200": false,
+        "earnings_date": "2026-07-15",
+        "days_to_earnings": -23,
+        "nearest_support": 15.04,
+        "nearest_resistance": 15.35,
+        "fair_value_mid": 15.68,
+        "fair_value_upside_pct": 3.8
+      },
+      "analyst": {
+        "consensus": "Hold",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "pmcc",
+          "score": 60.3,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "cal_high_iv",
+          "score": 58.7,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "condor",
+          "score": 45.7,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "KLAR",
+      "profile": {
+        "price": 19.9,
+        "iv_rank": 57.5268105,
+        "iv_percentile": 62.5742812,
+        "hv_30": null,
+        "rsi_14": 57.38,
+        "pct_off_52w_high": -56.569183762549116,
+        "price_above_ma50": true,
+        "price_above_ma200": false,
+        "earnings_date": "2026-08-18",
+        "days_to_earnings": 11,
+        "nearest_support": 19.24,
+        "nearest_resistance": 20.0,
+        "fair_value_mid": 23.64,
+        "fair_value_upside_pct": 18.8
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_high_iv",
+          "score": 60.3,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "condor",
+          "score": 45.3,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "SYF",
+      "profile": {
+        "price": 78.59,
+        "iv_rank": 14.406358699999998,
+        "iv_percentile": 10.862226099999999,
+        "hv_30": 23.1,
+        "rsi_14": 59.39,
+        "pct_off_52w_high": -11.167627444331407,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": "2026-07-21",
+        "days_to_earnings": -17,
+        "nearest_support": 77.41,
+        "nearest_resistance": 79.7,
+        "fair_value_mid": 74.9,
+        "fair_value_upside_pct": -4.7
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_low_iv",
+          "score": 60.0,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "CVX",
+      "profile": {
+        "price": 186.56,
+        "iv_rank": 45.678305699999996,
+        "iv_percentile": 56.431636100000006,
+        "hv_30": 29.13,
+        "rsi_14": 49.62,
+        "pct_off_52w_high": -11.645749467203412,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": "2026-07-31",
+        "days_to_earnings": -7,
+        "nearest_support": 185.39,
+        "nearest_resistance": 186.73,
+        "fair_value_mid": 158.57,
+        "fair_value_upside_pct": -15.0
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "double_cal",
+          "score": 59.8,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "pmcc",
+          "score": 56.1,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "cal_high_iv",
+          "score": 55.7,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "condor",
+          "score": 54.4,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "NFLX",
+      "profile": {
+        "price": 74.14,
+        "iv_rank": 26.345524799999996,
+        "iv_percentile": 27.715452000000003,
+        "hv_30": 24.38,
+        "rsi_14": 52.3,
+        "pct_off_52w_high": -41.31243568431885,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-07-16",
+        "days_to_earnings": -22,
+        "nearest_support": 73.76,
+        "nearest_resistance": 75.01,
+        "fair_value_mid": 88.89,
+        "fair_value_upside_pct": 19.9
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "pmcc",
+          "score": 59.8,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "cal_low_iv",
+          "score": 41.5,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "TTD",
+      "profile": {
+        "price": 13.8,
+        "iv_rank": 25.0349868,
+        "iv_percentile": 24.4831383,
+        "hv_30": 33.73,
+        "rsi_14": 28.42,
+        "pct_off_52w_high": -84.37676893467679,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-08-06",
+        "days_to_earnings": -1,
+        "nearest_support": 10.0,
+        "nearest_resistance": 15.0,
+        "fair_value_mid": 32.34,
+        "fair_value_upside_pct": 134.4
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "wheel",
+          "score": 59.6,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "QBTS",
+      "profile": {
+        "price": 20.76,
+        "iv_rank": 14.570113200000002,
+        "iv_percentile": 5.199226299999999,
+        "hv_30": null,
+        "rsi_14": 53.22,
+        "pct_off_52w_high": -53.64001786511835,
+        "price_above_ma50": true,
+        "price_above_ma200": false,
+        "earnings_date": "2026-08-06",
+        "days_to_earnings": -1,
+        "nearest_support": 20.49,
+        "nearest_resistance": 20.93,
+        "fair_value_mid": 23.58,
+        "fair_value_upside_pct": 13.6
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_low_iv",
+          "score": 58.9,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "MCD",
+      "profile": {
+        "price": 274.48,
+        "iv_rank": 45.030581,
+        "iv_percentile": 68.344327,
+        "hv_30": 15.44,
+        "rsi_14": 53.48,
+        "pct_off_52w_high": -19.521491819621176,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-08-04",
+        "days_to_earnings": -3,
+        "nearest_support": 271.92,
+        "nearest_resistance": 275.0,
+        "fair_value_mid": 291.27,
+        "fair_value_upside_pct": 6.1
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "condor",
+          "score": 58.4,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "cal_high_iv",
+          "score": 58.3,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "MKC",
+      "profile": {
+        "price": 52.96,
+        "iv_rank": 55.33834589999999,
+        "iv_percentile": 76.1995714,
+        "hv_30": 18.43,
+        "rsi_14": 58.2,
+        "pct_off_52w_high": -26.70910600608913,
+        "price_above_ma50": true,
+        "price_above_ma200": false,
+        "earnings_date": "2026-06-25",
+        "days_to_earnings": -43,
+        "nearest_support": 51.06,
+        "nearest_resistance": 53.63,
+        "fair_value_mid": 56.4,
+        "fair_value_upside_pct": 6.5
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "condor",
+          "score": 58.4,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "AMD",
+      "profile": {
+        "price": 483.36,
+        "iv_rank": 41.8726883,
+        "iv_percentile": 69.2283096,
+        "hv_30": 39.16,
+        "rsi_14": 46.89,
+        "pct_off_52w_high": -16.79261847790535,
+        "price_above_ma50": false,
+        "price_above_ma200": true,
+        "earnings_date": "2026-08-04",
+        "days_to_earnings": -3,
+        "nearest_support": 475.0,
+        "nearest_resistance": 487.19,
+        "fair_value_mid": 385.89,
+        "fair_value_upside_pct": -20.2
+      },
+      "analyst": {
+        "consensus": "Strong Buy",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "double_cal",
+          "score": 58.1,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "condor",
+          "score": 36.6,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "cal_high_iv",
+          "score": 32.4,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "GOOGL",
+      "profile": {
+        "price": 354.3,
+        "iv_rank": 20.1533406,
+        "iv_percentile": 11.4300678,
+        "hv_30": 21.14,
+        "rsi_14": 50.75,
+        "pct_off_52w_high": -12.001390889672642,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": "2026-07-22",
+        "days_to_earnings": -16,
+        "nearest_support": 353.9,
+        "nearest_resistance": 358.08,
+        "fair_value_mid": 323.7,
+        "fair_value_upside_pct": -8.6
+      },
+      "analyst": {
+        "consensus": "Strong Buy",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_low_iv",
+          "score": 57.7,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "GOOG",
+      "profile": {
+        "price": 353.47,
+        "iv_rank": 20.9178228,
+        "iv_percentile": 11.681807,
+        "hv_30": 20.91,
+        "rsi_14": 50.99,
+        "pct_off_52w_high": -11.419907778668803,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": "2026-07-22",
+        "days_to_earnings": -16,
+        "nearest_support": 352.35,
+        "nearest_resistance": 354.38,
+        "fair_value_mid": 322.55,
+        "fair_value_upside_pct": -8.7
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_low_iv",
+          "score": 57.3,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "SO",
+      "profile": {
+        "price": 92.69,
+        "iv_rank": 54.9204052,
+        "iv_percentile": 46.425512000000005,
+        "hv_30": 15.4,
+        "rsi_14": 40.27,
+        "pct_off_52w_high": -7.049739269955878,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-07-30",
+        "days_to_earnings": -8,
+        "nearest_support": 91.84,
+        "nearest_resistance": 93.19,
+        "fair_value_mid": 86.62,
+        "fair_value_upside_pct": -6.6
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "condor",
+          "score": 57.3,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "cal_high_iv",
+          "score": 39.9,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "SLB",
+      "profile": {
+        "price": 50.53,
+        "iv_rank": 18.969787,
+        "iv_percentile": 10.204744999999999,
+        "hv_30": 41.48,
+        "rsi_14": 54.42,
+        "pct_off_52w_high": -12.894328564040677,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": "2026-07-24",
+        "days_to_earnings": -14,
+        "nearest_support": 50.52,
+        "nearest_resistance": 52.03,
+        "fair_value_mid": 39.5,
+        "fair_value_upside_pct": -21.8
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_low_iv",
+          "score": 57.2,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "APH",
+      "profile": {
+        "price": 169.18,
+        "iv_rank": 43.9075007,
+        "iv_percentile": 46.5713812,
+        "hv_30": 34.21,
+        "rsi_14": 60.25,
+        "pct_off_52w_high": -4.049455535390193,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": "2026-07-29",
+        "days_to_earnings": -9,
+        "nearest_support": 168.75,
+        "nearest_resistance": 170.0,
+        "fair_value_mid": 146.11,
+        "fair_value_upside_pct": -13.6
+      },
+      "analyst": {
+        "consensus": "Strong Buy",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "pmcc",
+          "score": 56.6,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "cal_high_iv",
+          "score": 48.1,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "condor",
+          "score": 28.6,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "KDP",
+      "profile": {
+        "price": 30.01,
+        "iv_rank": 40.4951742,
+        "iv_percentile": 35.1822084,
+        "hv_30": 15.83,
+        "rsi_14": 42.26,
+        "pct_off_52w_high": -14.744318181818183,
+        "price_above_ma50": false,
+        "price_above_ma200": true,
+        "earnings_date": "2026-08-06",
+        "days_to_earnings": -1,
+        "nearest_support": 29.98,
+        "nearest_resistance": 30.54,
+        "fair_value_mid": 29.88,
+        "fair_value_upside_pct": -0.4
+      },
+      "analyst": {
+        "consensus": "Buy",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "double_cal",
+          "score": 56.4,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "condor",
+          "score": 44.4,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "cal_high_iv",
+          "score": 29.6,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "DVN",
+      "profile": {
+        "price": 42.98,
+        "iv_rank": 56.505101999999994,
+        "iv_percentile": 19.999809199999998,
+        "hv_30": 35.86,
+        "rsi_14": 46.82,
+        "pct_off_52w_high": -17.45726906087959,
+        "price_above_ma50": false,
+        "price_above_ma200": true,
+        "earnings_date": "2026-08-04",
+        "days_to_earnings": -3,
+        "nearest_support": 42.41,
+        "nearest_resistance": 43.49,
+        "fair_value_mid": 41.8,
+        "fair_value_upside_pct": -2.7
+      },
+      "analyst": {
+        "consensus": "Strong Buy",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "condor",
+          "score": 55.8,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "cal_high_iv",
+          "score": 48.1,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "CSGP",
+      "profile": {
+        "price": 30.24,
+        "iv_rank": 52.082995600000004,
+        "iv_percentile": 77.0327675,
+        "hv_30": 30.23,
+        "rsi_14": 53.06,
+        "pct_off_52w_high": -68.28193832599119,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-07-28",
+        "days_to_earnings": -10,
+        "nearest_support": 30.0,
+        "nearest_resistance": 30.85,
+        "fair_value_mid": 47.58,
+        "fair_value_upside_pct": 57.4
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "condor",
+          "score": 55.5,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "FCX",
+      "profile": {
+        "price": 69.62,
+        "iv_rank": 56.570018499999996,
+        "iv_percentile": 71.72329520000001,
+        "hv_30": 31.09,
+        "rsi_14": 63.27,
+        "pct_off_52w_high": -2.928053541550466,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": "2026-07-23",
+        "days_to_earnings": -15,
+        "nearest_support": 69.35,
+        "nearest_resistance": 70.0,
+        "fair_value_mid": 57.71,
+        "fair_value_upside_pct": -17.1
+      },
+      "analyst": {
+        "consensus": "Strong Buy",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_high_iv",
+          "score": 55.4,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "condor",
+          "score": 39.5,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "DIS",
+      "profile": {
+        "price": 104.91,
+        "iv_rank": 8.7163233,
+        "iv_percentile": 10.992402499999999,
+        "hv_30": 17.88,
+        "rsi_14": 66.2,
+        "pct_off_52w_high": -11.736496718828878,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": "2026-08-05",
+        "days_to_earnings": -2,
+        "nearest_support": 104.89,
+        "nearest_resistance": 107.11,
+        "fair_value_mid": 103.53,
+        "fair_value_upside_pct": -1.3
+      },
+      "analyst": {
+        "consensus": "Strong Buy",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_low_iv",
+          "score": 55.1,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "CMCSA",
+      "profile": {
+        "price": 25.36,
+        "iv_rank": 38.6918471,
+        "iv_percentile": 27.0482891,
+        "hv_30": 31.18,
+        "rsi_14": 61.18,
+        "pct_off_52w_high": -21.921182266009847,
+        "price_above_ma50": true,
+        "price_above_ma200": false,
+        "earnings_date": "2026-07-23",
+        "days_to_earnings": -15,
+        "nearest_support": 25.0,
+        "nearest_resistance": 25.83,
+        "fair_value_mid": 26.18,
+        "fair_value_upside_pct": 3.3
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "pmcc",
+          "score": 54.5,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "cal_high_iv",
+          "score": 42.0,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "IBIT",
+      "profile": {
+        "price": 36.8,
+        "iv_rank": 9.1189427,
+        "iv_percentile": 3.4181874,
+        "hv_30": null,
+        "rsi_14": 52.3,
+        "pct_off_52w_high": -48.37985692242952,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": null,
+        "days_to_earnings": null,
+        "nearest_support": 35.45,
+        "nearest_resistance": 37.13,
+        "fair_value_mid": 45.12,
+        "fair_value_upside_pct": 22.6
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_low_iv",
+          "score": 54.2,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "BLDR",
+      "profile": {
+        "price": 74.69,
+        "iv_rank": 48.5997873,
+        "iv_percentile": 51.0129723,
+        "hv_30": 32.54,
+        "rsi_14": 51.01,
+        "pct_off_52w_high": -49.943033308759475,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-07-30",
+        "days_to_earnings": -8,
+        "nearest_support": 72.97,
+        "nearest_resistance": 75.83,
+        "fair_value_mid": 93.79,
+        "fair_value_upside_pct": 25.6
+      },
+      "analyst": {
+        "consensus": "Hold",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "condor",
+          "score": 53.8,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "cal_high_iv",
+          "score": 50.4,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "KR",
+      "profile": {
+        "price": 56.73,
+        "iv_rank": 53.497164500000004,
+        "iv_percentile": 56.518869,
+        "hv_30": 24.9,
+        "rsi_14": 43.14,
+        "pct_off_52w_high": -24.96031746031746,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-09-10",
+        "days_to_earnings": 34,
+        "nearest_support": 55.94,
+        "nearest_resistance": 58.6,
+        "fair_value_mid": 63.32,
+        "fair_value_upside_pct": 11.6
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "condor",
+          "score": 53.8,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "cal_high_iv",
+          "score": 41.2,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "KMX",
+      "profile": {
+        "price": 58.18,
+        "iv_rank": 17.974263200000003,
+        "iv_percentile": 11.914841599999999,
+        "hv_30": 30.92,
+        "rsi_14": 59.08,
+        "pct_off_52w_high": -6.4178864404053435,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": "2026-09-24",
+        "days_to_earnings": 48,
+        "nearest_support": 55.73,
+        "nearest_resistance": 59.4,
+        "fair_value_mid": 48.93,
+        "fair_value_upside_pct": -15.9
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_low_iv",
+          "score": 52.8,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "NBIS",
+      "profile": {
+        "price": 187.97,
+        "iv_rank": 58.235148699999996,
+        "iv_percentile": 98.29865679999999,
+        "hv_30": null,
+        "rsi_14": 45.79,
+        "pct_off_52w_high": -34.43440650179637,
+        "price_above_ma50": false,
+        "price_above_ma200": true,
+        "earnings_date": "2026-08-12",
+        "days_to_earnings": 5,
+        "nearest_support": 183.0,
+        "nearest_resistance": 190.0,
+        "fair_value_mid": 172.31,
+        "fair_value_upside_pct": -8.3
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "condor",
+          "score": 52.4,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "ES",
+      "profile": {
+        "price": 72.33,
+        "iv_rank": 40.059221699999995,
+        "iv_percentile": 19.4481019,
+        "hv_30": 15.88,
+        "rsi_14": 45.98,
+        "pct_off_52w_high": -5.091195381183566,
+        "price_above_ma50": false,
+        "price_above_ma200": true,
+        "earnings_date": "2026-07-30",
+        "days_to_earnings": -8,
+        "nearest_support": 72.31,
+        "nearest_resistance": 72.36,
+        "fair_value_mid": 70.53,
+        "fair_value_upside_pct": -2.5
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "condor",
+          "score": 51.3,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "cal_high_iv",
+          "score": 37.1,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "LUV",
+      "profile": {
+        "price": 47.05,
+        "iv_rank": 21.2975098,
+        "iv_percentile": 18.2001177,
+        "hv_30": 29.73,
+        "rsi_14": 49.85,
+        "pct_off_52w_high": -14.142335766423358,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": "2026-07-22",
+        "days_to_earnings": -16,
+        "nearest_support": 46.37,
+        "nearest_resistance": 47.17,
+        "fair_value_mid": 42.97,
+        "fair_value_upside_pct": -8.7
+      },
+      "analyst": {
+        "consensus": "Hold",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_low_iv",
+          "score": 50.8,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "CLX",
+      "profile": {
+        "price": 105.15,
+        "iv_rank": 41.5966387,
+        "iv_percentile": 44.9532045,
+        "hv_30": 21.35,
+        "rsi_14": 64.35,
+        "pct_off_52w_high": -17.30890217049386,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": "2026-08-03",
+        "days_to_earnings": -4,
+        "nearest_support": 104.86,
+        "nearest_resistance": 108.53,
+        "fair_value_mid": 103.54,
+        "fair_value_upside_pct": -1.5
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "pmcc",
+          "score": 50.4,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "cal_high_iv",
+          "score": 41.7,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "condor",
+          "score": 28.0,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "AAPL",
+      "profile": {
+        "price": 313.33,
+        "iv_rank": 37.6375217,
+        "iv_percentile": 24.3035407,
+        "hv_30": 11.21,
+        "rsi_14": 47.58,
+        "pct_off_52w_high": -7.865796283227476,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": "2026-07-30",
+        "days_to_earnings": -8,
+        "nearest_support": 309.93,
+        "nearest_resistance": 317.4,
+        "fair_value_mid": 288.29,
+        "fair_value_upside_pct": -8.0
+      },
+      "analyst": {
+        "consensus": "Buy",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_high_iv",
+          "score": 49.8,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "EXC",
+      "profile": {
+        "price": 45.61,
+        "iv_rank": 55.2191235,
+        "iv_percentile": 45.2821575,
+        "hv_30": 12.66,
+        "rsi_14": 44.25,
+        "pct_off_52w_high": -9.306025054682838,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-07-30",
+        "days_to_earnings": -8,
+        "nearest_support": 45.45,
+        "nearest_resistance": 45.85,
+        "fair_value_mid": 47.1,
+        "fair_value_upside_pct": 3.3
+      },
+      "analyst": {
+        "consensus": "Hold",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_high_iv",
+          "score": 49.7,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "HPE",
+      "profile": {
+        "price": 53.22,
+        "iv_rank": 64.5360605,
+        "iv_percentile": 99.859271,
+        "hv_30": 28.17,
+        "rsi_14": 63.92,
+        "pct_off_52w_high": -5.218165627782724,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": "2026-09-02",
+        "days_to_earnings": 26,
+        "nearest_support": 51.08,
+        "nearest_resistance": 60.0,
+        "fair_value_mid": 37.6,
+        "fair_value_upside_pct": -29.3
+      },
+      "analyst": {
+        "consensus": "Buy",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "condor",
+          "score": 49.7,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "LYB",
+      "profile": {
+        "price": 59.59,
+        "iv_rank": 11.6241393,
+        "iv_percentile": 9.9242819,
+        "hv_30": 37.6,
+        "rsi_14": 48.96,
+        "pct_off_52w_high": -27.664481670308323,
+        "price_above_ma50": false,
+        "price_above_ma200": true,
+        "earnings_date": "2026-07-31",
+        "days_to_earnings": -7,
+        "nearest_support": 59.2,
+        "nearest_resistance": 60.0,
+        "fair_value_mid": 59.78,
+        "fair_value_upside_pct": 0.3
+      },
+      "analyst": {
+        "consensus": "Hold",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_low_iv",
+          "score": 48.7,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "CRWV",
+      "profile": {
+        "price": 90.67,
+        "iv_rank": 41.2946683,
+        "iv_percentile": 60.974705900000004,
+        "hv_30": null,
+        "rsi_14": 55.37,
+        "pct_off_52w_high": -39.0453781512605,
+        "price_above_ma50": true,
+        "price_above_ma200": false,
+        "earnings_date": "2026-08-11",
+        "days_to_earnings": 4,
+        "nearest_support": 90.0,
+        "nearest_resistance": 91.02,
+        "fair_value_mid": 96.55,
+        "fair_value_upside_pct": 6.5
+      },
+      "analyst": {
+        "consensus": "Buy",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_high_iv",
+          "score": 48.4,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "pmcc",
+          "score": 47.6,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "condor",
+          "score": 30.7,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "APA",
+      "profile": {
+        "price": 37.63,
+        "iv_rank": 41.906387099999996,
+        "iv_percentile": 15.610719000000001,
+        "hv_30": 35.22,
+        "rsi_14": 59.06,
+        "pct_off_52w_high": -15.228655102500557,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": "2026-08-05",
+        "days_to_earnings": -2,
+        "nearest_support": 37.56,
+        "nearest_resistance": 37.7,
+        "fair_value_mid": 38.97,
+        "fair_value_upside_pct": 3.6
+      },
+      "analyst": {
+        "consensus": "Hold",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_high_iv",
+          "score": 48.3,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "condor",
+          "score": 27.9,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "AVGO",
+      "profile": {
+        "price": 427.76,
+        "iv_rank": 40.6111111,
+        "iv_percentile": 57.0180319,
+        "hv_30": 51.34,
+        "rsi_14": 64.82,
+        "pct_off_52w_high": -11.17386880411986,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": "2026-09-03",
+        "days_to_earnings": 27,
+        "nearest_support": 425.0,
+        "nearest_resistance": 429.31,
+        "fair_value_mid": 378.74,
+        "fair_value_upside_pct": -11.5
+      },
+      "analyst": {
+        "consensus": "Strong Buy",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "pmcc",
+          "score": 47.7,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "cal_high_iv",
+          "score": 28.8,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "PAYX",
+      "profile": {
+        "price": 120.04,
+        "iv_rank": 49.737118800000005,
+        "iv_percentile": 61.115141799999996,
+        "hv_30": 20.52,
+        "rsi_14": 65.68,
+        "pct_off_52w_high": -14.979814434450025,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": "2026-09-29",
+        "days_to_earnings": 53,
+        "nearest_support": 118.42,
+        "nearest_resistance": 124.74,
+        "fair_value_mid": 109.96,
+        "fair_value_upside_pct": -8.4
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_high_iv",
+          "score": 47.2,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "pmcc",
+          "score": 36.8,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "BSX",
+      "profile": {
+        "price": 49.31,
+        "iv_rank": 47.171825,
+        "iv_percentile": 65.969627,
+        "hv_30": 20.24,
+        "rsi_14": 64.65,
+        "pct_off_52w_high": -54.401701498058074,
+        "price_above_ma50": true,
+        "price_above_ma200": false,
+        "earnings_date": "2026-07-29",
+        "days_to_earnings": -9,
+        "nearest_support": 47.96,
+        "nearest_resistance": 50.0,
+        "fair_value_mid": 65.82,
+        "fair_value_upside_pct": 33.5
+      },
+      "analyst": {
+        "consensus": "Buy",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_high_iv",
+          "score": 47.0,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "condor",
+          "score": 34.7,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "PDD",
+      "profile": {
+        "price": 91.76,
+        "iv_rank": 53.9365871,
+        "iv_percentile": 64.7176905,
+        "hv_30": 29.21,
+        "rsi_14": 66.26,
+        "pct_off_52w_high": -33.56982552667776,
+        "price_above_ma50": true,
+        "price_above_ma200": false,
+        "earnings_date": "2026-08-24",
+        "days_to_earnings": 17,
+        "nearest_support": 90.09,
+        "nearest_resistance": 95.37,
+        "fair_value_mid": 99.11,
+        "fair_value_upside_pct": 8.0
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_high_iv",
+          "score": 47.0,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "ORLY",
+      "profile": {
+        "price": 93.53,
+        "iv_rank": 38.279400200000005,
+        "iv_percentile": 17.967060800000002,
+        "hv_30": 17.6,
+        "rsi_14": 61.08,
+        "pct_off_52w_high": -13.253570766091627,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": "2026-07-29",
+        "days_to_earnings": -9,
+        "nearest_support": 93.51,
+        "nearest_resistance": 93.97,
+        "fair_value_mid": 92.89,
+        "fair_value_upside_pct": -0.7
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_high_iv",
+          "score": 46.7,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "D",
+      "profile": {
+        "price": 67.39,
+        "iv_rank": 50.9189189,
+        "iv_percentile": 18.833365699999998,
+        "hv_30": 20.09,
+        "rsi_14": 39.12,
+        "pct_off_52w_high": -5.9980471474403645,
+        "price_above_ma50": false,
+        "price_above_ma200": true,
+        "earnings_date": "2026-07-31",
+        "days_to_earnings": -7,
+        "nearest_support": 67.38,
+        "nearest_resistance": 67.47,
+        "fair_value_mid": 63.46,
+        "fair_value_upside_pct": -5.8
+      },
+      "analyst": {
+        "consensus": "Hold",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "condor",
+          "score": 46.6,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "AA",
+      "profile": {
+        "price": 50.17,
+        "iv_rank": 16.1979753,
+        "iv_percentile": 16.2447491,
+        "hv_30": 49.68,
+        "rsi_14": 55.0,
+        "pct_off_52w_high": -40.12411982336795,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-07-16",
+        "days_to_earnings": -22,
+        "nearest_support": 50.0,
+        "nearest_resistance": 50.87,
+        "fair_value_mid": 53.3,
+        "fair_value_upside_pct": 6.2
+      },
+      "analyst": {
+        "consensus": "Buy",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_low_iv",
+          "score": 46.4,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "O",
+      "profile": {
+        "price": 62.51,
+        "iv_rank": 42.571884999999995,
+        "iv_percentile": 30.002136,
+        "hv_30": 15.7,
+        "rsi_14": 40.76,
+        "pct_off_52w_high": -7.474837181764364,
+        "price_above_ma50": false,
+        "price_above_ma200": true,
+        "earnings_date": "2026-08-05",
+        "days_to_earnings": -2,
+        "nearest_support": 62.12,
+        "nearest_resistance": 62.83,
+        "fair_value_mid": 62.01,
+        "fair_value_upside_pct": -0.8
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "double_cal",
+          "score": 46.4,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "condor",
+          "score": 43.9,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "cal_high_iv",
+          "score": 28.5,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "INTC",
+      "profile": {
+        "price": 101.65,
+        "iv_rank": 49.0186615,
+        "iv_percentile": 82.3042217,
+        "hv_30": 44.4,
+        "rsi_14": 50.14,
+        "pct_off_52w_high": -27.877110827302392,
+        "price_above_ma50": false,
+        "price_above_ma200": true,
+        "earnings_date": "2026-07-23",
+        "days_to_earnings": -15,
+        "nearest_support": 100.0,
+        "nearest_resistance": 102.4,
+        "fair_value_mid": 82.12,
+        "fair_value_upside_pct": -19.2
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "double_cal",
+          "score": 46.1,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "CCL",
+      "profile": {
+        "price": 28.99,
+        "iv_rank": 19.7671476,
+        "iv_percentile": 17.7745317,
+        "hv_30": 45.33,
+        "rsi_14": 58.59,
+        "pct_off_52w_high": -14.710208884966175,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": "2026-06-23",
+        "days_to_earnings": -45,
+        "nearest_support": 28.4,
+        "nearest_resistance": 30.0,
+        "fair_value_mid": 28.28,
+        "fair_value_upside_pct": -2.5
+      },
+      "analyst": {
+        "consensus": "Strong Buy",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_low_iv",
+          "score": 45.7,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "GPN",
+      "profile": {
+        "price": 86.12,
+        "iv_rank": 36.5378262,
+        "iv_percentile": 22.515575199999997,
+        "hv_30": 22.91,
+        "rsi_14": 60.05,
+        "pct_off_52w_high": -4.321742028663482,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": "2026-08-05",
+        "days_to_earnings": -2,
+        "nearest_support": 83.45,
+        "nearest_resistance": 89.1,
+        "fair_value_mid": 76.93,
+        "fair_value_upside_pct": -10.7
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_high_iv",
+          "score": 45.2,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "EQT",
+      "profile": {
+        "price": 51.69,
+        "iv_rank": 17.7469826,
+        "iv_percentile": 1.6091189999999997,
+        "hv_30": 23.08,
+        "rsi_14": 48.37,
+        "pct_off_52w_high": -23.906963050198744,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-07-21",
+        "days_to_earnings": -17,
+        "nearest_support": 51.66,
+        "nearest_resistance": 52.72,
+        "fair_value_mid": 53.47,
+        "fair_value_upside_pct": 3.4
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_low_iv",
+          "score": 45.0,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "ARKK",
+      "profile": {
+        "price": 79.43,
+        "iv_rank": 32.7714093,
+        "iv_percentile": 16.1626988,
+        "hv_30": 26.77,
+        "rsi_14": 57.87,
+        "pct_off_52w_high": -14.157570517669937,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": null,
+        "days_to_earnings": null,
+        "nearest_support": 77.65,
+        "nearest_resistance": 80.0,
+        "fair_value_mid": 77.44,
+        "fair_value_upside_pct": -2.5
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_high_iv",
+          "score": 44.7,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "IREN",
+      "profile": {
+        "price": 41.23,
+        "iv_rank": 45.1367999,
+        "iv_percentile": 34.4062638,
+        "hv_30": null,
+        "rsi_14": 51.0,
+        "pct_off_52w_high": -46.0410940976312,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-08-27",
+        "days_to_earnings": 20,
+        "nearest_support": 40.0,
+        "nearest_resistance": 42.21,
+        "fair_value_mid": 45.38,
+        "fair_value_upside_pct": 10.1
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "condor",
+          "score": 43.9,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "cal_high_iv",
+          "score": 38.7,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "AMZN",
+      "profile": {
+        "price": 274.48,
+        "iv_rank": 18.9835575,
+        "iv_percentile": 21.5052911,
+        "hv_30": 23.31,
+        "rsi_14": 64.21,
+        "pct_off_52w_high": -3.3589183860291403,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": "2026-07-30",
+        "days_to_earnings": -8,
+        "nearest_support": 257.29,
+        "nearest_resistance": 274.75,
+        "fair_value_mid": 241.78,
+        "fair_value_upside_pct": -11.9
+      },
+      "analyst": {
+        "consensus": "Strong Buy",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_low_iv",
+          "score": 43.5,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "IBM",
+      "profile": {
+        "price": 237.28,
+        "iv_rank": 38.3375547,
+        "iv_percentile": 67.5540651,
+        "hv_30": 17.3,
+        "rsi_14": 49.83,
+        "pct_off_52w_high": -27.928803571970967,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-07-22",
+        "days_to_earnings": -16,
+        "nearest_support": 235.95,
+        "nearest_resistance": 238.25,
+        "fair_value_mid": 260.15,
+        "fair_value_upside_pct": 9.6
+      },
+      "analyst": {
+        "consensus": "Hold",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_high_iv",
+          "score": 43.1,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "FMC",
+      "profile": {
+        "price": 10.59,
+        "iv_rank": 50.7607524,
+        "iv_percentile": 40.024307,
+        "hv_30": 39.42,
+        "rsi_14": 45.01,
+        "pct_off_52w_high": -73.9739493733104,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-07-29",
+        "days_to_earnings": -9,
+        "nearest_support": 10.56,
+        "nearest_resistance": 10.72,
+        "fair_value_mid": 17.66,
+        "fair_value_upside_pct": 66.7
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "condor",
+          "score": 42.8,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "cal_high_iv",
+          "score": 37.2,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "IVZ",
+      "profile": {
+        "price": 31.58,
+        "iv_rank": 19.947309,
+        "iv_percentile": 9.9200357,
+        "hv_30": 30.59,
+        "rsi_14": 62.59,
+        "pct_off_52w_high": -1.34333020930959,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": "2026-07-28",
+        "days_to_earnings": -10,
+        "nearest_support": 31.02,
+        "nearest_resistance": 35.0,
+        "fair_value_mid": 26.95,
+        "fair_value_upside_pct": -14.7
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_low_iv",
+          "score": 42.8,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "ABT",
+      "profile": {
+        "price": 107.81,
+        "iv_rank": 45.2935223,
+        "iv_percentile": 55.060342399999996,
+        "hv_30": 17.79,
+        "rsi_14": 67.41,
+        "pct_off_52w_high": -21.087688478992828,
+        "price_above_ma50": true,
+        "price_above_ma200": false,
+        "earnings_date": "2026-07-16",
+        "days_to_earnings": -22,
+        "nearest_support": 105.27,
+        "nearest_resistance": 108.75,
+        "fair_value_mid": 106.35,
+        "fair_value_upside_pct": -1.4
+      },
+      "analyst": {
+        "consensus": "Buy",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "pmcc",
+          "score": 42.4,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "cal_high_iv",
+          "score": 40.1,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "MTCH",
+      "profile": {
+        "price": 37.26,
+        "iv_rank": 16.240875900000002,
+        "iv_percentile": 11.227102799999999,
+        "hv_30": 18.16,
+        "rsi_14": 44.63,
+        "pct_off_52w_high": -9.65082444228905,
+        "price_above_ma50": false,
+        "price_above_ma200": true,
+        "earnings_date": "2026-08-04",
+        "days_to_earnings": -3,
+        "nearest_support": 36.94,
+        "nearest_resistance": 37.56,
+        "fair_value_mid": 35.77,
+        "fair_value_upside_pct": -4.0
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_low_iv",
+          "score": 41.0,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "BA",
+      "profile": {
+        "price": 234.42,
+        "iv_rank": 28.6227008,
+        "iv_percentile": 23.0434086,
+        "hv_30": 23.99,
+        "rsi_14": 59.42,
+        "pct_off_52w_high": -7.031528851873892,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": "2026-07-28",
+        "days_to_earnings": -10,
+        "nearest_support": 231.87,
+        "nearest_resistance": 236.96,
+        "fair_value_mid": 219.26,
+        "fair_value_upside_pct": -6.5
+      },
+      "analyst": {
+        "consensus": "Strong Buy",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_low_iv",
+          "score": 40.6,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "DOW",
+      "profile": {
+        "price": 29.34,
+        "iv_rank": 12.3229462,
+        "iv_percentile": 10.9332846,
+        "hv_30": 36.1,
+        "rsi_14": 44.93,
+        "pct_off_52w_high": -29.925961308812987,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-07-23",
+        "days_to_earnings": -15,
+        "nearest_support": 29.21,
+        "nearest_resistance": 29.54,
+        "fair_value_mid": 30.37,
+        "fair_value_upside_pct": 3.5
+      },
+      "analyst": {
+        "consensus": "Hold",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_low_iv",
+          "score": 39.7,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "NVR",
+      "profile": {
+        "price": 6390.14,
+        "iv_rank": null,
+        "iv_percentile": 0.0,
+        "hv_30": null,
+        "rsi_14": 50.51,
+        "pct_off_52w_high": -25.200280931756993,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-07-22",
+        "days_to_earnings": -16,
+        "nearest_support": 6350.0,
+        "nearest_resistance": 6399.81,
+        "fair_value_mid": 6842.31,
+        "fair_value_upside_pct": 7.1
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "condor",
+          "score": 39.0,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "cal_low_iv",
+          "score": 22.5,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "MNST",
+      "profile": {
+        "price": 90.36,
+        "iv_rank": 44.953775,
+        "iv_percentile": 22.8462641,
+        "hv_30": 16.16,
+        "rsi_14": 37.03,
+        "pct_off_52w_high": -9.585751450870521,
+        "price_above_ma50": false,
+        "price_above_ma200": true,
+        "earnings_date": "2026-08-06",
+        "days_to_earnings": -1,
+        "nearest_support": 90.0,
+        "nearest_resistance": 90.96,
+        "fair_value_mid": 84.35,
+        "fair_value_upside_pct": -6.7
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "condor",
+          "score": 38.8,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "PEP",
+      "profile": {
+        "price": 139.02,
+        "iv_rank": 37.0466321,
+        "iv_percentile": 24.4952082,
+        "hv_30": 17.72,
+        "rsi_14": 48.49,
+        "pct_off_52w_high": -18.458560619391164,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-07-09",
+        "days_to_earnings": -29,
+        "nearest_support": 138.93,
+        "nearest_resistance": 139.26,
+        "fair_value_mid": 146.83,
+        "fair_value_upside_pct": 5.6
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_high_iv",
+          "score": 38.8,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "FISV",
+      "profile": {
+        "price": 52.41,
+        "iv_rank": 24.557728100000002,
+        "iv_percentile": 8.0249231,
+        "hv_30": 20.49,
+        "rsi_14": 49.14,
+        "pct_off_52w_high": -62.56428571428572,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-08-06",
+        "days_to_earnings": -1,
+        "nearest_support": 52.23,
+        "nearest_resistance": 52.54,
+        "fair_value_mid": 71.59,
+        "fair_value_upside_pct": 36.6
+      },
+      "analyst": {
+        "consensus": "Hold",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_low_iv",
+          "score": 38.6,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "FNMA",
+      "profile": {
+        "price": 6.05,
+        "iv_rank": null,
+        "iv_percentile": null,
+        "hv_30": null,
+        "rsi_14": 49.07,
+        "pct_off_52w_high": -60.483344219464406,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-07-29",
+        "days_to_earnings": -9,
+        "nearest_support": 6.0,
+        "nearest_resistance": 6.08,
+        "fair_value_mid": 8.21,
+        "fair_value_upside_pct": 35.8
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "condor",
+          "score": 38.1,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "cal_high_iv",
+          "score": 19.4,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "cal_low_iv",
+          "score": 19.4,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "HST",
+      "profile": {
+        "price": 23.29,
+        "iv_rank": 44.6992481,
+        "iv_percentile": 99.9184724,
+        "hv_30": 24.58,
+        "rsi_14": 39.64,
+        "pct_off_52w_high": -8.809710258418168,
+        "price_above_ma50": false,
+        "price_above_ma200": true,
+        "earnings_date": "2026-08-05",
+        "days_to_earnings": -2,
+        "nearest_support": 23.21,
+        "nearest_resistance": 23.61,
+        "fair_value_mid": 20.99,
+        "fair_value_upside_pct": -9.9
+      },
+      "analyst": {
+        "consensus": "Buy",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "condor",
+          "score": 37.0,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "LULU",
+      "profile": {
+        "price": 128.58,
+        "iv_rank": 48.5950773,
+        "iv_percentile": 70.42766,
+        "hv_30": 42.04,
+        "rsi_14": 66.26,
+        "pct_off_52w_high": -40.43913285158421,
+        "price_above_ma50": true,
+        "price_above_ma200": false,
+        "earnings_date": "2026-09-03",
+        "days_to_earnings": 27,
+        "nearest_support": 124.38,
+        "nearest_resistance": 130.0,
+        "fair_value_mid": 146.54,
+        "fair_value_upside_pct": 14.0
+      },
+      "analyst": {
+        "consensus": "Hold",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_high_iv",
+          "score": 37.0,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "FMCC",
+      "profile": {
+        "price": 5.48,
+        "iv_rank": null,
+        "iv_percentile": null,
+        "hv_30": null,
+        "rsi_14": 47.89,
+        "pct_off_52w_high": -61.272084805653705,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-07-30",
+        "days_to_earnings": -8,
+        "nearest_support": 5.45,
+        "nearest_resistance": 5.65,
+        "fair_value_mid": 7.48,
+        "fair_value_upside_pct": 36.5
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "condor",
+          "score": 35.8,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "cal_high_iv",
+          "score": 16.9,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "cal_low_iv",
+          "score": 16.9,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "HAL",
+      "profile": {
+        "price": 31.89,
+        "iv_rank": 23.5263158,
+        "iv_percentile": 79.77955370000001,
+        "hv_30": 40.56,
+        "rsi_14": 39.81,
+        "pct_off_52w_high": -25.802698929734753,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-07-21",
+        "days_to_earnings": -17,
+        "nearest_support": 30.98,
+        "nearest_resistance": 32.43,
+        "fair_value_mid": 29.43,
+        "fair_value_upside_pct": -7.7
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "wheel",
+          "score": 35.8,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "MCHP",
+      "profile": {
+        "price": 84.69,
+        "iv_rank": 48.940628600000004,
+        "iv_percentile": 84.8004294,
+        "hv_30": 46.97,
+        "rsi_14": 53.72,
+        "pct_off_52w_high": -17.71278663039254,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": "2026-08-06",
+        "days_to_earnings": -1,
+        "nearest_support": 83.92,
+        "nearest_resistance": 85.28,
+        "fair_value_mid": 78.33,
+        "fair_value_upside_pct": -7.5
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "double_cal",
+          "score": 34.6,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "DKNG",
+      "profile": {
+        "price": 24.03,
+        "iv_rank": 36.597582,
+        "iv_percentile": 42.6746129,
+        "hv_30": 32.97,
+        "rsi_14": 49.02,
+        "pct_off_52w_high": -50.17623885548414,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-08-06",
+        "days_to_earnings": -1,
+        "nearest_support": 23.64,
+        "nearest_resistance": 24.1,
+        "fair_value_mid": 29.29,
+        "fair_value_upside_pct": 21.9
+      },
+      "analyst": {
+        "consensus": "Buy",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_high_iv",
+          "score": 33.9,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "CLF",
+      "profile": {
+        "price": 12.26,
+        "iv_rank": 27.737028000000002,
+        "iv_percentile": 18.4189013,
+        "hv_30": 39.12,
+        "rsi_14": 60.38,
+        "pct_off_52w_high": -24.2274412855377,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": "2026-07-23",
+        "days_to_earnings": -15,
+        "nearest_support": 12.14,
+        "nearest_resistance": 12.47,
+        "fair_value_mid": 11.48,
+        "fair_value_upside_pct": -6.3
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_low_iv",
+          "score": 33.7,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "PG",
+      "profile": {
+        "price": 145.79,
+        "iv_rank": 24.1014799,
+        "iv_percentile": 27.4564702,
+        "hv_30": 19.49,
+        "rsi_14": 46.12,
+        "pct_off_52w_high": -12.805023923444974,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-07-29",
+        "days_to_earnings": -9,
+        "nearest_support": 144.66,
+        "nearest_resistance": 147.35,
+        "fair_value_mid": 149.45,
+        "fair_value_upside_pct": 2.5
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_low_iv",
+          "score": 33.2,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "LVS",
+      "profile": {
+        "price": 45.77,
+        "iv_rank": 20.0352734,
+        "iv_percentile": 18.647450600000003,
+        "hv_30": 15.09,
+        "rsi_14": 42.7,
+        "pct_off_52w_high": -34.13440782846452,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-07-22",
+        "days_to_earnings": -16,
+        "nearest_support": 45.62,
+        "nearest_resistance": 45.91,
+        "fair_value_mid": 52.94,
+        "fair_value_upside_pct": 15.7
+      },
+      "analyst": {
+        "consensus": "Buy",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_low_iv",
+          "score": 33.0,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "MO",
+      "profile": {
+        "price": 68.35,
+        "iv_rank": 46.478873199999995,
+        "iv_percentile": 59.86030289999999,
+        "hv_30": 12.63,
+        "rsi_14": 40.49,
+        "pct_off_52w_high": -8.769353977576092,
+        "price_above_ma50": false,
+        "price_above_ma200": true,
+        "earnings_date": "2026-07-30",
+        "days_to_earnings": -8,
+        "nearest_support": 68.16,
+        "nearest_resistance": 68.41,
+        "fair_value_mid": 67.47,
+        "fair_value_upside_pct": -1.3
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_high_iv",
+          "score": 32.9,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "PLD",
+      "profile": {
+        "price": 140.16,
+        "iv_rank": 21.0604929,
+        "iv_percentile": 19.1155713,
+        "hv_30": 13.73,
+        "rsi_14": 42.88,
+        "pct_off_52w_high": -6.597361055577773,
+        "price_above_ma50": false,
+        "price_above_ma200": true,
+        "earnings_date": "2026-07-16",
+        "days_to_earnings": -22,
+        "nearest_support": 140.0,
+        "nearest_resistance": 140.17,
+        "fair_value_mid": 134.64,
+        "fair_value_upside_pct": -3.9
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_low_iv",
+          "score": 32.6,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "NOW",
+      "profile": {
+        "price": 124.88,
+        "iv_rank": 46.5778764,
+        "iv_percentile": 72.0761349,
+        "hv_30": 44.55,
+        "rsi_14": 67.02,
+        "pct_off_52w_high": -35.03615460646101,
+        "price_above_ma50": true,
+        "price_above_ma200": false,
+        "earnings_date": "2026-07-22",
+        "days_to_earnings": -16,
+        "nearest_support": 120.0,
+        "nearest_resistance": 126.67,
+        "fair_value_mid": 125.29,
+        "fair_value_upside_pct": 0.3
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_high_iv",
+          "score": 32.5,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "ADM",
+      "profile": {
+        "price": 76.59,
+        "iv_rank": 43.915343899999996,
+        "iv_percentile": 28.5074151,
+        "hv_30": 22.22,
+        "rsi_14": 36.84,
+        "pct_off_52w_high": -12.288135593220328,
+        "price_above_ma50": false,
+        "price_above_ma200": true,
+        "earnings_date": "2026-08-04",
+        "days_to_earnings": -3,
+        "nearest_support": 75.28,
+        "nearest_resistance": 76.85,
+        "fair_value_mid": 73.42,
+        "fair_value_upside_pct": -4.1
+      },
+      "analyst": {
+        "consensus": "Hold",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "condor",
+          "score": 32.4,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "CMG",
+      "profile": {
+        "price": 32.79,
+        "iv_rank": 22.8343728,
+        "iv_percentile": 22.844949200000002,
+        "hv_30": 22.95,
+        "rsi_14": 45.33,
+        "pct_off_52w_high": -25.544959128065397,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-07-29",
+        "days_to_earnings": -9,
+        "nearest_support": 31.55,
+        "nearest_resistance": 33.19,
+        "fair_value_mid": 35.15,
+        "fair_value_upside_pct": 7.2
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_low_iv",
+          "score": 31.8,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "META",
+      "profile": {
+        "price": 592.1,
+        "iv_rank": 32.053973,
+        "iv_percentile": 43.8871041,
+        "hv_30": 21.28,
+        "rsi_14": 47.67,
+        "pct_off_52w_high": -25.050632911392402,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-07-29",
+        "days_to_earnings": -9,
+        "nearest_support": 581.25,
+        "nearest_resistance": 593.7,
+        "fair_value_mid": 636.25,
+        "fair_value_upside_pct": 7.5
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_high_iv",
+          "score": 30.8,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "OKE",
+      "profile": {
+        "price": 86.42,
+        "iv_rank": 16.7460858,
+        "iv_percentile": 8.3660018,
+        "hv_30": 23.63,
+        "rsi_14": 40.39,
+        "pct_off_52w_high": -9.260814783704319,
+        "price_above_ma50": false,
+        "price_above_ma200": true,
+        "earnings_date": "2026-08-03",
+        "days_to_earnings": -4,
+        "nearest_support": 85.45,
+        "nearest_resistance": 87.7,
+        "fair_value_mid": 76.39,
+        "fair_value_upside_pct": -11.6
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_low_iv",
+          "score": 29.1,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "OKLO",
+      "profile": {
+        "price": 48.42,
+        "iv_rank": 29.022210199999996,
+        "iv_percentile": 13.8592096,
+        "hv_30": null,
+        "rsi_14": 55.41,
+        "pct_off_52w_high": -72.1947858045251,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-08-07",
+        "days_to_earnings": 0,
+        "nearest_support": 47.51,
+        "nearest_resistance": 49.56,
+        "fair_value_mid": 74.6,
+        "fair_value_upside_pct": 54.1
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_low_iv",
+          "score": 28.3,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "COIN",
+      "profile": {
+        "price": 153.6,
+        "iv_rank": 37.5770457,
+        "iv_percentile": 41.0535231,
+        "hv_30": 45.7,
+        "rsi_14": 46.8,
+        "pct_off_52w_high": -60.337748857386316,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-07-30",
+        "days_to_earnings": -8,
+        "nearest_support": 153.46,
+        "nearest_resistance": 158.46,
+        "fair_value_mid": 214.14,
+        "fair_value_upside_pct": 39.4
+      },
+      "analyst": {
+        "consensus": "Buy",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_high_iv",
+          "score": 25.5,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "HOOD",
+      "profile": {
+        "price": 93.29,
+        "iv_rank": 41.0154525,
+        "iv_percentile": 18.6480954,
+        "hv_30": 53.49,
+        "rsi_14": 45.68,
+        "pct_off_52w_high": -38.81017971927063,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-07-29",
+        "days_to_earnings": -9,
+        "nearest_support": 93.06,
+        "nearest_resistance": 93.86,
+        "fair_value_mid": 102.05,
+        "fair_value_upside_pct": 9.4
+      },
+      "analyst": {
+        "consensus": "Strong Buy",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_high_iv",
+          "score": 23.7,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "NIO",
+      "profile": {
+        "price": 4.74,
+        "iv_rank": 37.5986323,
+        "iv_percentile": 29.6977336,
+        "hv_30": 47.22,
+        "rsi_14": 46.03,
+        "pct_off_52w_high": -39.92395437262357,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-09-01",
+        "days_to_earnings": 25,
+        "nearest_support": 4.73,
+        "nearest_resistance": 4.85,
+        "fair_value_mid": 5.54,
+        "fair_value_upside_pct": 16.8
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_high_iv",
+          "score": 23.3,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "GILT",
+      "profile": {
+        "price": 11.23,
+        "iv_rank": 39.7680577,
+        "iv_percentile": 68.3369783,
+        "hv_30": null,
+        "rsi_14": 43.82,
+        "pct_off_52w_high": -46.139088729016784,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-08-05",
+        "days_to_earnings": -2,
+        "nearest_support": 10.73,
+        "nearest_resistance": 11.28,
+        "fair_value_mid": 13.73,
+        "fair_value_upside_pct": 22.2
+      },
+      "analyst": {
+        "consensus": "Strong Buy",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_high_iv",
+          "score": 18.0,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "DRAM",
+      "profile": {
+        "price": 50.6,
+        "iv_rank": 39.2788276,
+        "iv_percentile": 19.9535822,
+        "hv_30": null,
+        "rsi_14": 43.52,
+        "pct_off_52w_high": -37.31417244796828,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": null,
+        "days_to_earnings": null,
+        "nearest_support": 50.0,
+        "nearest_resistance": 55.36,
+        "fair_value_mid": 54.24,
+        "fair_value_upside_pct": 7.2
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_high_iv",
+          "score": 16.8,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "NKE",
+      "profile": {
+        "price": 41.7,
+        "iv_rank": 29.2966361,
+        "iv_percentile": 27.309977699999997,
+        "hv_30": 49.84,
+        "rsi_14": 45.11,
+        "pct_off_52w_high": -47.32853353543008,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-09-29",
+        "days_to_earnings": 53,
+        "nearest_support": 41.35,
+        "nearest_resistance": 42.37,
+        "fair_value_mid": 52.91,
+        "fair_value_upside_pct": 26.9
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_low_iv",
+          "score": 12.0,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "FLNC",
+      "profile": {
+        "price": 13.2,
+        "iv_rank": 25.69187,
+        "iv_percentile": 24.0358727,
+        "hv_30": null,
+        "rsi_14": 40.68,
+        "pct_off_52w_high": -59.044368600682596,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-08-05",
+        "days_to_earnings": -2,
+        "nearest_support": 12.15,
+        "nearest_resistance": 13.23,
+        "fair_value_mid": 17.61,
+        "fair_value_upside_pct": 33.4
+      },
+      "analyst": {
+        "consensus": "Hold",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_low_iv",
+          "score": 7.2,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    }
+  ]
+}

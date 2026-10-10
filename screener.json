@@ -1,0 +1,5995 @@
+{
+  "tickers_scanned": 259,
+  "results": [
+    {
+      "ticker": "PLTR",
+      "profile": {
+        "price": 209.05,
+        "iv_rank": 44.635193099999995,
+        "iv_percentile": 51.607329899999996,
+        "hv_30": 27.72,
+        "rsi_14": 76.29,
+        "pct_off_52w_high": 0.0,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": "2026-11-02",
+        "days_to_earnings": 23,
+        "nearest_support": 207.52,
+        "nearest_resistance": 225.0,
+        "fair_value_mid": 161.27,
+        "fair_value_upside_pct": -22.9
+      },
+      "analyst": {
+        "consensus": "Buy",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "momo_csp",
+          "score": 93.0,
+          "reasons": [],
+          "notes": [
+            "Continuation (CONT) \u00b7 bull regime",
+            "MACD cross up 3d ago",
+            "golden cross 22d ago",
+            "IV30 60.7 vs HV30 27.7 (ratio 2.19)",
+            "ADX 33.1",
+            "ATR 6.67 (3.2%) \u2192 strike zone ~$199.05"
+          ]
+        }
+      ]
+    },
+    {
+      "ticker": "WFC",
+      "profile": {
+        "price": 83.55,
+        "iv_rank": 37.3146293,
+        "iv_percentile": 52.9979608,
+        "hv_30": 25.35,
+        "rsi_14": 49.78,
+        "pct_off_52w_high": -13.320883909119207,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-10-13",
+        "days_to_earnings": 3,
+        "nearest_support": 83.09,
+        "nearest_resistance": 83.59,
+        "fair_value_mid": 84.25,
+        "fair_value_upside_pct": 0.8
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "momo_csp",
+          "score": 89.3,
+          "reasons": [],
+          "notes": [
+            "Reversal (REVR) \u00b7 mixed regime",
+            "MACD cross up 0d ago",
+            "golden cross 42d ago",
+            "IV30 31.5 vs HV30 25.4 (ratio 1.24)",
+            "ADX 24.6",
+            "ATR 1.92 (2.3%) \u2192 strike zone ~$80.67"
+          ]
+        },
+        {
+          "strategy": "cal_high_iv",
+          "score": 39.1,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "ABBV",
+      "profile": {
+        "price": 276.47,
+        "iv_rank": 59.3791281,
+        "iv_percentile": 77.9246393,
+        "hv_30": 12.75,
+        "rsi_14": 71.23,
+        "pct_off_52w_high": 0.0,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": "2026-10-30",
+        "days_to_earnings": 20,
+        "nearest_support": 275.0,
+        "nearest_resistance": 300.0,
+        "fair_value_mid": 242.96,
+        "fair_value_upside_pct": -12.1
+      },
+      "analyst": {
+        "consensus": "Strong Buy",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "momo_csp",
+          "score": 89.0,
+          "reasons": [],
+          "notes": [
+            "Continuation (CONT) \u00b7 bull regime",
+            "MACD cross up 2d ago",
+            "golden cross 65d ago",
+            "IV30 31.8 vs HV30 12.8 (ratio 2.49)",
+            "ADX 22.3",
+            "ATR 5.88 (2.1%) \u2192 strike zone ~$267.65"
+          ]
+        }
+      ]
+    },
+    {
+      "ticker": "ABT",
+      "profile": {
+        "price": 99.6,
+        "iv_rank": 80.111336,
+        "iv_percentile": 95.6389833,
+        "hv_30": 20.43,
+        "rsi_14": 42.26,
+        "pct_off_52w_high": -25.28692521191209,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-10-21",
+        "days_to_earnings": 11,
+        "nearest_support": 98.14,
+        "nearest_resistance": 100.0,
+        "fair_value_mid": 105.31,
+        "fair_value_upside_pct": 5.7
+      },
+      "analyst": {
+        "consensus": "Buy",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "momo_csp",
+          "score": 89.0,
+          "reasons": [],
+          "notes": [
+            "Reversal (REVR) \u00b7 mixed regime",
+            "MACD cross up 0d ago",
+            "golden cross 17d ago",
+            "IV30 33.0 vs HV30 20.4 (ratio 1.61)",
+            "ADX 29.3",
+            "ATR 2.33 (2.3%) \u2192 strike zone ~$96.11"
+          ]
+        }
+      ]
+    },
+    {
+      "ticker": "BLDR",
+      "profile": {
+        "price": 52.85,
+        "iv_rank": 64.7997164,
+        "iv_percentile": 80.0472488,
+        "hv_30": 32.93,
+        "rsi_14": 28.95,
+        "pct_off_52w_high": -59.018300248138964,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-10-29",
+        "days_to_earnings": 19,
+        "nearest_support": 50.0,
+        "nearest_resistance": 54.75,
+        "fair_value_mid": 79.61,
+        "fair_value_upside_pct": 50.6
+      },
+      "analyst": {
+        "consensus": "Hold",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "momo_scall",
+          "score": 89.0,
+          "reasons": [],
+          "notes": [
+            "Breakdown (BRKD) \u00b7 bear regime",
+            "MACD cross down 2d ago",
+            "death cross 235d ago",
+            "IV30 62.6 vs HV30 32.9 (ratio 1.90)",
+            "ADX 28.6",
+            "ATR 2.46 (4.7%) \u2192 strike zone ~$56.54"
+          ]
+        }
+      ]
+    },
+    {
+      "ticker": "CSX",
+      "profile": {
+        "price": 47.26,
+        "iv_rank": 72.46376810000001,
+        "iv_percentile": 47.8540914,
+        "hv_30": 17.18,
+        "rsi_14": 44.82,
+        "pct_off_52w_high": -11.215479992485438,
+        "price_above_ma50": false,
+        "price_above_ma200": true,
+        "earnings_date": "2026-10-21",
+        "days_to_earnings": 11,
+        "nearest_support": 46.55,
+        "nearest_resistance": 47.5,
+        "fair_value_mid": 45.41,
+        "fair_value_upside_pct": -3.9
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "condor",
+          "score": 85.0,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "ZION",
+      "profile": {
+        "price": 62.49,
+        "iv_rank": 16.6289593,
+        "iv_percentile": 38.8616129,
+        "hv_30": 19.47,
+        "rsi_14": 36.09,
+        "pct_off_52w_high": -14.759241576865367,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-10-19",
+        "days_to_earnings": 9,
+        "nearest_support": 60.76,
+        "nearest_resistance": 63.39,
+        "fair_value_mid": 63.3,
+        "fair_value_upside_pct": 1.3
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "momo_csp",
+          "score": 85.0,
+          "reasons": [],
+          "notes": [
+            "Reversal (REVR) \u00b7 mixed regime",
+            "MACD cross up 1d ago",
+            "IV30 34.5 vs HV30 19.5 (ratio 1.77)",
+            "ADX 33.7",
+            "ATR 1.31 (2.1%) \u2192 strike zone ~$60.52"
+          ]
+        }
+      ]
+    },
+    {
+      "ticker": "CLF",
+      "profile": {
+        "price": 12.98,
+        "iv_rank": 53.1105678,
+        "iv_percentile": 53.7633782,
+        "hv_30": 59.67,
+        "rsi_14": 60.85,
+        "pct_off_52w_high": -19.777503090234855,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": "2026-10-19",
+        "days_to_earnings": 9,
+        "nearest_support": 12.88,
+        "nearest_resistance": 13.11,
+        "fair_value_mid": 11.65,
+        "fair_value_upside_pct": -10.2
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "momo_csp",
+          "score": 84.5,
+          "reasons": [],
+          "notes": [
+            "Continuation (CONT) \u00b7 bull regime",
+            "MACD cross up 1d ago",
+            "golden cross 15d ago",
+            "IV30 72.7 vs HV30 59.7 (ratio 1.22)",
+            "ADX 18.6",
+            "ATR 0.65 (5.0%) \u2192 strike zone ~$12.00"
+          ]
+        }
+      ]
+    },
+    {
+      "ticker": "WMB",
+      "profile": {
+        "price": 72.67,
+        "iv_rank": 65.98951509999999,
+        "iv_percentile": 67.8166281,
+        "hv_30": 22.32,
+        "rsi_14": 55.61,
+        "pct_off_52w_high": -8.476070528967258,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": "2026-11-02",
+        "days_to_earnings": 23,
+        "nearest_support": 72.22,
+        "nearest_resistance": 72.95,
+        "fair_value_mid": 62.3,
+        "fair_value_upside_pct": -14.3
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_high_iv",
+          "score": 84.4,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "condor",
+          "score": 72.6,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "momo_csp",
+          "score": 63.1,
+          "reasons": [],
+          "notes": [
+            "Reversal (REVR) \u00b7 bull regime",
+            "MACD cross up 3d ago",
+            "IV30 29.8 vs HV30 22.3 (ratio 1.34)",
+            "ADX 15.4",
+            "ATR 1.79 (2.5%) \u2192 strike zone ~$69.98"
+          ]
+        }
+      ]
+    },
+    {
+      "ticker": "FITB",
+      "profile": {
+        "price": 50.64,
+        "iv_rank": 22.051886800000002,
+        "iv_percentile": 33.1425314,
+        "hv_30": 21.16,
+        "rsi_14": 36.98,
+        "pct_off_52w_high": -14.7043961596766,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-10-19",
+        "days_to_earnings": 9,
+        "nearest_support": 50.48,
+        "nearest_resistance": 51.25,
+        "fair_value_mid": 51.54,
+        "fair_value_upside_pct": 1.8
+      },
+      "analyst": {
+        "consensus": "Buy",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "momo_csp",
+          "score": 82.9,
+          "reasons": [],
+          "notes": [
+            "Reversal (REVR) \u00b7 mixed regime",
+            "MACD cross up 0d ago",
+            "IV30 29.5 vs HV30 21.2 (ratio 1.40)",
+            "ADX 36.2",
+            "ATR 1.00 (2.0%) \u2192 strike zone ~$49.14"
+          ]
+        }
+      ]
+    },
+    {
+      "ticker": "KO",
+      "profile": {
+        "price": 88.05,
+        "iv_rank": 58.086053400000004,
+        "iv_percentile": 65.3014313,
+        "hv_30": 13.45,
+        "rsi_14": 54.24,
+        "pct_off_52w_high": -4.283074247200781,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": "2026-10-27",
+        "days_to_earnings": 17,
+        "nearest_support": 87.41,
+        "nearest_resistance": 89.86,
+        "fair_value_mid": 82.19,
+        "fair_value_upside_pct": -6.7
+      },
+      "analyst": {
+        "consensus": "Buy",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_high_iv",
+          "score": 82.7,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "momo_csp",
+          "score": 80.0,
+          "reasons": [],
+          "notes": [
+            "Reversal (REVR) \u00b7 bull regime",
+            "MACD cross up 0d ago",
+            "golden cross 203d ago",
+            "IV30 21.9 vs HV30 13.4 (ratio 1.63)",
+            "ADX 13.4",
+            "ATR 1.29 (1.5%) \u2192 strike zone ~$86.11"
+          ]
+        }
+      ]
+    },
+    {
+      "ticker": "DVN",
+      "profile": {
+        "price": 48.26,
+        "iv_rank": 67.9837067,
+        "iv_percentile": 42.0960671,
+        "hv_30": 34.67,
+        "rsi_14": 52.56,
+        "pct_off_52w_high": -7.317073170731711,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": "2026-11-05",
+        "days_to_earnings": 26,
+        "nearest_support": 47.45,
+        "nearest_resistance": 49.63,
+        "fair_value_mid": 46.77,
+        "fair_value_upside_pct": -3.1
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_high_iv",
+          "score": 82.3,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "condor",
+          "score": 71.1,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "momo_csp",
+          "score": 62.9,
+          "reasons": [],
+          "notes": [
+            "Continuation (CONT) \u00b7 bull regime",
+            "MACD cross up 1d ago",
+            "IV30 38.1 vs HV30 34.7 (ratio 1.10)",
+            "ADX 12.2",
+            "ATR 1.42 (3.0%) \u2192 strike zone ~$46.13"
+          ]
+        }
+      ]
+    },
+    {
+      "ticker": "MET",
+      "profile": {
+        "price": 98.33,
+        "iv_rank": 56.3710499,
+        "iv_percentile": 88.258841,
+        "hv_30": 18.22,
+        "rsi_14": 57.69,
+        "pct_off_52w_high": -1.6208104052026058,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": "2026-11-04",
+        "days_to_earnings": 25,
+        "nearest_support": 98.16,
+        "nearest_resistance": 98.52,
+        "fair_value_mid": 88.62,
+        "fair_value_upside_pct": -9.9
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "momo_csp",
+          "score": 81.0,
+          "reasons": [],
+          "notes": [
+            "Continuation (CONT) \u00b7 bull regime",
+            "MACD cross up 1d ago",
+            "golden cross 87d ago",
+            "IV30 35.4 vs HV30 18.2 (ratio 1.94)",
+            "ADX 13.8",
+            "ATR 2.01 (2.0%) \u2192 strike zone ~$95.31"
+          ]
+        },
+        {
+          "strategy": "condor",
+          "score": 60.8,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "MO",
+      "profile": {
+        "price": 71.68,
+        "iv_rank": 63.8089406,
+        "iv_percentile": 85.5241843,
+        "hv_30": 15.93,
+        "rsi_14": 65.38,
+        "pct_off_52w_high": -4.324612920448471,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": "2026-10-29",
+        "days_to_earnings": 19,
+        "nearest_support": 71.07,
+        "nearest_resistance": 74.19,
+        "fair_value_mid": 67.22,
+        "fair_value_upside_pct": -6.2
+      },
+      "analyst": {
+        "consensus": "Hold",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "momo_csp",
+          "score": 81.0,
+          "reasons": [],
+          "notes": [
+            "Continuation (CONT) \u00b7 bull regime",
+            "MACD cross up 1d ago",
+            "golden cross 157d ago",
+            "IV30 27.2 vs HV30 15.9 (ratio 1.71)",
+            "ADX 11.1",
+            "ATR 1.38 (1.9%) \u2192 strike zone ~$69.61"
+          ]
+        }
+      ]
+    },
+    {
+      "ticker": "SYF",
+      "profile": {
+        "price": 72.8,
+        "iv_rank": 49.1646778,
+        "iv_percentile": 35.232885200000005,
+        "hv_30": 23.19,
+        "rsi_14": 45.43,
+        "pct_off_52w_high": -17.712218831242232,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-10-20",
+        "days_to_earnings": 10,
+        "nearest_support": 71.86,
+        "nearest_resistance": 73.4,
+        "fair_value_mid": 74.7,
+        "fair_value_upside_pct": 2.6
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "momo_csp",
+          "score": 81.0,
+          "reasons": [],
+          "notes": [
+            "Reversal (REVR) \u00b7 mixed regime",
+            "MACD cross up 2d ago",
+            "golden cross 41d ago",
+            "IV30 35.3 vs HV30 23.2 (ratio 1.52)",
+            "ADX 25.3",
+            "ATR 1.76 (2.4%) \u2192 strike zone ~$70.16"
+          ]
+        },
+        {
+          "strategy": "condor",
+          "score": 54.8,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "cal_high_iv",
+          "score": 42.4,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "NOW",
+      "profile": {
+        "price": 140.86,
+        "iv_rank": 56.5297817,
+        "iv_percentile": 75.8079443,
+        "hv_30": 37.78,
+        "rsi_14": 57.64,
+        "pct_off_52w_high": -25.573285427454284,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": "2026-10-28",
+        "days_to_earnings": 18,
+        "nearest_support": 140.0,
+        "nearest_resistance": 141.45,
+        "fair_value_mid": 130.3,
+        "fair_value_upside_pct": -7.5
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "momo_csp",
+          "score": 79.0,
+          "reasons": [],
+          "notes": [
+            "Continuation (CONT) \u00b7 bull regime",
+            "MACD cross up 0d ago",
+            "golden cross 22d ago",
+            "IV30 60.8 vs HV30 37.8 (ratio 1.61)",
+            "ADX 17.5",
+            "ATR 5.51 (3.9%) \u2192 strike zone ~$132.60"
+          ]
+        },
+        {
+          "strategy": "condor",
+          "score": 45.4,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "JNJ",
+      "profile": {
+        "price": 261.44,
+        "iv_rank": 62.46478869999999,
+        "iv_percentile": 80.733762,
+        "hv_30": 15.3,
+        "rsi_14": 46.71,
+        "pct_off_52w_high": -6.102072334159397,
+        "price_above_ma50": false,
+        "price_above_ma200": true,
+        "earnings_date": "2026-10-13",
+        "days_to_earnings": 3,
+        "nearest_support": 260.68,
+        "nearest_resistance": 262.25,
+        "fair_value_mid": 244.37,
+        "fair_value_upside_pct": -6.5
+      },
+      "analyst": {
+        "consensus": "Buy",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "condor",
+          "score": 78.9,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "FCX",
+      "profile": {
+        "price": 73.69,
+        "iv_rank": 41.5484269,
+        "iv_percentile": 32.975754699999996,
+        "hv_30": 36.04,
+        "rsi_14": 56.14,
+        "pct_off_52w_high": -7.7837567263171055,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": "2026-10-27",
+        "days_to_earnings": 17,
+        "nearest_support": 72.19,
+        "nearest_resistance": 74.68,
+        "fair_value_mid": 64.12,
+        "fair_value_upside_pct": -13.0
+      },
+      "analyst": {
+        "consensus": "Strong Buy",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "momo_csp",
+          "score": 78.7,
+          "reasons": [],
+          "notes": [
+            "Continuation (CONT) \u00b7 bull regime",
+            "MACD cross up 0d ago",
+            "IV30 46.5 vs HV30 36.0 (ratio 1.29)",
+            "ADX 10.2",
+            "ATR 2.65 (3.6%) \u2192 strike zone ~$69.72"
+          ]
+        },
+        {
+          "strategy": "pmcc",
+          "score": 64.8,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "cal_high_iv",
+          "score": 53.9,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "double_cal",
+          "score": 51.0,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "condor",
+          "score": 32.7,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "CVX",
+      "profile": {
+        "price": 211.98,
+        "iv_rank": 57.584430499999996,
+        "iv_percentile": 66.5385775,
+        "hv_30": 22.86,
+        "rsi_14": 59.65,
+        "pct_off_52w_high": -2.658768425402957,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": "2026-10-30",
+        "days_to_earnings": 20,
+        "nearest_support": 208.98,
+        "nearest_resistance": 216.25,
+        "fair_value_mid": 169.73,
+        "fair_value_upside_pct": -19.9
+      },
+      "analyst": {
+        "consensus": "Strong Buy",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "momo_csp",
+          "score": 78.3,
+          "reasons": [],
+          "notes": [
+            "Continuation (CONT) \u00b7 bull regime",
+            "MACD cross up 0d ago",
+            "IV30 29.2 vs HV30 22.9 (ratio 1.28)",
+            "ADX 14.2",
+            "ATR 4.34 (2.0%) \u2192 strike zone ~$205.47"
+          ]
+        },
+        {
+          "strategy": "cal_high_iv",
+          "score": 67.2,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "condor",
+          "score": 54.5,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "GM",
+      "profile": {
+        "price": 82.73,
+        "iv_rank": 59.760274,
+        "iv_percentile": 79.7113416,
+        "hv_30": 39.19,
+        "rsi_14": 50.5,
+        "pct_off_52w_high": -8.383167220376516,
+        "price_above_ma50": false,
+        "price_above_ma200": true,
+        "earnings_date": "2026-10-20",
+        "days_to_earnings": 10,
+        "nearest_support": 81.4,
+        "nearest_resistance": 83.03,
+        "fair_value_mid": 78.35,
+        "fair_value_upside_pct": -5.3
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "momo_csp",
+          "score": 77.5,
+          "reasons": [],
+          "notes": [
+            "Reversal (REVR) \u00b7 bull regime",
+            "MACD cross up 1d ago",
+            "IV30 41.2 vs HV30 39.2 (ratio 1.05)",
+            "ADX 24.8",
+            "ATR 2.36 (2.9%) \u2192 strike zone ~$79.18"
+          ]
+        },
+        {
+          "strategy": "condor",
+          "score": 62.2,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "TSM",
+      "profile": {
+        "price": 453.31,
+        "iv_rank": 5.6245687,
+        "iv_percentile": 3.0976209,
+        "hv_30": 29.64,
+        "rsi_14": 52.44,
+        "pct_off_52w_high": -6.687937422807741,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": "2026-10-15",
+        "days_to_earnings": 5,
+        "nearest_support": 450.0,
+        "nearest_resistance": 475.0,
+        "fair_value_mid": 399.91,
+        "fair_value_upside_pct": -11.8
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_low_iv",
+          "score": 77.3,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "MDT",
+      "profile": {
+        "price": 88.48,
+        "iv_rank": 63.509061,
+        "iv_percentile": 90.7228178,
+        "hv_30": 22.77,
+        "rsi_14": 48.29,
+        "pct_off_52w_high": -16.01328903654484,
+        "price_above_ma50": false,
+        "price_above_ma200": true,
+        "earnings_date": "2026-11-17",
+        "days_to_earnings": 38,
+        "nearest_support": 88.07,
+        "nearest_resistance": 88.67,
+        "fair_value_mid": 88.59,
+        "fair_value_upside_pct": 0.1
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "condor",
+          "score": 77.2,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "CVS",
+      "profile": {
+        "price": 86.16,
+        "iv_rank": 70.7542579,
+        "iv_percentile": 95.3788482,
+        "hv_30": 25.44,
+        "rsi_14": 38.56,
+        "pct_off_52w_high": -22.097649186256778,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-11-04",
+        "days_to_earnings": 25,
+        "nearest_support": 84.58,
+        "nearest_resistance": 88.65,
+        "fair_value_mid": 89.91,
+        "fair_value_upside_pct": 4.4
+      },
+      "analyst": {
+        "consensus": "Strong Buy",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "momo_csp",
+          "score": 77.0,
+          "reasons": [],
+          "notes": [
+            "Reversal (REVR) \u00b7 mixed regime",
+            "MACD cross up 3d ago",
+            "IV30 41.5 vs HV30 25.4 (ratio 1.63)",
+            "ADX 33.4",
+            "ATR 2.22 (2.6%) \u2192 strike zone ~$82.83"
+          ]
+        },
+        {
+          "strategy": "condor",
+          "score": 63.9,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "KVUE",
+      "profile": {
+        "price": 17.7,
+        "iv_rank": 11.7052697,
+        "iv_percentile": 33.7012496,
+        "hv_30": 15.27,
+        "rsi_14": 45.03,
+        "pct_off_52w_high": -10.741301059001508,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-11-02",
+        "days_to_earnings": 23,
+        "nearest_support": 17.55,
+        "nearest_resistance": 17.93,
+        "fair_value_mid": 17.96,
+        "fair_value_upside_pct": 1.5
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "momo_csp",
+          "score": 77.0,
+          "reasons": [],
+          "notes": [
+            "Reversal (REVR) \u00b7 mixed regime",
+            "MACD cross up 3d ago",
+            "golden cross 85d ago",
+            "IV30 28.5 vs HV30 15.3 (ratio 1.86)",
+            "ADX 21.8",
+            "ATR 0.30 (1.7%) \u2192 strike zone ~$17.26"
+          ]
+        },
+        {
+          "strategy": "cal_low_iv",
+          "score": 49.1,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "PG",
+      "profile": {
+        "price": 151.23,
+        "iv_rank": 44.1414886,
+        "iv_percentile": 78.875221,
+        "hv_30": 16.58,
+        "rsi_14": 62.13,
+        "pct_off_52w_high": -9.551435406698564,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": "2026-10-22",
+        "days_to_earnings": 12,
+        "nearest_support": 150.0,
+        "nearest_resistance": 151.96,
+        "fair_value_mid": 148.93,
+        "fair_value_upside_pct": -1.5
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "momo_csp",
+          "score": 77.0,
+          "reasons": [],
+          "notes": [
+            "Continuation (CONT) \u00b7 mixed regime",
+            "MACD cross up 2d ago",
+            "death cross 34d ago",
+            "IV30 24.9 vs HV30 16.6 (ratio 1.50)",
+            "ADX 12.1",
+            "ATR 2.42 (1.6%) \u2192 strike zone ~$147.60"
+          ]
+        },
+        {
+          "strategy": "condor",
+          "score": 39.2,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "PFE",
+      "profile": {
+        "price": 28.28,
+        "iv_rank": 55.618374599999996,
+        "iv_percentile": 60.4267553,
+        "hv_30": 13.71,
+        "rsi_14": 55.82,
+        "pct_off_52w_high": -2.5499655410061974,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": "2026-11-03",
+        "days_to_earnings": 24,
+        "nearest_support": 27.91,
+        "nearest_resistance": 28.4,
+        "fair_value_mid": 26.7,
+        "fair_value_upside_pct": -5.6
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_high_iv",
+          "score": 76.7,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "OKE",
+      "profile": {
+        "price": 89.8,
+        "iv_rank": 37.8488768,
+        "iv_percentile": 44.1193322,
+        "hv_30": 23.84,
+        "rsi_14": 47.32,
+        "pct_off_52w_high": -7.906881345503034,
+        "price_above_ma50": false,
+        "price_above_ma200": true,
+        "earnings_date": "2026-10-27",
+        "days_to_earnings": 17,
+        "nearest_support": 89.0,
+        "nearest_resistance": 90.0,
+        "fair_value_mid": 81.71,
+        "fair_value_upside_pct": -9.0
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "double_cal",
+          "score": 75.7,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "momo_csp",
+          "score": 67.1,
+          "reasons": [],
+          "notes": [
+            "Reversal (REVR) \u00b7 bull regime",
+            "MACD cross up 0d ago",
+            "golden cross 163d ago",
+            "IV30 32.6 vs HV30 23.8 (ratio 1.37)",
+            "ADX 17.5",
+            "ATR 2.41 (2.7%) \u2192 strike zone ~$86.19"
+          ]
+        },
+        {
+          "strategy": "cal_high_iv",
+          "score": 34.9,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "APA",
+      "profile": {
+        "price": 45.88,
+        "iv_rank": 47.8790834,
+        "iv_percentile": 26.133309599999997,
+        "hv_30": 40.25,
+        "rsi_14": 61.69,
+        "pct_off_52w_high": -3.227167264290222,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": "2026-11-04",
+        "days_to_earnings": 25,
+        "nearest_support": 45.35,
+        "nearest_resistance": 47.44,
+        "fair_value_mid": 44.78,
+        "fair_value_upside_pct": -2.4
+      },
+      "analyst": {
+        "consensus": "Hold",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "momo_csp",
+          "score": 75.3,
+          "reasons": [],
+          "notes": [
+            "Continuation (CONT) \u00b7 bull regime",
+            "MACD cross up 1d ago",
+            "IV30 47.4 vs HV30 40.2 (ratio 1.18)",
+            "ADX 19.5",
+            "ATR 1.57 (3.4%) \u2192 strike zone ~$43.52"
+          ]
+        },
+        {
+          "strategy": "cal_high_iv",
+          "score": 46.8,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "pmcc",
+          "score": 46.0,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "TOST",
+      "profile": {
+        "price": 31.31,
+        "iv_rank": 47.3070646,
+        "iv_percentile": 59.346681000000004,
+        "hv_30": 33.51,
+        "rsi_14": 51.97,
+        "pct_off_52w_high": -19.75909789851359,
+        "price_above_ma50": false,
+        "price_above_ma200": true,
+        "earnings_date": "2026-11-03",
+        "days_to_earnings": 24,
+        "nearest_support": 31.2,
+        "nearest_resistance": 31.33,
+        "fair_value_mid": 31.08,
+        "fair_value_upside_pct": -0.7
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "momo_csp",
+          "score": 75.0,
+          "reasons": [],
+          "notes": [
+            "Reversal (REVR) \u00b7 bull regime",
+            "MACD cross up 3d ago",
+            "golden cross 34d ago",
+            "IV30 58.5 vs HV30 33.5 (ratio 1.75)",
+            "ADX 18.7",
+            "ATR 1.05 (3.3%) \u2192 strike zone ~$29.74"
+          ]
+        },
+        {
+          "strategy": "cal_high_iv",
+          "score": 50.8,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "condor",
+          "score": 49.6,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "double_cal",
+          "score": 49.1,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "BRK.B",
+      "profile": {
+        "price": 515.62,
+        "iv_rank": 24.168126100000002,
+        "iv_percentile": 18.9673074,
+        "hv_30": 11.99,
+        "rsi_14": 62.7,
+        "pct_off_52w_high": -2.606626119149249,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": "2026-11-06",
+        "days_to_earnings": 27,
+        "nearest_support": 512.58,
+        "nearest_resistance": 519.05,
+        "fair_value_mid": 498.68,
+        "fair_value_upside_pct": -3.3
+      },
+      "analyst": {
+        "consensus": "Sell",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "momo_csp",
+          "score": 74.3,
+          "reasons": [],
+          "notes": [
+            "Continuation (CONT) \u00b7 bull regime",
+            "MACD cross up 1d ago",
+            "golden cross 51d ago",
+            "IV30 15.3 vs HV30 12.0 (ratio 1.28)",
+            "ADX 12.1",
+            "ATR 5.65 (1.1%) \u2192 strike zone ~$507.15"
+          ]
+        },
+        {
+          "strategy": "cal_low_iv",
+          "score": 44.3,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "ADBE",
+      "profile": {
+        "price": 242.27,
+        "iv_rank": 40.4608523,
+        "iv_percentile": 38.3552903,
+        "hv_30": 36.68,
+        "rsi_14": 46.78,
+        "pct_off_52w_high": -32.68594926509405,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-09-10",
+        "days_to_earnings": -30,
+        "nearest_support": 241.51,
+        "nearest_resistance": 244.28,
+        "fair_value_mid": 264.84,
+        "fair_value_upside_pct": 9.3
+      },
+      "analyst": {
+        "consensus": "Hold",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "momo_csp",
+          "score": 73.3,
+          "reasons": [],
+          "notes": [
+            "Reversal (REVR) \u00b7 mixed regime",
+            "MACD cross up 1d ago",
+            "golden cross 3d ago",
+            "IV30 40.7 vs HV30 36.7 (ratio 1.11)",
+            "ADX 20.4",
+            "ATR 8.58 (3.5%) \u2192 strike zone ~$229.40"
+          ]
+        },
+        {
+          "strategy": "condor",
+          "score": 36.7,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "cal_high_iv",
+          "score": 31.7,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "RF",
+      "profile": {
+        "price": 27.03,
+        "iv_rank": 40.4248573,
+        "iv_percentile": 12.6807207,
+        "hv_30": 19.61,
+        "rsi_14": 32.7,
+        "pct_off_52w_high": -16.574074074074066,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-10-16",
+        "days_to_earnings": 6,
+        "nearest_support": 26.81,
+        "nearest_resistance": 27.12,
+        "fair_value_mid": 28.39,
+        "fair_value_upside_pct": 5.0
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "momo_csp",
+          "score": 72.8,
+          "reasons": [],
+          "notes": [
+            "Reversal (REVR) \u00b7 mixed regime",
+            "MACD cross up 1d ago",
+            "IV30 26.7 vs HV30 19.6 (ratio 1.36)",
+            "ADX 42.3",
+            "ATR 0.54 (2.0%) \u2192 strike zone ~$26.23"
+          ]
+        }
+      ]
+    },
+    {
+      "ticker": "TSCO",
+      "profile": {
+        "price": 33.7,
+        "iv_rank": 73.1386477,
+        "iv_percentile": 88.5015107,
+        "hv_30": 28.54,
+        "rsi_14": 57.38,
+        "pct_off_52w_high": -40.21642717757672,
+        "price_above_ma50": true,
+        "price_above_ma200": false,
+        "earnings_date": "2026-10-22",
+        "days_to_earnings": 12,
+        "nearest_support": 33.27,
+        "nearest_resistance": 34.54,
+        "fair_value_mid": 38.13,
+        "fair_value_upside_pct": 13.1
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "condor",
+          "score": 72.3,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "BWA",
+      "profile": {
+        "price": 61.3,
+        "iv_rank": 36.0099045,
+        "iv_percentile": 61.077315899999995,
+        "hv_30": 36.35,
+        "rsi_14": 45.58,
+        "pct_off_52w_high": -20.42061534467091,
+        "price_above_ma50": false,
+        "price_above_ma200": true,
+        "earnings_date": "2026-10-29",
+        "days_to_earnings": 19,
+        "nearest_support": 60.51,
+        "nearest_resistance": 61.68,
+        "fair_value_mid": 60.24,
+        "fair_value_upside_pct": -1.7
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "double_cal",
+          "score": 70.8,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "momo_csp",
+          "score": 68.1,
+          "reasons": [],
+          "notes": [
+            "Reversal (REVR) \u00b7 bull regime",
+            "MACD cross up 3d ago",
+            "IV30 43.7 vs HV30 36.4 (ratio 1.20)",
+            "ADX 21.0",
+            "ATR 1.86 (3.0%) \u2192 strike zone ~$58.50"
+          ]
+        },
+        {
+          "strategy": "cal_high_iv",
+          "score": 24.7,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "AAPL",
+      "profile": {
+        "price": 336.64,
+        "iv_rank": 52.113491599999996,
+        "iv_percentile": 46.1282174,
+        "hv_30": 20.15,
+        "rsi_14": 56.12,
+        "pct_off_52w_high": -1.2988536077638042,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": "2026-11-02",
+        "days_to_earnings": 23,
+        "nearest_support": 336.22,
+        "nearest_resistance": 344.3,
+        "fair_value_mid": 303.23,
+        "fair_value_upside_pct": -9.9
+      },
+      "analyst": {
+        "consensus": "Buy",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_high_iv",
+          "score": 70.2,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "condor",
+          "score": 57.5,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "XLE",
+      "profile": {
+        "price": 65.08,
+        "iv_rank": 62.2511485,
+        "iv_percentile": 48.2618486,
+        "hv_30": 21.66,
+        "rsi_14": 61.51,
+        "pct_off_52w_high": -1.2892461701805074,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": null,
+        "days_to_earnings": null,
+        "nearest_support": 64.7,
+        "nearest_resistance": 66.17,
+        "fair_value_mid": 57.72,
+        "fair_value_upside_pct": -11.3
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "momo_csp",
+          "score": 69.3,
+          "reasons": [],
+          "notes": [
+            "Continuation (CONT) \u00b7 bull regime",
+            "MACD cross up 1d ago",
+            "IV30 26.2 vs HV30 21.7 (ratio 1.21)",
+            "ADX 17.9",
+            "ATR 1.30 (2.0%) \u2192 strike zone ~$63.13"
+          ]
+        },
+        {
+          "strategy": "cal_high_iv",
+          "score": 68.3,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "condor",
+          "score": 57.1,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "INVH",
+      "profile": {
+        "price": 26.79,
+        "iv_rank": 29.6257433,
+        "iv_percentile": 32.4400684,
+        "hv_30": 18.11,
+        "rsi_14": 44.58,
+        "pct_off_52w_high": -12.422360248447207,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-10-28",
+        "days_to_earnings": 18,
+        "nearest_support": 26.2,
+        "nearest_resistance": 26.84,
+        "fair_value_mid": 28.06,
+        "fair_value_upside_pct": 4.8
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "momo_csp",
+          "score": 69.0,
+          "reasons": [],
+          "notes": [
+            "Reversal (REVR) \u00b7 mixed regime",
+            "MACD cross up 3d ago",
+            "golden cross 86d ago",
+            "IV30 30.5 vs HV30 18.1 (ratio 1.68)",
+            "ADX 53.1",
+            "ATR 0.47 (1.7%) \u2192 strike zone ~$26.09"
+          ]
+        },
+        {
+          "strategy": "cal_low_iv",
+          "score": 23.1,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "GOOG",
+      "profile": {
+        "price": 347.86,
+        "iv_rank": 50.7203179,
+        "iv_percentile": 62.56794959999999,
+        "hv_30": 22.83,
+        "rsi_14": 55.93,
+        "pct_off_52w_high": -12.825781876503608,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": "2026-10-28",
+        "days_to_earnings": 18,
+        "nearest_support": 346.79,
+        "nearest_resistance": 348.21,
+        "fair_value_mid": 329.53,
+        "fair_value_upside_pct": -5.3
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_high_iv",
+          "score": 68.3,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "condor",
+          "score": 54.1,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "PYPL",
+      "profile": {
+        "price": 55.53,
+        "iv_rank": 51.268230800000005,
+        "iv_percentile": 49.9595314,
+        "hv_30": 25.05,
+        "rsi_14": 55.87,
+        "pct_off_52w_high": -26.69306930693069,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": "2026-10-27",
+        "days_to_earnings": 17,
+        "nearest_support": 55.24,
+        "nearest_resistance": 55.55,
+        "fair_value_mid": 54.89,
+        "fair_value_upside_pct": -1.2
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_high_iv",
+          "score": 68.2,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "condor",
+          "score": 53.1,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "VTRS",
+      "profile": {
+        "price": 17.64,
+        "iv_rank": 43.324742300000004,
+        "iv_percentile": 40.286246999999996,
+        "hv_30": 19.8,
+        "rsi_14": 57.49,
+        "pct_off_52w_high": -3.44827586206896,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": "2026-11-05",
+        "days_to_earnings": 26,
+        "nearest_support": 17.53,
+        "nearest_resistance": 18.07,
+        "fair_value_mid": 15.46,
+        "fair_value_upside_pct": -12.3
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "pmcc",
+          "score": 67.7,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "cal_high_iv",
+          "score": 58.6,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "double_cal",
+          "score": 48.1,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "condor",
+          "score": 45.0,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "APTV",
+      "profile": {
+        "price": 43.8,
+        "iv_rank": 66.0424028,
+        "iv_percentile": 95.9733414,
+        "hv_30": 27.6,
+        "rsi_14": 43.76,
+        "pct_off_52w_high": -42.983598021348605,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-11-03",
+        "days_to_earnings": 24,
+        "nearest_support": 42.99,
+        "nearest_resistance": 44.52,
+        "fair_value_mid": 54.55,
+        "fair_value_upside_pct": 24.5
+      },
+      "analyst": {
+        "consensus": "Strong Buy",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "condor",
+          "score": 67.2,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "DIS",
+      "profile": {
+        "price": 108.05,
+        "iv_rank": 11.832611799999999,
+        "iv_percentile": 14.9172352,
+        "hv_30": 23.82,
+        "rsi_14": 59.26,
+        "pct_off_52w_high": -7.37248178311188,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": "2026-11-12",
+        "days_to_earnings": 33,
+        "nearest_support": 107.11,
+        "nearest_resistance": 109.31,
+        "fair_value_mid": 104.31,
+        "fair_value_upside_pct": -3.5
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "momo_csp",
+          "score": 67.0,
+          "reasons": [],
+          "notes": [
+            "Continuation (CONT) \u00b7 bull regime",
+            "MACD cross up 1d ago",
+            "golden cross 7d ago",
+            "IV30 24.6 vs HV30 23.8 (ratio 1.03)",
+            "ADX 13.6",
+            "ATR 2.12 (2.0%) \u2192 strike zone ~$104.87"
+          ]
+        },
+        {
+          "strategy": "cal_low_iv",
+          "score": 63.4,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "APH",
+      "profile": {
+        "price": 87.24,
+        "iv_rank": 23.3888487,
+        "iv_percentile": 42.098951400000004,
+        "hv_30": 36.69,
+        "rsi_14": 60.09,
+        "pct_off_52w_high": -1.5572105619499093,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": "2026-10-28",
+        "days_to_earnings": 18,
+        "nearest_support": 86.41,
+        "nearest_resistance": 88.17,
+        "fair_value_mid": 76.25,
+        "fair_value_upside_pct": -12.6
+      },
+      "analyst": {
+        "consensus": "Strong Buy",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "pmcc",
+          "score": 66.6,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "TTD",
+      "profile": {
+        "price": 12.08,
+        "iv_rank": 38.4773014,
+        "iv_percentile": 41.66292,
+        "hv_30": 35.01,
+        "rsi_14": 35.11,
+        "pct_off_52w_high": -77.68335488638463,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-11-05",
+        "days_to_earnings": 26,
+        "nearest_support": 10.0,
+        "nearest_resistance": 12.88,
+        "fair_value_mid": 24.08,
+        "fair_value_upside_pct": 99.3
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "wheel",
+          "score": 66.3,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "EW",
+      "profile": {
+        "price": 85.21,
+        "iv_rank": 63.960114000000004,
+        "iv_percentile": 94.14289070000001,
+        "hv_30": 25.59,
+        "rsi_14": 43.48,
+        "pct_off_52w_high": -10.474889682706463,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-11-04",
+        "days_to_earnings": 25,
+        "nearest_support": 85.06,
+        "nearest_resistance": 85.28,
+        "fair_value_mid": 85.49,
+        "fair_value_upside_pct": 0.3
+      },
+      "analyst": {
+        "consensus": "Buy",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "condor",
+          "score": 65.9,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "CARR",
+      "profile": {
+        "price": 55.56,
+        "iv_rank": 60.2989257,
+        "iv_percentile": 53.7645971,
+        "hv_30": 22.9,
+        "rsi_14": 44.36,
+        "pct_off_52w_high": -26.89473684210526,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-10-29",
+        "days_to_earnings": 19,
+        "nearest_support": 55.19,
+        "nearest_resistance": 56.65,
+        "fair_value_mid": 61.27,
+        "fair_value_upside_pct": 10.3
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "condor",
+          "score": 65.6,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "cal_high_iv",
+          "score": 51.3,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "ORLY",
+      "profile": {
+        "price": 86.45,
+        "iv_rank": 52.9147982,
+        "iv_percentile": 87.1023117,
+        "hv_30": 21.77,
+        "rsi_14": 51.86,
+        "pct_off_52w_high": -16.108685104318287,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-10-28",
+        "days_to_earnings": 18,
+        "nearest_support": 85.06,
+        "nearest_resistance": 86.66,
+        "fair_value_mid": 90.0,
+        "fair_value_upside_pct": 4.1
+      },
+      "analyst": {
+        "consensus": "Strong Buy",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "condor",
+          "score": 65.6,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "PCG",
+      "profile": {
+        "price": 13.13,
+        "iv_rank": 60.885700099999994,
+        "iv_percentile": 72.41465769999999,
+        "hv_30": 30.29,
+        "rsi_14": 46.87,
+        "pct_off_52w_high": -31.29251700680272,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-10-22",
+        "days_to_earnings": 12,
+        "nearest_support": 13.08,
+        "nearest_resistance": 14.32,
+        "fair_value_mid": 19.07,
+        "fair_value_upside_pct": 45.2
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "condor",
+          "score": 65.4,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "cal_high_iv",
+          "score": 54.6,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "KDP",
+      "profile": {
+        "price": 31.76,
+        "iv_rank": 45.2444444,
+        "iv_percentile": 43.3847708,
+        "hv_30": 28.02,
+        "rsi_14": 54.18,
+        "pct_off_52w_high": -5.194029850746264,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": "2026-11-03",
+        "days_to_earnings": 24,
+        "nearest_support": 31.66,
+        "nearest_resistance": 32.12,
+        "fair_value_mid": 30.28,
+        "fair_value_upside_pct": -4.6
+      },
+      "analyst": {
+        "consensus": "Buy",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_high_iv",
+          "score": 64.7,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "momo_csp",
+          "score": 62.2,
+          "reasons": [],
+          "notes": [
+            "Reversal (REVR) \u00b7 bull regime",
+            "MACD cross up 0d ago",
+            "golden cross 88d ago",
+            "IV30 28.2 vs HV30 28.0 (ratio 1.01)",
+            "ADX 13.4",
+            "ATR 0.81 (2.6%) \u2192 strike zone ~$30.54"
+          ]
+        },
+        {
+          "strategy": "pmcc",
+          "score": 58.3,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "double_cal",
+          "score": 50.0,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "condor",
+          "score": 47.2,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "LUV",
+      "profile": {
+        "price": 41.66,
+        "iv_rank": 36.2385321,
+        "iv_percentile": 48.1915861,
+        "hv_30": 23.15,
+        "rsi_14": 50.96,
+        "pct_off_52w_high": -23.978102189781026,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-10-21",
+        "days_to_earnings": 11,
+        "nearest_support": 40.83,
+        "nearest_resistance": 41.8,
+        "fair_value_mid": 41.97,
+        "fair_value_upside_pct": 0.7
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "pmcc",
+          "score": 64.7,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "cal_high_iv",
+          "score": 41.3,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "KR",
+      "profile": {
+        "price": 61.64,
+        "iv_rank": 32.6923077,
+        "iv_percentile": 39.3901919,
+        "hv_30": 31.08,
+        "rsi_14": 60.49,
+        "pct_off_52w_high": -18.465608465608458,
+        "price_above_ma50": true,
+        "price_above_ma200": false,
+        "earnings_date": "2026-12-03",
+        "days_to_earnings": 54,
+        "nearest_support": 61.0,
+        "nearest_resistance": 62.06,
+        "fair_value_mid": 62.2,
+        "fair_value_upside_pct": 0.9
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "pmcc",
+          "score": 64.5,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "cal_high_iv",
+          "score": 37.5,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "V",
+      "profile": {
+        "price": 385.45,
+        "iv_rank": 40.3409091,
+        "iv_percentile": 41.9578891,
+        "hv_30": 19.4,
+        "rsi_14": 67.58,
+        "pct_off_52w_high": 0.0,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": "2026-10-27",
+        "days_to_earnings": 17,
+        "nearest_support": 375.0,
+        "nearest_resistance": 385.57,
+        "fair_value_mid": 350.22,
+        "fair_value_upside_pct": -9.1
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "momo_csp",
+          "score": 64.4,
+          "reasons": [],
+          "notes": [
+            "Continuation (CONT) \u00b7 bull regime",
+            "MACD cross up 2d ago",
+            "golden cross 65d ago",
+            "IV30 24.9 vs HV30 19.4 (ratio 1.28)",
+            "ADX 16.4",
+            "ATR 6.55 (1.7%) \u2192 strike zone ~$375.63"
+          ]
+        },
+        {
+          "strategy": "pmcc",
+          "score": 58.9,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "cal_high_iv",
+          "score": 34.2,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "DNN",
+      "profile": {
+        "price": 2.43,
+        "iv_rank": 39.949923500000004,
+        "iv_percentile": 40.903182300000005,
+        "hv_30": 52.72,
+        "rsi_14": 33.71,
+        "pct_off_52w_high": -44.39359267734553,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-11-05",
+        "days_to_earnings": 26,
+        "nearest_support": 2.2,
+        "nearest_resistance": 2.48,
+        "fair_value_mid": 3.11,
+        "fair_value_upside_pct": 28.0
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "wheel",
+          "score": 64.2,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "AOS",
+      "profile": {
+        "price": 56.38,
+        "iv_rank": 61.932418199999994,
+        "iv_percentile": 68.68637960000001,
+        "hv_30": 20.38,
+        "rsi_14": 41.6,
+        "pct_off_52w_high": -29.93662234373058,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-10-29",
+        "days_to_earnings": 19,
+        "nearest_support": 55.48,
+        "nearest_resistance": 56.5,
+        "fair_value_mid": 62.91,
+        "fair_value_upside_pct": 11.6
+      },
+      "analyst": {
+        "consensus": "Hold",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "condor",
+          "score": 64.0,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "cal_high_iv",
+          "score": 48.0,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "MTCH",
+      "profile": {
+        "price": 41.09,
+        "iv_rank": 50.0609385,
+        "iv_percentile": 71.5162363,
+        "hv_30": 25.35,
+        "rsi_14": 50.8,
+        "pct_off_52w_high": -7.454954954954944,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": "2026-11-03",
+        "days_to_earnings": 24,
+        "nearest_support": 40.49,
+        "nearest_resistance": 41.22,
+        "fair_value_mid": 37.84,
+        "fair_value_upside_pct": -7.9
+      },
+      "analyst": {
+        "consensus": "Hold",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_high_iv",
+          "score": 64.0,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "condor",
+          "score": 61.6,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "XOM",
+      "profile": {
+        "price": 168.94,
+        "iv_rank": 56.9366853,
+        "iv_percentile": 60.8755429,
+        "hv_30": 23.1,
+        "rsi_14": 64.17,
+        "pct_off_52w_high": -1.4754767597830531,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": "2026-10-30",
+        "days_to_earnings": 20,
+        "nearest_support": 165.28,
+        "nearest_resistance": 169.14,
+        "fair_value_mid": 131.79,
+        "fair_value_upside_pct": -22.0
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "momo_csp",
+          "score": 63.7,
+          "reasons": [],
+          "notes": [
+            "Continuation (CONT) \u00b7 bull regime",
+            "MACD cross up 3d ago",
+            "IV30 29.8 vs HV30 23.1 (ratio 1.29)",
+            "ADX 15.1",
+            "ATR 3.51 (2.1%) \u2192 strike zone ~$163.67"
+          ]
+        },
+        {
+          "strategy": "cal_high_iv",
+          "score": 56.7,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "condor",
+          "score": 44.5,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "CLX",
+      "profile": {
+        "price": 83.8,
+        "iv_rank": 67.37222510000001,
+        "iv_percentile": 93.6542795,
+        "hv_30": 31.0,
+        "rsi_14": 42.54,
+        "pct_off_52w_high": -34.09877319911922,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-11-02",
+        "days_to_earnings": 23,
+        "nearest_support": 80.0,
+        "nearest_resistance": 84.7,
+        "fair_value_mid": 98.88,
+        "fair_value_upside_pct": 18.0
+      },
+      "analyst": {
+        "consensus": "Hold",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "condor",
+          "score": 63.6,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "LAC",
+      "profile": {
+        "price": 2.35,
+        "iv_rank": 27.9879935,
+        "iv_percentile": 20.6624473,
+        "hv_30": 36.76,
+        "rsi_14": 24.81,
+        "pct_off_52w_high": -76.61691542288558,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-11-12",
+        "days_to_earnings": 33,
+        "nearest_support": 2.0,
+        "nearest_resistance": 2.67,
+        "fair_value_mid": 4.18,
+        "fair_value_upside_pct": 77.8
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "wheel",
+          "score": 63.6,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "CGNX",
+      "profile": {
+        "price": 62.92,
+        "iv_rank": 38.025996899999996,
+        "iv_percentile": 74.1047986,
+        "hv_30": null,
+        "rsi_14": 53.16,
+        "pct_off_52w_high": -13.117923225628278,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": "2026-11-04",
+        "days_to_earnings": 25,
+        "nearest_support": 61.87,
+        "nearest_resistance": 63.0,
+        "fair_value_mid": 57.38,
+        "fair_value_upside_pct": -8.8
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "double_cal",
+          "score": 62.5,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "cal_high_iv",
+          "score": 46.2,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "AMD",
+      "profile": {
+        "price": 608.1,
+        "iv_rank": 22.6987448,
+        "iv_percentile": 25.371092,
+        "hv_30": 53.52,
+        "rsi_14": 57.19,
+        "pct_off_52w_high": -6.362600474269339,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": "2026-11-03",
+        "days_to_earnings": 24,
+        "nearest_support": 600.0,
+        "nearest_resistance": 639.0,
+        "fair_value_mid": 452.44,
+        "fair_value_upside_pct": -25.6
+      },
+      "analyst": {
+        "consensus": "Strong Buy",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "pmcc",
+          "score": 61.8,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "UNH",
+      "profile": {
+        "price": 379.3,
+        "iv_rank": 47.536617799999995,
+        "iv_percentile": 75.7663385,
+        "hv_30": 22.35,
+        "rsi_14": 49.41,
+        "pct_off_52w_high": -13.07436690729919,
+        "price_above_ma50": false,
+        "price_above_ma200": true,
+        "earnings_date": "2026-10-13",
+        "days_to_earnings": 3,
+        "nearest_support": 376.35,
+        "nearest_resistance": 382.07,
+        "fair_value_mid": 371.59,
+        "fair_value_upside_pct": -2.0
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "condor",
+          "score": 61.6,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "double_cal",
+          "score": 56.7,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "IBIT",
+      "profile": {
+        "price": 46.55,
+        "iv_rank": 13.173786600000001,
+        "iv_percentile": 6.3934384,
+        "hv_30": null,
+        "rsi_14": 53.47,
+        "pct_off_52w_high": -32.28105906313646,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": null,
+        "days_to_earnings": null,
+        "nearest_support": 46.54,
+        "nearest_resistance": 47.87,
+        "fair_value_mid": 45.64,
+        "fair_value_upside_pct": -2.0
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_low_iv",
+          "score": 61.3,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "CRM",
+      "profile": {
+        "price": 229.13,
+        "iv_rank": 36.651213500000004,
+        "iv_percentile": 28.8880934,
+        "hv_30": 32.29,
+        "rsi_14": 48.04,
+        "pct_off_52w_high": -13.9353190850017,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": "2026-12-02",
+        "days_to_earnings": 53,
+        "nearest_support": 225.0,
+        "nearest_resistance": 229.81,
+        "fair_value_mid": 213.44,
+        "fair_value_upside_pct": -6.8
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "pmcc",
+          "score": 61.1,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "cal_high_iv",
+          "score": 42.1,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "ECL",
+      "profile": {
+        "price": 281.83,
+        "iv_rank": 53.815893,
+        "iv_percentile": 92.0960438,
+        "hv_30": 16.38,
+        "rsi_14": 56.79,
+        "pct_off_52w_high": -8.600616182909043,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": "2026-10-27",
+        "days_to_earnings": 17,
+        "nearest_support": 280.21,
+        "nearest_resistance": 287.06,
+        "fair_value_mid": 274.95,
+        "fair_value_upside_pct": -2.4
+      },
+      "analyst": {
+        "consensus": "Strong Buy",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "condor",
+          "score": 61.1,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "EOSE",
+      "profile": {
+        "price": 2.52,
+        "iv_rank": 52.8532236,
+        "iv_percentile": 39.543340900000004,
+        "hv_30": 75.92,
+        "rsi_14": 28.71,
+        "pct_off_52w_high": -86.86816050026056,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-11-04",
+        "days_to_earnings": 25,
+        "nearest_support": 2.0,
+        "nearest_resistance": 2.96,
+        "fair_value_mid": 6.69,
+        "fair_value_upside_pct": 165.6
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "wheel",
+          "score": 61.0,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "TAP",
+      "profile": {
+        "price": 37.2,
+        "iv_rank": 56.6592675,
+        "iv_percentile": 67.8174448,
+        "hv_30": 23.03,
+        "rsi_14": 44.17,
+        "pct_off_52w_high": -31.592497241632948,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-11-05",
+        "days_to_earnings": 26,
+        "nearest_support": 35.52,
+        "nearest_resistance": 37.76,
+        "fair_value_mid": 42.24,
+        "fair_value_upside_pct": 13.6
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "condor",
+          "score": 61.0,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "cal_high_iv",
+          "score": 47.2,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "TSN",
+      "profile": {
+        "price": 53.43,
+        "iv_rank": 52.241455800000004,
+        "iv_percentile": 80.5548823,
+        "hv_30": 16.41,
+        "rsi_14": 56.06,
+        "pct_off_52w_high": -22.283636363636365,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-11-16",
+        "days_to_earnings": 37,
+        "nearest_support": 53.41,
+        "nearest_resistance": 54.0,
+        "fair_value_mid": 57.26,
+        "fair_value_upside_pct": 7.2
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "condor",
+          "score": 60.7,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "ARKK",
+      "profile": {
+        "price": 89.62,
+        "iv_rank": 19.1166554,
+        "iv_percentile": 4.2807526,
+        "hv_30": 31.3,
+        "rsi_14": 54.64,
+        "pct_off_52w_high": -3.4059064453545984,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": null,
+        "days_to_earnings": null,
+        "nearest_support": 87.86,
+        "nearest_resistance": 90.0,
+        "fair_value_mid": 80.54,
+        "fair_value_upside_pct": -10.1
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_low_iv",
+          "score": 60.6,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "MKC",
+      "profile": {
+        "price": 44.81,
+        "iv_rank": 39.0361446,
+        "iv_percentile": 35.9094449,
+        "hv_30": 28.03,
+        "rsi_14": 31.39,
+        "pct_off_52w_high": -37.45987438939288,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-10-01",
+        "days_to_earnings": -9,
+        "nearest_support": 43.25,
+        "nearest_resistance": 44.82,
+        "fair_value_mid": 54.24,
+        "fair_value_upside_pct": 21.0
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "wheel",
+          "score": 59.8,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "DKNG",
+      "profile": {
+        "price": 19.58,
+        "iv_rank": 44.7087777,
+        "iv_percentile": 74.3296814,
+        "hv_30": 54.86,
+        "rsi_14": 38.33,
+        "pct_off_52w_high": -45.97130242825608,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-11-05",
+        "days_to_earnings": 26,
+        "nearest_support": 18.52,
+        "nearest_resistance": 20.0,
+        "fair_value_mid": 25.51,
+        "fair_value_upside_pct": 30.3
+      },
+      "analyst": {
+        "consensus": "Buy",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "wheel",
+          "score": 59.5,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "NEM",
+      "profile": {
+        "price": 117.84,
+        "iv_rank": 11.2266858,
+        "iv_percentile": 7.9729559000000005,
+        "hv_30": 31.16,
+        "rsi_14": 47.78,
+        "pct_off_52w_high": -12.801539144590784,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": "2026-10-22",
+        "days_to_earnings": 12,
+        "nearest_support": 117.46,
+        "nearest_resistance": 120.0,
+        "fair_value_mid": 109.62,
+        "fair_value_upside_pct": -7.0
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_low_iv",
+          "score": 59.2,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "AVGO",
+      "profile": {
+        "price": 361.54,
+        "iv_rank": 6.0496381,
+        "iv_percentile": 1.9694156,
+        "hv_30": 36.16,
+        "rsi_14": 50.07,
+        "pct_off_52w_high": -24.924725377411377,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-09-02",
+        "days_to_earnings": -38,
+        "nearest_support": 359.74,
+        "nearest_resistance": 363.6,
+        "fair_value_mid": 370.47,
+        "fair_value_upside_pct": 2.5
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_low_iv",
+          "score": 59.0,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "QCOM",
+      "profile": {
+        "price": 175.5,
+        "iv_rank": 36.7050273,
+        "iv_percentile": 66.4942964,
+        "hv_30": 54.24,
+        "rsi_14": 44.42,
+        "pct_off_52w_high": -30.085252171141747,
+        "price_above_ma50": false,
+        "price_above_ma200": true,
+        "earnings_date": "2026-11-04",
+        "days_to_earnings": 25,
+        "nearest_support": 173.42,
+        "nearest_resistance": 175.97,
+        "fair_value_mid": 178.35,
+        "fair_value_upside_pct": 1.6
+      },
+      "analyst": {
+        "consensus": "Hold",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "double_cal",
+          "score": 59.0,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "cal_high_iv",
+          "score": 16.5,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "MGM",
+      "profile": {
+        "price": 29.27,
+        "iv_rank": 59.2342342,
+        "iv_percentile": 55.7900674,
+        "hv_30": 40.21,
+        "rsi_14": 12.96,
+        "pct_off_52w_high": -42.25685539554153,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-10-28",
+        "days_to_earnings": 18,
+        "nearest_support": 29.19,
+        "nearest_resistance": 30.0,
+        "fair_value_mid": 39.16,
+        "fair_value_upside_pct": 33.8
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "wheel",
+          "score": 58.7,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "KMI",
+      "profile": {
+        "price": 32.49,
+        "iv_rank": 51.49606300000001,
+        "iv_percentile": 56.119050800000004,
+        "hv_30": 19.06,
+        "rsi_14": 61.51,
+        "pct_off_52w_high": -5.304575925386185,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": "2026-10-28",
+        "days_to_earnings": 18,
+        "nearest_support": 32.27,
+        "nearest_resistance": 32.69,
+        "fair_value_mid": 30.37,
+        "fair_value_upside_pct": -6.5
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_high_iv",
+          "score": 58.5,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "condor",
+          "score": 46.9,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "COO",
+      "profile": {
+        "price": 54.37,
+        "iv_rank": 38.8070692,
+        "iv_percentile": 2.6217818999999998,
+        "hv_30": 55.53,
+        "rsi_14": 31.05,
+        "pct_off_52w_high": -35.519449715370015,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-12-03",
+        "days_to_earnings": 54,
+        "nearest_support": 52.78,
+        "nearest_resistance": 57.69,
+        "fair_value_mid": 67.22,
+        "fair_value_upside_pct": 23.6
+      },
+      "analyst": {
+        "consensus": "Hold",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "wheel",
+          "score": 58.4,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "SYY",
+      "profile": {
+        "price": 78.14,
+        "iv_rank": 40.354536,
+        "iv_percentile": 69.0674496,
+        "hv_30": 22.26,
+        "rsi_14": 45.1,
+        "pct_off_52w_high": -14.282580078982004,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-10-27",
+        "days_to_earnings": 17,
+        "nearest_support": 77.35,
+        "nearest_resistance": 79.6,
+        "fair_value_mid": 79.84,
+        "fair_value_upside_pct": 2.2
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "momo_csp",
+          "score": 58.3,
+          "reasons": [],
+          "notes": [
+            "Reversal (REVR) \u00b7 mixed regime",
+            "MACD cross up 1d ago",
+            "golden cross 57d ago",
+            "IV30 26.9 vs HV30 22.3 (ratio 1.21)",
+            "ADX 15.5",
+            "ATR 1.47 (1.9%) \u2192 strike zone ~$75.93"
+          ]
+        },
+        {
+          "strategy": "condor",
+          "score": 44.8,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "cal_high_iv",
+          "score": 33.2,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "LVS",
+      "profile": {
+        "price": 36.17,
+        "iv_rank": 59.1334489,
+        "iv_percentile": 74.9744694,
+        "hv_30": 17.68,
+        "rsi_14": 23.25,
+        "pct_off_52w_high": -47.94934522952942,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-10-28",
+        "days_to_earnings": 18,
+        "nearest_support": 35.0,
+        "nearest_resistance": 38.06,
+        "fair_value_mid": 47.74,
+        "fair_value_upside_pct": 32.0
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "wheel",
+          "score": 57.6,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "MCD",
+      "profile": {
+        "price": 235.23,
+        "iv_rank": 66.7431193,
+        "iv_percentile": 86.5652958,
+        "hv_30": 22.85,
+        "rsi_14": 36.68,
+        "pct_off_52w_high": -31.029730839148538,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-11-04",
+        "days_to_earnings": 25,
+        "nearest_support": 229.2,
+        "nearest_resistance": 250.0,
+        "fair_value_mid": 273.37,
+        "fair_value_upside_pct": 16.2
+      },
+      "analyst": {
+        "consensus": "Buy",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "condor",
+          "score": 57.6,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "FOXA",
+      "profile": {
+        "price": 62.41,
+        "iv_rank": 40.8800301,
+        "iv_percentile": 47.8152016,
+        "hv_30": 25.64,
+        "rsi_14": 44.18,
+        "pct_off_52w_high": -18.000262777558802,
+        "price_above_ma50": false,
+        "price_above_ma200": true,
+        "earnings_date": "2026-10-29",
+        "days_to_earnings": 19,
+        "nearest_support": 62.04,
+        "nearest_resistance": 62.93,
+        "fair_value_mid": 62.52,
+        "fair_value_upside_pct": 0.2
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "double_cal",
+          "score": 57.5,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "condor",
+          "score": 40.9,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "cal_high_iv",
+          "score": 30.5,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "NKE",
+      "profile": {
+        "price": 34.71,
+        "iv_rank": 27.5535168,
+        "iv_percentile": 27.2010412,
+        "hv_30": 23.56,
+        "rsi_14": 37.75,
+        "pct_off_52w_high": -50.18656716417911,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-10-01",
+        "days_to_earnings": -9,
+        "nearest_support": 31.97,
+        "nearest_resistance": 35.0,
+        "fair_value_mid": 45.81,
+        "fair_value_upside_pct": 32.0
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "wheel",
+          "score": 56.8,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "EXC",
+      "profile": {
+        "price": 41.76,
+        "iv_rank": 42.279709,
+        "iv_percentile": 4.2891918,
+        "hv_30": 15.54,
+        "rsi_14": 47.21,
+        "pct_off_52w_high": -16.961622588983897,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-10-30",
+        "days_to_earnings": 20,
+        "nearest_support": 40.0,
+        "nearest_resistance": 42.97,
+        "fair_value_mid": 46.43,
+        "fair_value_upside_pct": 11.2
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "condor",
+          "score": 56.6,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "UBER",
+      "profile": {
+        "price": 71.51,
+        "iv_rank": 46.7638234,
+        "iv_percentile": 58.741234600000006,
+        "hv_30": 21.71,
+        "rsi_14": 52.91,
+        "pct_off_52w_high": -28.28920978740473,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-11-04",
+        "days_to_earnings": 25,
+        "nearest_support": 71.24,
+        "nearest_resistance": 71.79,
+        "fair_value_mid": 76.19,
+        "fair_value_upside_pct": 6.5
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_high_iv",
+          "score": 56.5,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "condor",
+          "score": 56.5,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "CPRT",
+      "profile": {
+        "price": 27.32,
+        "iv_rank": 43.562816,
+        "iv_percentile": 16.926966099999998,
+        "hv_30": 35.67,
+        "rsi_14": 38.26,
+        "pct_off_52w_high": -40.29720279720279,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-11-19",
+        "days_to_earnings": 40,
+        "nearest_support": 26.81,
+        "nearest_resistance": 27.71,
+        "fair_value_mid": 33.24,
+        "fair_value_upside_pct": 21.7
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "wheel",
+          "score": 56.4,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "condor",
+          "score": 24.1,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "EQT",
+      "profile": {
+        "price": 52.83,
+        "iv_rank": 41.0371033,
+        "iv_percentile": 24.997888,
+        "hv_30": 29.06,
+        "rsi_14": 55.91,
+        "pct_off_52w_high": -22.228764905049324,
+        "price_above_ma50": true,
+        "price_above_ma200": false,
+        "earnings_date": "2026-10-27",
+        "days_to_earnings": 17,
+        "nearest_support": 52.74,
+        "nearest_resistance": 53.74,
+        "fair_value_mid": 54.61,
+        "fair_value_upside_pct": 3.4
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_high_iv",
+          "score": 56.4,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "condor",
+          "score": 38.1,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "LW",
+      "profile": {
+        "price": 47.87,
+        "iv_rank": 18.6457074,
+        "iv_percentile": 10.4025937,
+        "hv_30": 44.11,
+        "rsi_14": 53.23,
+        "pct_off_52w_high": -28.090731560763103,
+        "price_above_ma50": true,
+        "price_above_ma200": false,
+        "earnings_date": "2026-10-06",
+        "days_to_earnings": -4,
+        "nearest_support": 47.8,
+        "nearest_resistance": 48.53,
+        "fair_value_mid": 49.34,
+        "fair_value_upside_pct": 3.1
+      },
+      "analyst": {
+        "consensus": "Hold",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_low_iv",
+          "score": 55.8,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "COP",
+      "profile": {
+        "price": 134.1,
+        "iv_rank": 45.3501094,
+        "iv_percentile": 43.533149,
+        "hv_30": 32.87,
+        "rsi_14": 59.75,
+        "pct_off_52w_high": -5.0417787848746665,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": "2026-11-05",
+        "days_to_earnings": 26,
+        "nearest_support": 131.77,
+        "nearest_resistance": 135.87,
+        "fair_value_mid": 110.12,
+        "fair_value_upside_pct": -17.9
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "pmcc",
+          "score": 55.7,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "cal_high_iv",
+          "score": 51.1,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "condor",
+          "score": 32.3,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "double_cal",
+          "score": 31.2,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "EIX",
+      "profile": {
+        "price": 55.3,
+        "iv_rank": 54.039078399999994,
+        "iv_percentile": 89.99972240000001,
+        "hv_30": 26.17,
+        "rsi_14": 44.23,
+        "pct_off_52w_high": -31.2017914904205,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-10-29",
+        "days_to_earnings": 19,
+        "nearest_support": 54.48,
+        "nearest_resistance": 55.84,
+        "fair_value_mid": 102.69,
+        "fair_value_upside_pct": 85.7
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "condor",
+          "score": 55.6,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "TROW",
+      "profile": {
+        "price": 105.16,
+        "iv_rank": 41.4652568,
+        "iv_percentile": 10.3181918,
+        "hv_30": 15.41,
+        "rsi_14": 46.82,
+        "pct_off_52w_high": -13.576594345825121,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-10-29",
+        "days_to_earnings": 19,
+        "nearest_support": 104.84,
+        "nearest_resistance": 106.01,
+        "fair_value_mid": 105.85,
+        "fair_value_upside_pct": 0.7
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "condor",
+          "score": 55.0,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "HRL",
+      "profile": {
+        "price": 19.19,
+        "iv_rank": 42.8520499,
+        "iv_percentile": 29.049236899999997,
+        "hv_30": 16.14,
+        "rsi_14": 24.96,
+        "pct_off_52w_high": -27.612221803093174,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-12-03",
+        "days_to_earnings": 54,
+        "nearest_support": 15.0,
+        "nearest_resistance": 19.42,
+        "fair_value_mid": 22.7,
+        "fair_value_upside_pct": 18.3
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "wheel",
+          "score": 54.7,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "TGT",
+      "profile": {
+        "price": 153.64,
+        "iv_rank": 5.6412185,
+        "iv_percentile": 11.9559028,
+        "hv_30": 23.71,
+        "rsi_14": 45.44,
+        "pct_off_52w_high": -9.565012655247514,
+        "price_above_ma50": false,
+        "price_above_ma200": true,
+        "earnings_date": "2026-11-18",
+        "days_to_earnings": 39,
+        "nearest_support": 153.55,
+        "nearest_resistance": 153.69,
+        "fair_value_mid": 137.51,
+        "fair_value_upside_pct": -10.5
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_low_iv",
+          "score": 54.7,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "TSLA",
+      "profile": {
+        "price": 382.7,
+        "iv_rank": 16.0147108,
+        "iv_percentile": 11.6218319,
+        "hv_30": 29.67,
+        "rsi_14": 59.73,
+        "pct_off_52w_high": -21.878827467951336,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": "2026-10-21",
+        "days_to_earnings": 11,
+        "nearest_support": 382.1,
+        "nearest_resistance": 385.29,
+        "fair_value_mid": 379.11,
+        "fair_value_upside_pct": -0.9
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_low_iv",
+          "score": 54.5,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "ZTS",
+      "profile": {
+        "price": 74.81,
+        "iv_rank": 56.1929596,
+        "iv_percentile": 96.5015597,
+        "hv_30": 21.51,
+        "rsi_14": 59.52,
+        "pct_off_52w_high": -49.29166949095099,
+        "price_above_ma50": true,
+        "price_above_ma200": false,
+        "earnings_date": "2026-11-05",
+        "days_to_earnings": 26,
+        "nearest_support": 74.05,
+        "nearest_resistance": 74.87,
+        "fair_value_mid": 92.67,
+        "fair_value_upside_pct": 23.9
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "condor",
+          "score": 54.3,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "AMZN",
+      "profile": {
+        "price": 262.43,
+        "iv_rank": 43.8216166,
+        "iv_percentile": 69.3704806,
+        "hv_30": 25.13,
+        "rsi_14": 59.05,
+        "pct_off_52w_high": -7.6015773537074764,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": "2026-10-29",
+        "days_to_earnings": 19,
+        "nearest_support": 261.12,
+        "nearest_resistance": 266.98,
+        "fair_value_mid": 246.16,
+        "fair_value_upside_pct": -6.2
+      },
+      "analyst": {
+        "consensus": "Strong Buy",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_high_iv",
+          "score": 53.9,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "double_cal",
+          "score": 40.2,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "condor",
+          "score": 38.2,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "ARE",
+      "profile": {
+        "price": 45.51,
+        "iv_rank": 51.302605199999995,
+        "iv_percentile": 31.1406411,
+        "hv_30": 37.98,
+        "rsi_14": 33.44,
+        "pct_off_52w_high": -41.556440220880965,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-10-26",
+        "days_to_earnings": 16,
+        "nearest_support": 45.0,
+        "nearest_resistance": 45.78,
+        "fair_value_mid": 53.92,
+        "fair_value_upside_pct": 18.5
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "wheel",
+          "score": 53.9,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "AEP",
+      "profile": {
+        "price": 122.81,
+        "iv_rank": 44.8113208,
+        "iv_percentile": 72.9219434,
+        "hv_30": 13.03,
+        "rsi_14": 56.94,
+        "pct_off_52w_high": -11.449996394837404,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-10-28",
+        "days_to_earnings": 18,
+        "nearest_support": 122.25,
+        "nearest_resistance": 123.0,
+        "fair_value_mid": 118.69,
+        "fair_value_upside_pct": -3.4
+      },
+      "analyst": {
+        "consensus": "Hold",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_high_iv",
+          "score": 53.8,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "SRE",
+      "profile": {
+        "price": 81.34,
+        "iv_rank": 41.042780699999994,
+        "iv_percentile": 34.8463895,
+        "hv_30": 19.52,
+        "rsi_14": 52.35,
+        "pct_off_52w_high": -18.456140350877188,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-11-04",
+        "days_to_earnings": 25,
+        "nearest_support": 80.98,
+        "nearest_resistance": 82.94,
+        "fair_value_mid": 79.22,
+        "fair_value_upside_pct": -2.6
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "condor",
+          "score": 52.9,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "cal_high_iv",
+          "score": 50.4,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "WMT",
+      "profile": {
+        "price": 111.35,
+        "iv_rank": 17.4874372,
+        "iv_percentile": 12.0000094,
+        "hv_30": 22.25,
+        "rsi_14": 60.94,
+        "pct_off_52w_high": -17.02682563338301,
+        "price_above_ma50": true,
+        "price_above_ma200": false,
+        "earnings_date": "2026-11-19",
+        "days_to_earnings": 40,
+        "nearest_support": 111.23,
+        "nearest_resistance": 111.98,
+        "fair_value_mid": 113.07,
+        "fair_value_upside_pct": 1.5
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_low_iv",
+          "score": 52.9,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "DUK",
+      "profile": {
+        "price": 116.65,
+        "iv_rank": 47.7411477,
+        "iv_percentile": 55.0157031,
+        "hv_30": 12.05,
+        "rsi_14": 48.98,
+        "pct_off_52w_high": -12.595534242469656,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-11-05",
+        "days_to_earnings": 26,
+        "nearest_support": 113.15,
+        "nearest_resistance": 118.89,
+        "fair_value_mid": 121.95,
+        "fair_value_upside_pct": 4.5
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_high_iv",
+          "score": 52.6,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "TJX",
+      "profile": {
+        "price": 138.76,
+        "iv_rank": 46.387576,
+        "iv_percentile": 39.9979217,
+        "hv_30": 20.76,
+        "rsi_14": 61.59,
+        "pct_off_52w_high": -17.60584288343923,
+        "price_above_ma50": true,
+        "price_above_ma200": false,
+        "earnings_date": "2026-11-18",
+        "days_to_earnings": 39,
+        "nearest_support": 138.1,
+        "nearest_resistance": 138.82,
+        "fair_value_mid": 144.2,
+        "fair_value_upside_pct": 3.9
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_high_iv",
+          "score": 52.6,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "pmcc",
+          "score": 47.2,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "condor",
+          "score": 39.5,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "ANET",
+      "profile": {
+        "price": 216.74,
+        "iv_rank": 41.572515599999996,
+        "iv_percentile": 42.0165145,
+        "hv_30": 38.3,
+        "rsi_14": 64.82,
+        "pct_off_52w_high": 0.0,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": "2026-11-03",
+        "days_to_earnings": 24,
+        "nearest_support": 214.89,
+        "nearest_resistance": 225.0,
+        "fair_value_mid": 174.69,
+        "fair_value_upside_pct": -19.4
+      },
+      "analyst": {
+        "consensus": "Strong Buy",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "pmcc",
+          "score": 52.1,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "cal_high_iv",
+          "score": 34.5,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "condor",
+          "score": 13.5,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "CPB",
+      "profile": {
+        "price": 19.21,
+        "iv_rank": 50.4543802,
+        "iv_percentile": 35.2696482,
+        "hv_30": 30.83,
+        "rsi_14": 36.4,
+        "pct_off_52w_high": -39.324068224889444,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-09-03",
+        "days_to_earnings": -37,
+        "nearest_support": 15.0,
+        "nearest_resistance": 19.26,
+        "fair_value_mid": 23.44,
+        "fair_value_upside_pct": 22.0
+      },
+      "analyst": {
+        "consensus": "Hold",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "wheel",
+          "score": 51.5,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "condor",
+          "score": 32.1,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "SOFI",
+      "profile": {
+        "price": 15.8,
+        "iv_rank": 20.8580858,
+        "iv_percentile": 13.2343201,
+        "hv_30": 25.66,
+        "rsi_14": 38.93,
+        "pct_off_52w_high": -50.94691089723688,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-10-27",
+        "days_to_earnings": 17,
+        "nearest_support": 15.57,
+        "nearest_resistance": 16.25,
+        "fair_value_mid": 19.35,
+        "fair_value_upside_pct": 22.5
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "wheel",
+          "score": 51.2,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "RDDT",
+      "profile": {
+        "price": 159.91,
+        "iv_rank": 43.1818182,
+        "iv_percentile": 39.2130614,
+        "hv_30": 45.38,
+        "rsi_14": 56.71,
+        "pct_off_52w_high": -38.241995906229484,
+        "price_above_ma50": true,
+        "price_above_ma200": false,
+        "earnings_date": "2026-10-29",
+        "days_to_earnings": 19,
+        "nearest_support": 158.36,
+        "nearest_resistance": 162.0,
+        "fair_value_mid": 169.57,
+        "fair_value_upside_pct": 6.0
+      },
+      "analyst": {
+        "consensus": "Buy",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_high_iv",
+          "score": 50.9,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "pmcc",
+          "score": 47.3,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "MSFT",
+      "profile": {
+        "price": 535.07,
+        "iv_rank": 45.2898551,
+        "iv_percentile": 61.8309327,
+        "hv_30": 21.67,
+        "rsi_14": 67.47,
+        "pct_off_52w_high": -1.2913461361078826,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": "2026-10-28",
+        "days_to_earnings": 18,
+        "nearest_support": 517.78,
+        "nearest_resistance": 550.0,
+        "fair_value_mid": 461.21,
+        "fair_value_upside_pct": -13.8
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "pmcc",
+          "score": 50.6,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "cal_high_iv",
+          "score": 38.5,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "CAG",
+      "profile": {
+        "price": 13.49,
+        "iv_rank": 46.5269693,
+        "iv_percentile": 34.9850331,
+        "hv_30": 27.08,
+        "rsi_14": 35.4,
+        "pct_off_52w_high": -32.61738261738262,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-09-30",
+        "days_to_earnings": -10,
+        "nearest_support": 13.34,
+        "nearest_resistance": 13.61,
+        "fair_value_mid": 15.58,
+        "fair_value_upside_pct": 15.5
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "wheel",
+          "score": 50.2,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "condor",
+          "score": 28.6,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "GOOGL",
+      "profile": {
+        "price": 351.66,
+        "iv_rank": 48.239436600000005,
+        "iv_percentile": 76.1620667,
+        "hv_30": 23.38,
+        "rsi_14": 56.35,
+        "pct_off_52w_high": -12.657096021062038,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": "2026-10-28",
+        "days_to_earnings": 18,
+        "nearest_support": 351.6,
+        "nearest_resistance": 364.17,
+        "fair_value_mid": 331.49,
+        "fair_value_upside_pct": -5.7
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "condor",
+          "score": 50.0,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "double_cal",
+          "score": 37.1,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "IBM",
+      "profile": {
+        "price": 227.13,
+        "iv_rank": 46.3170441,
+        "iv_percentile": 78.60042659999999,
+        "hv_30": 32.2,
+        "rsi_14": 48.29,
+        "pct_off_52w_high": -31.011754700361454,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-10-21",
+        "days_to_earnings": 11,
+        "nearest_support": 225.0,
+        "nearest_resistance": 228.18,
+        "fair_value_mid": 249.21,
+        "fair_value_upside_pct": 9.7
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "condor",
+          "score": 50.0,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "NFLX",
+      "profile": {
+        "price": 70.3,
+        "iv_rank": 54.826139100000006,
+        "iv_percentile": 80.6698035,
+        "hv_30": 33.84,
+        "rsi_14": 43.84,
+        "pct_off_52w_high": -43.370388271306595,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-10-20",
+        "days_to_earnings": 10,
+        "nearest_support": 70.11,
+        "nearest_resistance": 70.48,
+        "fair_value_mid": 84.23,
+        "fair_value_upside_pct": 19.8
+      },
+      "analyst": {
+        "consensus": "Buy",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "condor",
+          "score": 49.6,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "NEE",
+      "profile": {
+        "price": 77.38,
+        "iv_rank": 48.5523385,
+        "iv_percentile": 64.22863840000001,
+        "hv_30": 16.8,
+        "rsi_14": 40.46,
+        "pct_off_52w_high": -20.944013077237432,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-10-21",
+        "days_to_earnings": 11,
+        "nearest_support": 74.41,
+        "nearest_resistance": 78.86,
+        "fair_value_mid": 83.09,
+        "fair_value_upside_pct": 7.4
+      },
+      "analyst": {
+        "consensus": "Buy",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "condor",
+          "score": 49.3,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "cal_high_iv",
+          "score": 33.4,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "BKR",
+      "profile": {
+        "price": 56.7,
+        "iv_rank": 36.1367837,
+        "iv_percentile": 53.4565441,
+        "hv_30": 33.26,
+        "rsi_14": 44.45,
+        "pct_off_52w_high": -18.616334146691543,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-10-27",
+        "days_to_earnings": 17,
+        "nearest_support": 55.44,
+        "nearest_resistance": 57.95,
+        "fair_value_mid": 51.25,
+        "fair_value_upside_pct": -9.6
+      },
+      "analyst": {
+        "consensus": "Buy",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "momo_csp",
+          "score": 49.2,
+          "reasons": [],
+          "notes": [
+            "Reversal (REVR) \u00b7 mixed regime",
+            "MACD cross up 3d ago",
+            "IV30 39.0 vs HV30 33.3 (ratio 1.17)",
+            "ADX 17.8",
+            "ATR 1.56 (2.8%) \u2192 strike zone ~$54.36"
+          ]
+        },
+        {
+          "strategy": "cal_high_iv",
+          "score": 23.6,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "CSGP",
+      "profile": {
+        "price": 29.67,
+        "iv_rank": 45.2947443,
+        "iv_percentile": 74.5657653,
+        "hv_30": 41.44,
+        "rsi_14": 54.82,
+        "pct_off_52w_high": -62.07337338616898,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-10-27",
+        "days_to_earnings": 17,
+        "nearest_support": 28.79,
+        "nearest_resistance": 29.72,
+        "fair_value_mid": 40.53,
+        "fair_value_upside_pct": 36.6
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_high_iv",
+          "score": 48.5,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "QQQ",
+      "profile": {
+        "price": 751.27,
+        "iv_rank": 38.3143508,
+        "iv_percentile": 15.666496299999999,
+        "hv_30": 15.48,
+        "rsi_14": 60.9,
+        "pct_off_52w_high": -1.1044414606534485,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": null,
+        "days_to_earnings": null,
+        "nearest_support": 750.0,
+        "nearest_resistance": 762.86,
+        "fair_value_mid": 686.4,
+        "fair_value_upside_pct": -8.6
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_high_iv",
+          "score": 47.9,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "LYB",
+      "profile": {
+        "price": 60.03,
+        "iv_rank": 12.425850800000001,
+        "iv_percentile": 9.449404999999999,
+        "hv_30": 29.67,
+        "rsi_14": 47.58,
+        "pct_off_52w_high": -27.130371449380913,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-10-30",
+        "days_to_earnings": 20,
+        "nearest_support": 57.85,
+        "nearest_resistance": 60.33,
+        "fair_value_mid": 61.86,
+        "fair_value_upside_pct": 3.1
+      },
+      "analyst": {
+        "consensus": "Hold",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_low_iv",
+          "score": 47.8,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "XRAY",
+      "profile": {
+        "price": 8.83,
+        "iv_rank": 57.5364451,
+        "iv_percentile": 39.9404908,
+        "hv_30": 22.25,
+        "rsi_14": 34.62,
+        "pct_off_52w_high": -39.85013623978201,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-11-05",
+        "days_to_earnings": 26,
+        "nearest_support": 8.0,
+        "nearest_resistance": 9.0,
+        "fair_value_mid": 11.24,
+        "fair_value_upside_pct": 27.3
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "wheel",
+          "score": 47.4,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "PDD",
+      "profile": {
+        "price": 81.35,
+        "iv_rank": 21.268257900000002,
+        "iv_percentile": 15.688400799999998,
+        "hv_30": 25.73,
+        "rsi_14": 55.91,
+        "pct_off_52w_high": -41.106204300296824,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-11-17",
+        "days_to_earnings": 38,
+        "nearest_support": 81.16,
+        "nearest_resistance": 81.46,
+        "fair_value_mid": 93.02,
+        "fair_value_upside_pct": 14.3
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_low_iv",
+          "score": 47.3,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "DAL",
+      "profile": {
+        "price": 82.17,
+        "iv_rank": 15.704738800000001,
+        "iv_percentile": 15.015613,
+        "hv_30": 24.87,
+        "rsi_14": 48.28,
+        "pct_off_52w_high": -12.267777065983339,
+        "price_above_ma50": false,
+        "price_above_ma200": true,
+        "earnings_date": "2026-10-09",
+        "days_to_earnings": -1,
+        "nearest_support": 80.66,
+        "nearest_resistance": 82.81,
+        "fair_value_mid": 77.79,
+        "fair_value_upside_pct": -5.3
+      },
+      "analyst": {
+        "consensus": "Strong Buy",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_low_iv",
+          "score": 46.9,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "AZN",
+      "profile": {
+        "price": 159.2,
+        "iv_rank": 42.9965557,
+        "iv_percentile": 92.9752856,
+        "hv_30": 21.87,
+        "rsi_14": 44.13,
+        "pct_off_52w_high": -24.002291388199353,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-10-30",
+        "days_to_earnings": 20,
+        "nearest_support": 156.74,
+        "nearest_resistance": 160.0,
+        "fair_value_mid": 171.59,
+        "fair_value_upside_pct": 7.8
+      },
+      "analyst": {
+        "consensus": "Strong Buy",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "condor",
+          "score": 46.2,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "ED",
+      "profile": {
+        "price": 106.1,
+        "iv_rank": 33.5796388,
+        "iv_percentile": 42.4138754,
+        "hv_30": 14.54,
+        "rsi_14": 55.03,
+        "pct_off_52w_high": -8.106703620301403,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-11-05",
+        "days_to_earnings": 26,
+        "nearest_support": 105.9,
+        "nearest_resistance": 106.14,
+        "fair_value_mid": 108.34,
+        "fair_value_upside_pct": 2.1
+      },
+      "analyst": {
+        "consensus": "Hold",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_high_iv",
+          "score": 46.1,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "GFS",
+      "profile": {
+        "price": 48.24,
+        "iv_rank": 34.1011126,
+        "iv_percentile": 52.162918999999995,
+        "hv_30": 48.86,
+        "rsi_14": 50.66,
+        "pct_off_52w_high": -46.37616718541573,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-11-04",
+        "days_to_earnings": 25,
+        "nearest_support": 47.76,
+        "nearest_resistance": 48.57,
+        "fair_value_mid": 54.15,
+        "fair_value_upside_pct": 12.2
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "pmcc",
+          "score": 45.9,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "cal_high_iv",
+          "score": 29.2,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "UPS",
+      "profile": {
+        "price": 94.57,
+        "iv_rank": 50.182112499999995,
+        "iv_percentile": 65.1656488,
+        "hv_30": 28.31,
+        "rsi_14": 42.37,
+        "pct_off_52w_high": -21.191666666666674,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-10-27",
+        "days_to_earnings": 17,
+        "nearest_support": 93.96,
+        "nearest_resistance": 94.76,
+        "fair_value_mid": 101.74,
+        "fair_value_upside_pct": 7.6
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "condor",
+          "score": 45.7,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "cal_high_iv",
+          "score": 35.0,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "VICI",
+      "profile": {
+        "price": 22.88,
+        "iv_rank": 49.848790300000005,
+        "iv_percentile": 21.9656807,
+        "hv_30": 17.6,
+        "rsi_14": 32.31,
+        "pct_off_52w_high": -27.180140038192242,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-10-28",
+        "days_to_earnings": 18,
+        "nearest_support": 22.43,
+        "nearest_resistance": 24.61,
+        "fair_value_mid": 26.42,
+        "fair_value_upside_pct": 15.5
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "wheel",
+          "score": 45.5,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "OXY",
+      "profile": {
+        "price": 60.11,
+        "iv_rank": 24.2608036,
+        "iv_percentile": 22.9724535,
+        "hv_30": 36.58,
+        "rsi_14": 57.58,
+        "pct_off_52w_high": -9.25422705314009,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": "2026-11-09",
+        "days_to_earnings": 30,
+        "nearest_support": 60.0,
+        "nearest_resistance": 60.84,
+        "fair_value_mid": 49.57,
+        "fair_value_upside_pct": -17.5
+      },
+      "analyst": {
+        "consensus": "Hold",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_low_iv",
+          "score": 45.3,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "F",
+      "profile": {
+        "price": 12.17,
+        "iv_rank": 50.9873061,
+        "iv_percentile": 71.87952250000001,
+        "hv_30": 26.24,
+        "rsi_14": 35.87,
+        "pct_off_52w_high": -30.217889908256883,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-10-28",
+        "days_to_earnings": 18,
+        "nearest_support": 11.91,
+        "nearest_resistance": 12.38,
+        "fair_value_mid": 13.54,
+        "fair_value_upside_pct": 11.2
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "wheel",
+          "score": 45.0,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "condor",
+          "score": 35.3,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "MSTY",
+      "profile": {
+        "price": 15.66,
+        "iv_rank": 18.2417253,
+        "iv_percentile": 23.9256952,
+        "hv_30": null,
+        "rsi_14": 48.97,
+        "pct_off_52w_high": -76.91967575534268,
+        "price_above_ma50": true,
+        "price_above_ma200": false,
+        "earnings_date": null,
+        "days_to_earnings": null,
+        "nearest_support": 15.5,
+        "nearest_resistance": 15.73,
+        "fair_value_mid": 27.13,
+        "fair_value_upside_pct": 73.2
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_low_iv",
+          "score": 44.9,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "ADM",
+      "profile": {
+        "price": 79.89,
+        "iv_rank": 45.9777632,
+        "iv_percentile": 69.2397979,
+        "hv_30": 25.26,
+        "rsi_14": 42.4,
+        "pct_off_52w_high": -9.308661596094906,
+        "price_above_ma50": false,
+        "price_above_ma200": true,
+        "earnings_date": "2026-11-03",
+        "days_to_earnings": 24,
+        "nearest_support": 78.1,
+        "nearest_resistance": 80.0,
+        "fair_value_mid": 76.19,
+        "fair_value_upside_pct": -4.6
+      },
+      "analyst": {
+        "consensus": "Hold",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "condor",
+          "score": 43.4,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "double_cal",
+          "score": 38.7,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "cal_high_iv",
+          "score": 31.9,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "VFC",
+      "profile": {
+        "price": 15.0,
+        "iv_rank": 42.8656244,
+        "iv_percentile": 36.4360099,
+        "hv_30": 32.15,
+        "rsi_14": 65.07,
+        "pct_off_52w_high": -30.394431554524363,
+        "price_above_ma50": true,
+        "price_above_ma200": false,
+        "earnings_date": "2026-10-28",
+        "days_to_earnings": 18,
+        "nearest_support": 14.68,
+        "nearest_resistance": 15.32,
+        "fair_value_mid": 15.88,
+        "fair_value_upside_pct": 5.9
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "pmcc",
+          "score": 42.7,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "cal_high_iv",
+          "score": 37.5,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "FMCC",
+      "profile": {
+        "price": 3.68,
+        "iv_rank": null,
+        "iv_percentile": null,
+        "hv_30": null,
+        "rsi_14": 25.36,
+        "pct_off_52w_high": -68.99747262005054,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-10-29",
+        "days_to_earnings": 19,
+        "nearest_support": 3.62,
+        "nearest_resistance": 4.0,
+        "fair_value_mid": 6.16,
+        "fair_value_upside_pct": 67.3
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "wheel",
+          "score": 42.3,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "C",
+      "profile": {
+        "price": 129.64,
+        "iv_rank": 21.9321149,
+        "iv_percentile": 30.2486715,
+        "hv_30": 20.56,
+        "rsi_14": 44.67,
+        "pct_off_52w_high": -11.004324843825087,
+        "price_above_ma50": false,
+        "price_above_ma200": true,
+        "earnings_date": "2026-10-13",
+        "days_to_earnings": 3,
+        "nearest_support": 129.61,
+        "nearest_resistance": 130.0,
+        "fair_value_mid": 125.49,
+        "fair_value_upside_pct": -3.2
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "double_cal",
+          "score": 41.7,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "cal_low_iv",
+          "score": 32.5,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "HBAN",
+      "profile": {
+        "price": 15.32,
+        "iv_rank": 34.3601302,
+        "iv_percentile": 49.4915867,
+        "hv_30": 25.18,
+        "rsi_14": 37.21,
+        "pct_off_52w_high": -20.498183705241306,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-10-22",
+        "days_to_earnings": 12,
+        "nearest_support": 15.17,
+        "nearest_resistance": 15.5,
+        "fair_value_mid": 16.69,
+        "fair_value_upside_pct": 8.9
+      },
+      "analyst": {
+        "consensus": "Buy",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "wheel",
+          "score": 41.5,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "DOW",
+      "profile": {
+        "price": 28.42,
+        "iv_rank": 17.152724499999998,
+        "iv_percentile": 18.8829408,
+        "hv_30": 25.63,
+        "rsi_14": 46.8,
+        "pct_off_52w_high": -32.123238595653206,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-10-22",
+        "days_to_earnings": 12,
+        "nearest_support": 28.23,
+        "nearest_resistance": 28.69,
+        "fair_value_mid": 30.68,
+        "fair_value_upside_pct": 8.0
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_low_iv",
+          "score": 41.4,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "FNMA",
+      "profile": {
+        "price": 4.04,
+        "iv_rank": null,
+        "iv_percentile": null,
+        "hv_30": null,
+        "rsi_14": 27.17,
+        "pct_off_52w_high": -68.08846761453398,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-11-04",
+        "days_to_earnings": 25,
+        "nearest_support": 4.0,
+        "nearest_resistance": 4.82,
+        "fair_value_mid": 6.74,
+        "fair_value_upside_pct": 66.9
+      },
+      "analyst": {
+        "consensus": "Hold",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "wheel",
+          "score": 41.4,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "JCI",
+      "profile": {
+        "price": 157.44,
+        "iv_rank": 59.6623563,
+        "iv_percentile": 83.6368604,
+        "hv_30": 31.05,
+        "rsi_14": 64.11,
+        "pct_off_52w_high": -0.8314436885865415,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": "2026-10-27",
+        "days_to_earnings": 17,
+        "nearest_support": 157.06,
+        "nearest_resistance": 160.0,
+        "fair_value_mid": 138.53,
+        "fair_value_upside_pct": -12.0
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "condor",
+          "score": 41.4,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "DRAM",
+      "profile": {
+        "price": 57.19,
+        "iv_rank": 7.1245186,
+        "iv_percentile": 3.3759775999999997,
+        "hv_30": null,
+        "rsi_14": 44.8,
+        "pct_off_52w_high": -29.150148662041627,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": null,
+        "days_to_earnings": null,
+        "nearest_support": 56.38,
+        "nearest_resistance": 58.27,
+        "fair_value_mid": 54.24,
+        "fair_value_upside_pct": -5.2
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_low_iv",
+          "score": 40.8,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "PRU",
+      "profile": {
+        "price": 113.09,
+        "iv_rank": 44.6378439,
+        "iv_percentile": 52.4221134,
+        "hv_30": 15.64,
+        "rsi_14": 37.87,
+        "pct_off_52w_high": -9.62199312714776,
+        "price_above_ma50": false,
+        "price_above_ma200": true,
+        "earnings_date": "2026-11-03",
+        "days_to_earnings": 24,
+        "nearest_support": 111.65,
+        "nearest_resistance": 115.97,
+        "fair_value_mid": 112.08,
+        "fair_value_upside_pct": -0.9
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "condor",
+          "score": 40.5,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "HPQ",
+      "profile": {
+        "price": 30.2,
+        "iv_rank": 41.9593853,
+        "iv_percentile": 43.2795137,
+        "hv_30": 54.94,
+        "rsi_14": 42.82,
+        "pct_off_52w_high": -14.881623449830887,
+        "price_above_ma50": false,
+        "price_above_ma200": true,
+        "earnings_date": "2026-11-24",
+        "days_to_earnings": 45,
+        "nearest_support": 30.0,
+        "nearest_resistance": 30.57,
+        "fair_value_mid": 27.6,
+        "fair_value_upside_pct": -8.6
+      },
+      "analyst": {
+        "consensus": "Hold",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "double_cal",
+          "score": 39.9,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "cal_high_iv",
+          "score": 18.0,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "CSCO",
+      "profile": {
+        "price": 118.39,
+        "iv_rank": 45.2334358,
+        "iv_percentile": 70.8618448,
+        "hv_30": 35.26,
+        "rsi_14": 64.77,
+        "pct_off_52w_high": -8.930769230769231,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": "2026-11-11",
+        "days_to_earnings": 32,
+        "nearest_support": 117.28,
+        "nearest_resistance": 120.0,
+        "fair_value_mid": 103.05,
+        "fair_value_upside_pct": -13.0
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_high_iv",
+          "score": 39.3,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "condor",
+          "score": 20.2,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "GLD",
+      "profile": {
+        "price": 384.58,
+        "iv_rank": 18.6366689,
+        "iv_percentile": 19.6936693,
+        "hv_30": 21.14,
+        "rsi_14": 45.85,
+        "pct_off_52w_high": -22.44807420850978,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": null,
+        "days_to_earnings": null,
+        "nearest_support": 382.91,
+        "nearest_resistance": 386.81,
+        "fair_value_mid": 402.58,
+        "fair_value_upside_pct": 4.7
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_low_iv",
+          "score": 39.2,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "CMG",
+      "profile": {
+        "price": 31.59,
+        "iv_rank": 60.9113564,
+        "iv_percentile": 69.7496572,
+        "hv_30": 40.39,
+        "rsi_14": 41.18,
+        "pct_off_52w_high": -25.424929178470258,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-10-28",
+        "days_to_earnings": 18,
+        "nearest_support": 31.58,
+        "nearest_resistance": 31.64,
+        "fair_value_mid": 34.94,
+        "fair_value_upside_pct": 10.6
+      },
+      "analyst": {
+        "consensus": "Buy",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_high_iv",
+          "score": 38.8,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "BF.B",
+      "profile": {
+        "price": 26.39,
+        "iv_rank": 24.620355399999998,
+        "iv_percentile": 15.588743699999998,
+        "hv_30": 21.29,
+        "rsi_14": 49.35,
+        "pct_off_52w_high": -14.540155440414503,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-12-03",
+        "days_to_earnings": 54,
+        "nearest_support": 26.3,
+        "nearest_resistance": 26.66,
+        "fair_value_mid": 27.07,
+        "fair_value_upside_pct": 2.6
+      },
+      "analyst": {
+        "consensus": "Hold",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_low_iv",
+          "score": 38.7,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "SLB",
+      "profile": {
+        "price": 48.95,
+        "iv_rank": 52.005943499999994,
+        "iv_percentile": 56.280449,
+        "hv_30": 32.01,
+        "rsi_14": 39.02,
+        "pct_off_52w_high": -18.552412645590678,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-10-23",
+        "days_to_earnings": 13,
+        "nearest_support": 48.73,
+        "nearest_resistance": 49.55,
+        "fair_value_mid": 41.08,
+        "fair_value_upside_pct": -16.1
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "condor",
+          "score": 38.2,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "BA",
+      "profile": {
+        "price": 190.37,
+        "iv_rank": 52.086137300000004,
+        "iv_percentile": 67.0656041,
+        "hv_30": 35.26,
+        "rsi_14": 40.16,
+        "pct_off_52w_high": -24.50128891532818,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-10-27",
+        "days_to_earnings": 17,
+        "nearest_support": 190.0,
+        "nearest_resistance": 196.19,
+        "fair_value_mid": 211.53,
+        "fair_value_upside_pct": 11.1
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "condor",
+          "score": 37.9,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "cal_high_iv",
+          "score": 29.6,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "NIO",
+      "profile": {
+        "price": 3.58,
+        "iv_rank": 43.097217199999996,
+        "iv_percentile": 25.8950857,
+        "hv_30": 36.36,
+        "rsi_14": 44.72,
+        "pct_off_52w_high": -52.01072386058981,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-11-24",
+        "days_to_earnings": 45,
+        "nearest_support": 3.55,
+        "nearest_resistance": 3.79,
+        "fair_value_mid": 4.75,
+        "fair_value_upside_pct": 32.8
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "condor",
+          "score": 35.9,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "cal_high_iv",
+          "score": 30.0,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "USO",
+      "profile": {
+        "price": 148.2,
+        "iv_rank": 20.410125,
+        "iv_percentile": 86.0482486,
+        "hv_30": 43.87,
+        "rsi_14": 53.31,
+        "pct_off_52w_high": -8.439392067218598,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": null,
+        "days_to_earnings": null,
+        "nearest_support": 143.16,
+        "nearest_resistance": 150.0,
+        "fair_value_mid": 123.85,
+        "fair_value_upside_pct": -16.4
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "double_cal",
+          "score": 35.2,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "VST",
+      "profile": {
+        "price": 161.48,
+        "iv_rank": 45.0816697,
+        "iv_percentile": 33.1196655,
+        "hv_30": 54.54,
+        "rsi_14": 64.42,
+        "pct_off_52w_high": -23.41474982214845,
+        "price_above_ma50": true,
+        "price_above_ma200": true,
+        "earnings_date": "2026-11-06",
+        "days_to_earnings": 27,
+        "nearest_support": 160.0,
+        "nearest_resistance": 162.44,
+        "fair_value_mid": 145.64,
+        "fair_value_upside_pct": -9.8
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_high_iv",
+          "score": 32.9,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "pmcc",
+          "score": 30.0,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "LEN",
+      "profile": {
+        "price": 76.69,
+        "iv_rank": 52.293578,
+        "iv_percentile": 63.1575114,
+        "hv_30": 44.66,
+        "rsi_14": 41.9,
+        "pct_off_52w_high": -42.394651844062196,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-09-16",
+        "days_to_earnings": -24,
+        "nearest_support": 76.16,
+        "nearest_resistance": 79.83,
+        "fair_value_mid": 93.09,
+        "fair_value_upside_pct": 21.4
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_high_iv",
+          "score": 30.1,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "ICLN",
+      "profile": {
+        "price": 17.28,
+        "iv_rank": 28.9775691,
+        "iv_percentile": 23.1720112,
+        "hv_30": 23.77,
+        "rsi_14": 47.72,
+        "pct_off_52w_high": -27.24210526315789,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": null,
+        "days_to_earnings": null,
+        "nearest_support": 17.21,
+        "nearest_resistance": 17.44,
+        "fair_value_mid": 18.44,
+        "fair_value_upside_pct": 6.7
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_low_iv",
+          "score": 28.4,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "HAL",
+      "profile": {
+        "price": 32.55,
+        "iv_rank": 39.737532800000004,
+        "iv_percentile": 26.9483413,
+        "hv_30": 27.06,
+        "rsi_14": 43.67,
+        "pct_off_52w_high": -24.267100977198698,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-10-20",
+        "days_to_earnings": 10,
+        "nearest_support": 31.12,
+        "nearest_resistance": 32.81,
+        "fair_value_mid": 30.16,
+        "fair_value_upside_pct": -7.3
+      },
+      "analyst": {
+        "consensus": "Buy",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_high_iv",
+          "score": 27.8,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "UMAC",
+      "profile": {
+        "price": 20.83,
+        "iv_rank": 9.7160356,
+        "iv_percentile": 0.7267941,
+        "hv_30": null,
+        "rsi_14": 40.35,
+        "pct_off_52w_high": -38.843217850851445,
+        "price_above_ma50": false,
+        "price_above_ma200": true,
+        "earnings_date": "2026-11-05",
+        "days_to_earnings": 26,
+        "nearest_support": 20.15,
+        "nearest_resistance": 21.33,
+        "fair_value_mid": 20.78,
+        "fair_value_upside_pct": -0.2
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_low_iv",
+          "score": 27.8,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "HOOD",
+      "profile": {
+        "price": 109.02,
+        "iv_rank": 43.2891832,
+        "iv_percentile": 21.571132900000002,
+        "hv_30": 50.21,
+        "rsi_14": 45.8,
+        "pct_off_52w_high": -28.49271940181032,
+        "price_above_ma50": false,
+        "price_above_ma200": true,
+        "earnings_date": "2026-10-27",
+        "days_to_earnings": 17,
+        "nearest_support": 101.9,
+        "nearest_resistance": 109.03,
+        "fair_value_mid": 103.77,
+        "fair_value_upside_pct": -4.8
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_high_iv",
+          "score": 27.5,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "AIPO",
+      "profile": {
+        "price": 28.84,
+        "iv_rank": 25.623919,
+        "iv_percentile": 6.918142100000001,
+        "hv_30": null,
+        "rsi_14": 50.08,
+        "pct_off_52w_high": -17.054932412999722,
+        "price_above_ma50": false,
+        "price_above_ma200": true,
+        "earnings_date": null,
+        "days_to_earnings": null,
+        "nearest_support": 28.04,
+        "nearest_resistance": 29.07,
+        "fair_value_mid": 28.22,
+        "fair_value_upside_pct": -2.2
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_low_iv",
+          "score": 27.4,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "ENPH",
+      "profile": {
+        "price": 32.81,
+        "iv_rank": 41.7114094,
+        "iv_percentile": 56.3289707,
+        "hv_30": 34.06,
+        "rsi_14": 40.27,
+        "pct_off_52w_high": -54.63846260196322,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-10-27",
+        "days_to_earnings": 17,
+        "nearest_support": 30.7,
+        "nearest_resistance": 33.65,
+        "fair_value_mid": 41.8,
+        "fair_value_upside_pct": 27.4
+      },
+      "analyst": {
+        "consensus": "Hold",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "condor",
+          "score": 27.2,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "cal_high_iv",
+          "score": 19.9,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "SCHW",
+      "profile": {
+        "price": 96.7,
+        "iv_rank": 45.007306400000004,
+        "iv_percentile": 51.325888,
+        "hv_30": 26.14,
+        "rsi_14": 35.18,
+        "pct_off_52w_high": -14.91421029476463,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-10-15",
+        "days_to_earnings": 5,
+        "nearest_support": 94.83,
+        "nearest_resistance": 97.17,
+        "fair_value_mid": 99.67,
+        "fair_value_upside_pct": 3.1
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "condor",
+          "score": 27.2,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "XPEV",
+      "profile": {
+        "price": 9.9,
+        "iv_rank": 20.8950969,
+        "iv_percentile": 4.791910499999999,
+        "hv_30": 34.09,
+        "rsi_14": 43.31,
+        "pct_off_52w_high": -64.7310295689348,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-11-16",
+        "days_to_earnings": 37,
+        "nearest_support": 9.18,
+        "nearest_resistance": 10.0,
+        "fair_value_mid": 14.59,
+        "fair_value_upside_pct": 47.4
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_low_iv",
+          "score": 25.6,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "WM",
+      "profile": {
+        "price": 208.83,
+        "iv_rank": 30.931458699999997,
+        "iv_percentile": 51.6255075,
+        "hv_30": 15.87,
+        "rsi_14": 44.49,
+        "pct_off_52w_high": -15.285383960082747,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-10-27",
+        "days_to_earnings": 17,
+        "nearest_support": 200.58,
+        "nearest_resistance": 208.93,
+        "fair_value_mid": 220.04,
+        "fair_value_upside_pct": 5.4
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_high_iv",
+          "score": 24.8,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "ORCL",
+      "profile": {
+        "price": 141.4,
+        "iv_rank": 25.533769099999997,
+        "iv_percentile": 29.401885999999998,
+        "hv_30": 49.71,
+        "rsi_14": 48.18,
+        "pct_off_52w_high": -54.824281150159734,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-09-10",
+        "days_to_earnings": -30,
+        "nearest_support": 140.0,
+        "nearest_resistance": 145.4,
+        "fair_value_mid": 172.0,
+        "fair_value_upside_pct": 21.6
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_low_iv",
+          "score": 23.6,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "UAL",
+      "profile": {
+        "price": 107.46,
+        "iv_rank": 23.0252969,
+        "iv_percentile": 35.094040799999995,
+        "hv_30": 33.23,
+        "rsi_14": 42.26,
+        "pct_off_52w_high": -21.04915142164427,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-10-20",
+        "days_to_earnings": 10,
+        "nearest_support": 105.98,
+        "nearest_resistance": 108.05,
+        "fair_value_mid": 110.45,
+        "fair_value_upside_pct": 2.8
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_low_iv",
+          "score": 20.9,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "NVR",
+      "profile": {
+        "price": 5899.16,
+        "iv_rank": null,
+        "iv_percentile": 0.0,
+        "hv_30": null,
+        "rsi_14": 37.11,
+        "pct_off_52w_high": -27.146129858902718,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-10-28",
+        "days_to_earnings": 18,
+        "nearest_support": 5850.0,
+        "nearest_resistance": 5919.25,
+        "fair_value_mid": 6571.07,
+        "fair_value_upside_pct": 11.4
+      },
+      "analyst": {
+        "consensus": null,
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "wheel",
+          "score": 20.4,
+          "reasons": [],
+          "notes": []
+        },
+        {
+          "strategy": "condor",
+          "score": 14.2,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "PAYX",
+      "profile": {
+        "price": 103.98,
+        "iv_rank": 20.9960159,
+        "iv_percentile": 8.142404899999999,
+        "hv_30": 37.1,
+        "rsi_14": 40.58,
+        "pct_off_52w_high": -19.138346683256863,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-09-23",
+        "days_to_earnings": -17,
+        "nearest_support": 103.11,
+        "nearest_resistance": 107.9,
+        "fair_value_mid": 109.38,
+        "fair_value_upside_pct": 5.2
+      },
+      "analyst": {
+        "consensus": "Hold",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_low_iv",
+          "score": 18.4,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "FISV",
+      "profile": {
+        "price": 45.63,
+        "iv_rank": 38.4081042,
+        "iv_percentile": 49.1836298,
+        "hv_30": 32.28,
+        "rsi_14": 40.01,
+        "pct_off_52w_high": -63.94025604551919,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-11-03",
+        "days_to_earnings": 24,
+        "nearest_support": 45.0,
+        "nearest_resistance": 47.04,
+        "fair_value_mid": 65.72,
+        "fair_value_upside_pct": 44.0
+      },
+      "analyst": {
+        "consensus": "Hold",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_high_iv",
+          "score": 16.7,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "ticker": "ACHR",
+      "profile": {
+        "price": 4.96,
+        "iv_rank": 31.4440703,
+        "iv_percentile": 17.602541,
+        "hv_30": 48.29,
+        "rsi_14": 42.73,
+        "pct_off_52w_high": -61.933998465080585,
+        "price_above_ma50": false,
+        "price_above_ma200": false,
+        "earnings_date": "2026-11-05",
+        "days_to_earnings": 26,
+        "nearest_support": 4.93,
+        "nearest_resistance": 5.0,
+        "fair_value_mid": 6.62,
+        "fair_value_upside_pct": 33.4
+      },
+      "analyst": {
+        "consensus": "Buy",
+        "target_median": null,
+        "upside_pct": null
+      },
+      "strategies": [
+        {
+          "strategy": "cal_high_iv",
+          "score": 9.7,
+          "reasons": [],
+          "notes": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1633 @@
+{
+  "generated_at": "2026-11-21T03:06:17.977615+00:00",
+  "group_count": 10,
+  "total_variants": 38,
+  "groups": [
+    {
+      "ticker": "AA",
+      "strategy": "wheel",
+      "variants": [
+        {
+          "ticker": "AA",
+          "strategy": "wheel",
+          "expiration": "2026-12-18",
+          "dte": 27,
+          "legs": [
+            {
+              "action": "SELL",
+              "symbol": "AA    261218P00033000",
+              "underlying": "AA",
+              "expiration": "2026-12-18",
+              "strike": 33.0,
+              "right": "put",
+              "bid": 1.74,
+              "ask": 1.99,
+              "last": 1.92,
+              "volume": 166,
+              "open_interest": 563,
+              "implied_volatility": 0.554043828,
+              "delta": -0.424661801,
+              "gamma": 0.076253661,
+              "theta": -0.03612831,
+              "vega": 0.036336269
+            }
+          ],
+          "net_credit": 1.865,
+          "net_debit": null,
+          "max_loss": 3113.5,
+          "max_profit": 186.5,
+          "breakeven": 31.135,
+          "breakeven_upper": null,
+          "roi_pct": 5.651515151515152,
+          "pop_est": 57.5,
+          "notes": [],
+          "variant_label": "32\u0394 27DTE",
+          "score": 81.0,
+          "recommended": true
+        }
+      ]
+    },
+    {
+      "ticker": "ABBV",
+      "strategy": "cal_high_iv",
+      "variants": [
+        {
+          "ticker": "ABBV",
+          "strategy": "cal_high_iv",
+          "expiration": "2026-12-18",
+          "dte": 27,
+          "legs": [
+            {
+              "action": "SELL",
+              "symbol": "ABBV  261218C00290000",
+              "underlying": "ABBV",
+              "expiration": "2026-12-18",
+              "strike": 290.0,
+              "right": "call",
+              "bid": 7.15,
+              "ask": 8.45,
+              "last": 7.7,
+              "volume": 607,
+              "open_interest": 2227,
+              "implied_volatility": 0.288802528,
+              "delta": 0.450076532,
+              "gamma": 0.017337501,
+              "theta": -0.162149943,
+              "vega": 0.312893021
+            },
+            {
+              "action": "BUY",
+              "symbol": "ABBV  270115C00290000",
+              "underlying": "ABBV",
+              "expiration": "2027-01-15",
+              "strike": 290.0,
+              "right": "call",
+              "bid": 10.4,
+              "ask": 12.35,
+              "last": 12.55,
+              "volume": 134,
+              "open_interest": 1771,
+              "implied_volatility": 0.295767373,
+              "delta": 0.477604964,
+              "gamma": 0.012029727,
+              "theta": -0.118000707,
+              "vega": 0.44590679
+            }
+          ],
+          "net_credit": null,
+          "net_debit": 5.199999999999999,
+          "max_loss": 519.9999999999999,
+          "max_profit": null,
+          "breakeven": 290.0,
+          "breakeven_upper": null,
+          "roi_pct": null,
+          "pop_est": null,
+          "notes": [
+            "Back-month exp: 2027-01-15 (55 DTE)"
+          ],
+          "variant_label": "40\u0394 F27DTE B55DTE",
+          "score": 0.0,
+          "recommended": true
+        }
+      ]
+    },
+    {
+      "ticker": "ACHR",
+      "strategy": "momo_scall",
+      "variants": [
+        {
+          "ticker": "ACHR",
+          "strategy": "momo_scall",
+          "expiration": "2026-12-18",
+          "dte": 27,
+          "legs": [
+            {
+              "action": "SELL",
+              "symbol": "ACHR  261218C00004000",
+              "underlying": "ACHR",
+              "expiration": "2026-12-18",
+              "strike": 4.0,
+              "right": "call",
+              "bid": 0.05,
+              "ask": 0.06,
+              "last": 0.05,
+              "volume": 213,
+              "open_interest": 1796,
+              "implied_volatility": 0.994036443,
+              "delta": 0.178018189,
+              "gamma": 0.317488468,
+              "theta": -0.003839406,
+              "vega": 0.002151526
+            }
+          ],
+          "net_credit": 0.055,
+          "net_debit": null,
+          "max_loss": null,
+          "max_profit": 5.5,
+          "breakeven": 4.055,
+          "breakeven_upper": null,
+          "roi_pct": 1.375,
+          "pop_est": 82.2,
+          "notes": [
+            "Unbounded risk \u2014 est. Reg-T margin ~$46/contract"
+          ],
+          "variant_label": "16\u0394 27DTE",
+          "score": 163.4,
+          "recommended": true
+        },
+        {
+          "ticker": "ACHR",
+          "strategy": "momo_scall",
+          "expiration": "2026-12-18",
+          "dte": 27,
+          "legs": [
+            {
+              "action": "SELL",
+              "symbol": "ACHR  261218C00004000",
+              "underlying": "ACHR",
+              "expiration": "2026-12-18",
+              "strike": 4.0,
+              "right": "call",
+              "bid": 0.05,
+              "ask": 0.06,
+              "last": 0.05,
+              "volume": 213,
+              "open_interest": 1796,
+              "implied_volatility": 0.994036443,
+              "delta": 0.178018189,
+              "gamma": 0.317488468,
+              "theta": -0.003839406,
+              "vega": 0.002151526
+            }
+          ],
+          "net_credit": 0.055,
+          "net_debit": null,
+          "max_loss": null,
+          "max_profit": 5.5,
+          "breakeven": 4.055,
+          "breakeven_upper": null,
+          "roi_pct": 1.375,
+          "pop_est": 82.2,
+          "notes": [
+            "Unbounded risk \u2014 est. Reg-T margin ~$46/contract"
+          ],
+          "variant_label": "20\u0394 27DTE",
+          "score": 163.4,
+          "recommended": false
+        },
+        {
+          "ticker": "ACHR",
+          "strategy": "momo_scall",
+          "expiration": "2026-12-18",
+          "dte": 27,
+          "legs": [
+            {
+              "action": "SELL",
+              "symbol": "ACHR  261218C00004000",
+              "underlying": "ACHR",
+              "expiration": "2026-12-18",
+              "strike": 4.0,
+              "right": "call",
+              "bid": 0.05,
+              "ask": 0.06,
+              "last": 0.05,
+              "volume": 213,
+              "open_interest": 1796,
+              "implied_volatility": 0.994036443,
+              "delta": 0.178018189,
+              "gamma": 0.317488468,
+              "theta": -0.003839406,
+              "vega": 0.002151526
+            }
+          ],
+          "net_credit": 0.055,
+          "net_debit": null,
+          "max_loss": null,
+          "max_profit": 5.5,
+          "breakeven": 4.055,
+          "breakeven_upper": null,
+          "roi_pct": 1.375,
+          "pop_est": 82.2,
+          "notes": [
+            "Unbounded risk \u2014 est. Reg-T margin ~$46/contract"
+          ],
+          "variant_label": "25\u0394 27DTE",
+          "score": 163.4,
+          "recommended": false
+        },
+        {
+          "ticker": "ACHR",
+          "strategy": "momo_scall",
+          "expiration": "2026-12-18",
+          "dte": 27,
+          "legs": [
+            {
+              "action": "SELL",
+              "symbol": "ACHR  261218C00004000",
+              "underlying": "ACHR",
+              "expiration": "2026-12-18",
+              "strike": 4.0,
+              "right": "call",
+              "bid": 0.05,
+              "ask": 0.06,
+              "last": 0.05,
+              "volume": 213,
+              "open_interest": 1796,
+              "implied_volatility": 0.994036443,
+              "delta": 0.178018189,
+              "gamma": 0.317488468,
+              "theta": -0.003839406,
+              "vega": 0.002151526
+            }
+          ],
+          "net_credit": 0.055,
+          "net_debit": null,
+          "max_loss": null,
+          "max_profit": 5.5,
+          "breakeven": 4.055,
+          "breakeven_upper": null,
+          "roi_pct": 1.375,
+          "pop_est": 82.2,
+          "notes": [
+            "Unbounded risk \u2014 est. Reg-T margin ~$46/contract"
+          ],
+          "variant_label": "30\u0394 27DTE",
+          "score": 163.4,
+          "recommended": false
+        }
+      ]
+    },
+    {
+      "ticker": "ASTS",
+      "strategy": "momo_scall",
+      "variants": [
+        {
+          "ticker": "ASTS",
+          "strategy": "momo_scall",
+          "expiration": "2026-12-18",
+          "dte": 27,
+          "legs": [
+            {
+              "action": "SELL",
+              "symbol": "ASTS  261218C00030000",
+              "underlying": "ASTS",
+              "expiration": "2026-12-18",
+              "strike": 30.0,
+              "right": "call",
+              "bid": 0.98,
+              "ask": 1.11,
+              "last": 1.06,
+              "volume": 5493,
+              "open_interest": 3910,
+              "implied_volatility": 1.18315788,
+              "delta": 0.306562772,
+              "gamma": 0.044567649,
+              "theta": -0.049646496,
+              "vega": 0.023373887
+            }
+          ],
+          "net_credit": 1.045,
+          "net_debit": null,
+          "max_loss": null,
+          "max_profit": 104.5,
+          "breakeven": 31.045,
+          "breakeven_upper": null,
+          "roi_pct": 3.4833333333333334,
+          "pop_est": 69.3,
+          "notes": [
+            "Unbounded risk \u2014 est. Reg-T margin ~$404/contract"
+          ],
+          "variant_label": "25\u0394 27DTE",
+          "score": 349.2,
+          "recommended": true
+        },
+        {
+          "ticker": "ASTS",
+          "strategy": "momo_scall",
+          "expiration": "2026-12-18",
+          "dte": 27,
+          "legs": [
+            {
+              "action": "SELL",
+              "symbol": "ASTS  261218C00030000",
+              "underlying": "ASTS",
+              "expiration": "2026-12-18",
+              "strike": 30.0,
+              "right": "call",
+              "bid": 0.98,
+              "ask": 1.11,
+              "last": 1.06,
+              "volume": 5493,
+              "open_interest": 3910,
+              "implied_volatility": 1.18315788,
+              "delta": 0.306562772,
+              "gamma": 0.044567649,
+              "theta": -0.049646496,
+              "vega": 0.023373887
+            }
+          ],
+          "net_credit": 1.045,
+          "net_debit": null,
+          "max_loss": null,
+          "max_profit": 104.5,
+          "breakeven": 31.045,
+          "breakeven_upper": null,
+          "roi_pct": 3.4833333333333334,
+          "pop_est": 69.3,
+          "notes": [
+            "Unbounded risk \u2014 est. Reg-T margin ~$404/contract"
+          ],
+          "variant_label": "30\u0394 27DTE",
+          "score": 349.2,
+          "recommended": false
+        }
+      ]
+    },
+    {
+      "ticker": "CRWD",
+      "strategy": "momo_csp",
+      "variants": [
+        {
+          "ticker": "CRWD",
+          "strategy": "momo_csp",
+          "expiration": "2026-12-18",
+          "dte": 27,
+          "legs": [
+            {
+              "action": "SELL",
+              "symbol": "CRWD  261218P00180000",
+              "underlying": "CRWD",
+              "expiration": "2026-12-18",
+              "strike": 180.0,
+              "right": "put",
+              "bid": 5.3,
+              "ask": 5.8,
+              "last": 5.4,
+              "volume": 305,
+              "open_interest": 3131,
+              "implied_volatility": 0.97855323,
+              "delta": -0.19772379,
+              "gamma": 0.004712351,
+              "theta": -0.294497837,
+              "vega": 0.167642026
+            }
+          ],
+          "net_credit": 5.55,
+          "net_debit": null,
+          "max_loss": 17445.0,
+          "max_profit": 555.0,
+          "breakeven": 174.45,
+          "breakeven_upper": null,
+          "roi_pct": 3.083333333333333,
+          "pop_est": 80.2,
+          "notes": [],
+          "variant_label": "20\u0394 27DTE",
+          "score": 43.0,
+          "recommended": false
+        },
+        {
+          "ticker": "CRWD",
+          "strategy": "momo_csp",
+          "expiration": "2026-12-18",
+          "dte": 27,
+          "legs": [
+            {
+              "action": "SELL",
+              "symbol": "CRWD  261218P00190000",
+              "underlying": "CRWD",
+              "expiration": "2026-12-18",
+              "strike": 190.0,
+              "right": "put",
+              "bid": 6.75,
+              "ask": 8.0,
+              "last": 7.73,
+              "volume": 230,
+              "open_interest": 4518,
+              "implied_volatility": 0.971191371,
+              "delta": -0.257013587,
+              "gamma": 0.00550618,
+              "theta": -0.338949978,
+              "vega": 0.194408854
+            }
+          ],
+          "net_credit": 7.375,
+          "net_debit": null,
+          "max_loss": 18262.5,
+          "max_profit": 737.5,
+          "breakeven": 182.625,
+          "breakeven_upper": null,
+          "roi_pct": 3.8815789473684212,
+          "pop_est": 74.3,
+          "notes": [],
+          "variant_label": "25\u0394 27DTE",
+          "score": 54.6,
+          "recommended": false
+        },
+        {
+          "ticker": "CRWD",
+          "strategy": "momo_csp",
+          "expiration": "2026-12-18",
+          "dte": 27,
+          "legs": [
+            {
+              "action": "SELL",
+              "symbol": "CRWD  261218P00200000",
+              "underlying": "CRWD",
+              "expiration": "2026-12-18",
+              "strike": 200.0,
+              "right": "put",
+              "bid": 10.0,
+              "ask": 10.9,
+              "last": 10.43,
+              "volume": 177,
+              "open_interest": 2844,
+              "implied_volatility": 0.93642031,
+              "delta": -0.319652073,
+              "gamma": 0.006330845,
+              "theta": -0.36230883,
+              "vega": 0.215522859
+            }
+          ],
+          "net_credit": 10.45,
+          "net_debit": null,
+          "max_loss": 18955.0,
+          "max_profit": 1045.0,
+          "breakeven": 189.55,
+          "breakeven_upper": null,
+          "roi_pct": 5.225,
+          "pop_est": 68.0,
+          "notes": [],
+          "variant_label": "32\u0394 27DTE",
+          "score": 74.5,
+          "recommended": true
+        },
+        {
+          "ticker": "CRWD",
+          "strategy": "momo_csp",
+          "expiration": "2027-01-15",
+          "dte": 55,
+          "legs": [
+            {
+              "action": "SELL",
+              "symbol": "CRWD  270115P00185000",
+              "underlying": "CRWD",
+              "expiration": "2027-01-15",
+              "strike": 185.0,
+              "right": "put",
+              "bid": 9.1,
+              "ask": 10.5,
+              "last": 9.83,
+              "volume": 263,
+              "open_interest": 700,
+              "implied_volatility": 0.840153996,
+              "delta": -0.251866025,
+              "gamma": 0.004446601,
+              "theta": -0.20484318,
+              "vega": 0.272442727
+            }
+          ],
+          "net_credit": 9.8,
+          "net_debit": null,
+          "max_loss": 17520.0,
+          "max_profit": 980.0000000000001,
+          "breakeven": 175.2,
+          "breakeven_upper": null,
+          "roi_pct": 5.297297297297298,
+          "pop_est": 74.8,
+          "notes": [],
+          "variant_label": "25\u0394 55DTE",
+          "score": 37.1,
+          "recommended": false
+        },
+        {
+          "ticker": "CRWD",
+          "strategy": "momo_csp",
+          "expiration": "2027-01-15",
+          "dte": 55,
+          "legs": [
+            {
+              "action": "SELL",
+              "symbol": "CRWD  270115P00190000",
+              "underlying": "CRWD",
+              "expiration": "2027-01-15",
+              "strike": 190.0,
+              "right": "put",
+              "bid": 10.25,
+              "ask": 11.85,
+              "last": 11.2,
+              "volume": 64,
+              "open_interest": 927,
+              "implied_volatility": 0.829159404,
+              "delta": -0.277283079,
+              "gamma": 0.004731513,
+              "theta": -0.212300826,
+              "vega": 0.286105536
+            }
+          ],
+          "net_credit": 11.05,
+          "net_debit": null,
+          "max_loss": 17895.0,
+          "max_profit": 1105.0,
+          "breakeven": 178.95,
+          "breakeven_upper": null,
+          "roi_pct": 5.815789473684211,
+          "pop_est": 72.3,
+          "notes": [],
+          "variant_label": "28\u0394 55DTE",
+          "score": 41.0,
+          "recommended": false
+        },
+        {
+          "ticker": "CRWD",
+          "strategy": "momo_csp",
+          "expiration": "2027-01-15",
+          "dte": 55,
+          "legs": [
+            {
+              "action": "SELL",
+              "symbol": "CRWD  270115P00197500",
+              "underlying": "CRWD",
+              "expiration": "2027-01-15",
+              "strike": 197.5,
+              "right": "put",
+              "bid": 12.9,
+              "ask": 13.8,
+              "last": 13.2,
+              "volume": 23,
+              "open_interest": 525,
+              "implied_volatility": 0.809656042,
+              "delta": -0.317325819,
+              "gamma": 0.005153857,
+              "theta": -0.220500245,
+              "vega": 0.304313433
+            }
+          ],
+          "net_credit": 13.35,
+          "net_debit": null,
+          "max_loss": 18415.0,
+          "max_profit": 1335.0,
+          "breakeven": 184.15,
+          "breakeven_upper": null,
+          "roi_pct": 6.7594936708860756,
+          "pop_est": 68.3,
+          "notes": [],
+          "variant_label": "32\u0394 55DTE",
+          "score": 48.1,
+          "recommended": false
+        }
+      ]
+    },
+    {
+      "ticker": "META",
+      "strategy": "momo_scall",
+      "variants": [
+        {
+          "ticker": "META",
+          "strategy": "momo_scall",
+          "expiration": "2026-12-18",
+          "dte": 27,
+          "legs": [
+            {
+              "action": "SELL",
+              "symbol": "META  261218C00645000",
+              "underlying": "META",
+              "expiration": "2026-12-18",
+              "strike": 645.0,
+              "right": "call",
+              "bid": 5.3,
+              "ask": 5.5,
+              "last": 5.25,
+              "volume": 153,
+              "open_interest": 1487,
+              "implied_volatility": 0.443890986,
+              "delta": 0.165249921,
+              "gamma": 0.003567618,
+              "theta": -0.310675627,
+              "vega": 0.389866038
+            }
+          ],
+          "net_credit": 5.4,
+          "net_debit": null,
+          "max_loss": null,
+          "max_profit": 540.0,
+          "breakeven": 650.4,
+          "breakeven_upper": null,
+          "roi_pct": 0.8372093023255814,
+          "pop_est": 83.5,
+          "notes": [
+            "Unbounded risk \u2014 est. Reg-T margin ~$6,990/contract"
+          ],
+          "variant_label": "16\u0394 27DTE",
+          "score": 104.4,
+          "recommended": false
+        },
+        {
+          "ticker": "META",
+          "strategy": "momo_scall",
+          "expiration": "2026-12-18",
+          "dte": 27,
+          "legs": [
+            {
+              "action": "SELL",
+              "symbol": "META  261218C00635000",
+              "underlying": "META",
+              "expiration": "2026-12-18",
+              "strike": 635.0,
+              "right": "call",
+              "bid": 7.05,
+              "ask": 8.15,
+              "last": 6.75,
+              "volume": 268,
+              "open_interest": 601,
+              "implied_volatility": 0.450412739,
+              "delta": 0.202816533,
+              "gamma": 0.003994826,
+              "theta": -0.358175151,
+              "vega": 0.44296492
+            }
+          ],
+          "net_credit": 7.6,
+          "net_debit": null,
+          "max_loss": null,
+          "max_profit": 760.0,
+          "breakeven": 642.6,
+          "breakeven_upper": null,
+          "roi_pct": 1.1968503937007875,
+          "pop_est": 79.7,
+          "notes": [
+            "Unbounded risk \u2014 est. Reg-T margin ~$7,110/contract"
+          ],
+          "variant_label": "20\u0394 27DTE",
+          "score": 144.5,
+          "recommended": false
+        },
+        {
+          "ticker": "META",
+          "strategy": "momo_scall",
+          "expiration": "2026-12-18",
+          "dte": 27,
+          "legs": [
+            {
+              "action": "SELL",
+              "symbol": "META  261218C00625000",
+              "underlying": "META",
+              "expiration": "2026-12-18",
+              "strike": 625.0,
+              "right": "call",
+              "bid": 9.05,
+              "ask": 9.3,
+              "last": 9.05,
+              "volume": 892,
+              "open_interest": 1662,
+              "implied_volatility": 0.457314379,
+              "delta": 0.244636191,
+              "gamma": 0.00437765,
+              "theta": -0.404619694,
+              "vega": 0.492852209
+            }
+          ],
+          "net_credit": 9.175,
+          "net_debit": null,
+          "max_loss": null,
+          "max_profit": 917.5000000000001,
+          "breakeven": 634.175,
+          "breakeven_upper": null,
+          "roi_pct": 1.468,
+          "pop_est": 75.5,
+          "notes": [
+            "Unbounded risk \u2014 est. Reg-T margin ~$7,168/contract"
+          ],
+          "variant_label": "25\u0394 27DTE",
+          "score": 173.0,
+          "recommended": false
+        },
+        {
+          "ticker": "META",
+          "strategy": "momo_scall",
+          "expiration": "2026-12-18",
+          "dte": 27,
+          "legs": [
+            {
+              "action": "SELL",
+              "symbol": "META  261218C00615000",
+              "underlying": "META",
+              "expiration": "2026-12-18",
+              "strike": 615.0,
+              "right": "call",
+              "bid": 11.45,
+              "ask": 11.65,
+              "last": 11.15,
+              "volume": 220,
+              "open_interest": 759,
+              "implied_volatility": 0.46568554,
+              "delta": 0.290707261,
+              "gamma": 0.004690123,
+              "theta": -0.449516884,
+              "vega": 0.537697235
+            }
+          ],
+          "net_credit": 11.55,
+          "net_debit": null,
+          "max_loss": null,
+          "max_profit": 1155.0,
+          "breakeven": 626.55,
+          "breakeven_upper": null,
+          "roi_pct": 1.8780487804878052,
+          "pop_est": 70.9,
+          "notes": [
+            "Unbounded risk \u2014 est. Reg-T margin ~$7,305/contract"
+          ],
+          "variant_label": "30\u0394 27DTE",
+          "score": 213.7,
+          "recommended": true
+        },
+        {
+          "ticker": "META",
+          "strategy": "momo_scall",
+          "expiration": "2026-12-24",
+          "dte": 33,
+          "legs": [
+            {
+              "action": "SELL",
+              "symbol": "META  261224C00615000",
+              "underlying": "META",
+              "expiration": "2026-12-24",
+              "strike": 615.0,
+              "right": "call",
+              "bid": 11.8,
+              "ask": 13.75,
+              "last": 11.75,
+              "volume": 6,
+              "open_interest": 141,
+              "implied_volatility": 0.435941977,
+              "delta": 0.29759479,
+              "gamma": 0.00460216,
+              "theta": -0.386540777,
+              "vega": 0.598167779
+            }
+          ],
+          "net_credit": 12.775,
+          "net_debit": null,
+          "max_loss": null,
+          "max_profit": 1277.5,
+          "breakeven": 627.775,
+          "breakeven_upper": null,
+          "roi_pct": 2.077235772357724,
+          "pop_est": 70.2,
+          "notes": [
+            "Unbounded risk \u2014 est. Reg-T margin ~$7,428/contract"
+          ],
+          "variant_label": "30\u0394 33DTE",
+          "score": 190.2,
+          "recommended": false
+        },
+        {
+          "ticker": "META",
+          "strategy": "momo_scall",
+          "expiration": "2027-01-15",
+          "dte": 55,
+          "legs": [
+            {
+              "action": "SELL",
+              "symbol": "META  270115C00660000",
+              "underlying": "META",
+              "expiration": "2027-01-15",
+              "strike": 660.0,
+              "right": "call",
+              "bid": 8.7,
+              "ask": 9.0,
+              "last": 9.03,
+              "volume": 184,
+              "open_interest": 3901,
+              "implied_volatility": 0.409764697,
+              "delta": 0.196420233,
+              "gamma": 0.003041131,
+              "theta": -0.225673457,
+              "vega": 0.615401004
+            }
+          ],
+          "net_credit": 8.85,
+          "net_debit": null,
+          "max_loss": null,
+          "max_profit": 885.0,
+          "breakeven": 668.85,
+          "breakeven_upper": null,
+          "roi_pct": 1.3409090909090908,
+          "pop_est": 80.4,
+          "notes": [
+            "Unbounded risk \u2014 est. Reg-T margin ~$7,485/contract"
+          ],
+          "variant_label": "20\u0394 55DTE",
+          "score": 78.5,
+          "recommended": false
+        },
+        {
+          "ticker": "META",
+          "strategy": "momo_scall",
+          "expiration": "2027-01-15",
+          "dte": 55,
+          "legs": [
+            {
+              "action": "SELL",
+              "symbol": "META  270115C00630000",
+              "underlying": "META",
+              "expiration": "2027-01-15",
+              "strike": 630.0,
+              "right": "call",
+              "bid": 15.3,
+              "ask": 15.85,
+              "last": 15.42,
+              "volume": 503,
+              "open_interest": 5286,
+              "implied_volatility": 0.422811739,
+              "delta": 0.293987942,
+              "gamma": 0.003666338,
+              "theta": -0.289669523,
+              "vega": 0.765540243
+            }
+          ],
+          "net_credit": 15.575,
+          "net_debit": null,
+          "max_loss": null,
+          "max_profit": 1557.5,
+          "breakeven": 645.575,
+          "breakeven_upper": null,
+          "roi_pct": 2.4722222222222223,
+          "pop_est": 70.6,
+          "notes": [
+            "Unbounded risk \u2014 est. Reg-T margin ~$7,858/contract"
+          ],
+          "variant_label": "30\u0394 55DTE",
+          "score": 131.5,
+          "recommended": false
+        }
+      ]
+    },
+    {
+      "ticker": "NFLX",
+      "strategy": "momo_scall",
+      "variants": [
+        {
+          "ticker": "NFLX",
+          "strategy": "momo_scall",
+          "expiration": "2026-12-18",
+          "dte": 27,
+          "legs": [
+            {
+              "action": "SELL",
+              "symbol": "NFLX  261218C00064000",
+              "underlying": "NFLX",
+              "expiration": "2026-12-18",
+              "strike": 64.0,
+              "right": "call",
+              "bid": 0.4,
+              "ask": 0.47,
+              "last": 0.45,
+              "volume": 803,
+              "open_interest": 45822,
+              "implied_volatility": 0.383455962,
+              "delta": 0.150105503,
+              "gamma": 0.038627773,
+              "theta": -0.025288697,
+              "vega": 0.03673631
+            }
+          ],
+          "net_credit": 0.435,
+          "net_debit": null,
+          "max_loss": null,
+          "max_profit": 43.5,
+          "breakeven": 64.435,
+          "breakeven_upper": null,
+          "roi_pct": 0.6796875,
+          "pop_est": 85.0,
+          "notes": [
+            "Unbounded risk \u2014 est. Reg-T margin ~$684/contract"
+          ],
+          "variant_label": "16\u0394 27DTE",
+          "score": 86.0,
+          "recommended": false
+        },
+        {
+          "ticker": "NFLX",
+          "strategy": "momo_scall",
+          "expiration": "2026-12-18",
+          "dte": 27,
+          "legs": [
+            {
+              "action": "SELL",
+              "symbol": "NFLX  261218C00063000",
+              "underlying": "NFLX",
+              "expiration": "2026-12-18",
+              "strike": 63.0,
+              "right": "call",
+              "bid": 0.54,
+              "ask": 0.61,
+              "last": 0.56,
+              "volume": 751,
+              "open_interest": 4699,
+              "implied_volatility": 0.381665061,
+              "delta": 0.186219149,
+              "gamma": 0.044590672,
+              "theta": -0.028920422,
+              "vega": 0.042209168
+            }
+          ],
+          "net_credit": 0.575,
+          "net_debit": null,
+          "max_loss": null,
+          "max_profit": 57.49999999999999,
+          "breakeven": 63.575,
+          "breakeven_upper": null,
+          "roi_pct": 0.9126984126984126,
+          "pop_est": 81.4,
+          "notes": [
+            "Unbounded risk \u2014 est. Reg-T margin ~$688/contract"
+          ],
+          "variant_label": "20\u0394 27DTE",
+          "score": 113.1,
+          "recommended": false
+        },
+        {
+          "ticker": "NFLX",
+          "strategy": "momo_scall",
+          "expiration": "2026-12-18",
+          "dte": 27,
+          "legs": [
+            {
+              "action": "SELL",
+              "symbol": "NFLX  261218C00062000",
+              "underlying": "NFLX",
+              "expiration": "2026-12-18",
+              "strike": 62.0,
+              "right": "call",
+              "bid": 0.72,
+              "ask": 0.81,
+              "last": 0.76,
+              "volume": 2245,
+              "open_interest": 5504,
+              "implied_volatility": 0.381095422,
+              "delta": 0.229235875,
+              "gamma": 0.050499493,
+              "theta": -0.032655045,
+              "vega": 0.047731064
+            }
+          ],
+          "net_credit": 0.765,
+          "net_debit": null,
+          "max_loss": null,
+          "max_profit": 76.5,
+          "breakeven": 62.765,
+          "breakeven_upper": null,
+          "roi_pct": 1.2338709677419355,
+          "pop_est": 77.1,
+          "notes": [
+            "Unbounded risk \u2014 est. Reg-T margin ~$696/contract"
+          ],
+          "variant_label": "25\u0394 27DTE",
+          "score": 148.5,
+          "recommended": true
+        },
+        {
+          "ticker": "NFLX",
+          "strategy": "momo_scall",
+          "expiration": "2027-01-15",
+          "dte": 55,
+          "legs": [
+            {
+              "action": "SELL",
+              "symbol": "NFLX  270115C00064000",
+              "underlying": "NFLX",
+              "expiration": "2027-01-15",
+              "strike": 64.0,
+              "right": "call",
+              "bid": 1.1,
+              "ask": 1.27,
+              "last": 1.2,
+              "volume": 2229,
+              "open_interest": 4390,
+              "implied_volatility": 0.388005966,
+              "delta": 0.247005101,
+              "gamma": 0.036482994,
+              "theta": -0.024454741,
+              "vega": 0.070426635
+            }
+          ],
+          "net_credit": 1.185,
+          "net_debit": null,
+          "max_loss": null,
+          "max_profit": 118.5,
+          "breakeven": 65.185,
+          "breakeven_upper": null,
+          "roi_pct": 1.8515625,
+          "pop_est": 75.3,
+          "notes": [
+            "Unbounded risk \u2014 est. Reg-T margin ~$759/contract"
+          ],
+          "variant_label": "25\u0394 55DTE",
+          "score": 103.7,
+          "recommended": false
+        }
+      ]
+    },
+    {
+      "ticker": "OKTA",
+      "strategy": "momo_csp",
+      "variants": [
+        {
+          "ticker": "OKTA",
+          "strategy": "momo_csp",
+          "expiration": "2026-12-18",
+          "dte": 27,
+          "legs": [
+            {
+              "action": "SELL",
+              "symbol": "OKTA  261218P00175000",
+              "underlying": "OKTA",
+              "expiration": "2026-12-18",
+              "strike": 175.0,
+              "right": "put",
+              "bid": 12.4,
+              "ask": 15.05,
+              "last": 10.62,
+              "volume": 1,
+              "open_interest": 212,
+              "implied_volatility": 1.01592099,
+              "delta": -0.286868477,
+              "gamma": 0.006161763,
+              "theta": -0.337901737,
+              "vega": 0.185273868
+            }
+          ],
+          "net_credit": 13.725,
+          "net_debit": null,
+          "max_loss": 16127.5,
+          "max_profit": 1372.5,
+          "breakeven": 161.275,
+          "breakeven_upper": null,
+          "roi_pct": 7.842857142857143,
+          "pop_est": 71.3,
+          "notes": [],
+          "variant_label": "28\u0394 27DTE",
+          "score": 115.0,
+          "recommended": false
+        },
+        {
+          "ticker": "OKTA",
+          "strategy": "momo_csp",
+          "expiration": "2026-12-18",
+          "dte": 27,
+          "legs": [
+            {
+              "action": "SELL",
+              "symbol": "OKTA  261218P00180000",
+              "underlying": "OKTA",
+              "expiration": "2026-12-18",
+              "strike": 180.0,
+              "right": "put",
+              "bid": 14.95,
+              "ask": 16.5,
+              "last": 15.0,
+              "volume": 47,
+              "open_interest": 319,
+              "implied_volatility": 1.007366571,
+              "delta": -0.321434097,
+              "gamma": 0.006537458,
+              "theta": -0.352492278,
+              "vega": 0.194915219
+            }
+          ],
+          "net_credit": 15.725,
+          "net_debit": null,
+          "max_loss": 16427.5,
+          "max_profit": 1572.5,
+          "breakeven": 164.275,
+          "breakeven_upper": null,
+          "roi_pct": 8.73611111111111,
+          "pop_est": 67.9,
+          "notes": [],
+          "variant_label": "32\u0394 27DTE",
+          "score": 129.4,
+          "recommended": true
+        },
+        {
+          "ticker": "OKTA",
+          "strategy": "momo_csp",
+          "expiration": "2027-01-15",
+          "dte": 55,
+          "legs": [
+            {
+              "action": "SELL",
+              "symbol": "OKTA  270115P00155000",
+              "underlying": "OKTA",
+              "expiration": "2027-01-15",
+              "strike": 155.0,
+              "right": "put",
+              "bid": 9.1,
+              "ask": 10.85,
+              "last": 9.45,
+              "volume": 57,
+              "open_interest": 460,
+              "implied_volatility": 0.869130537,
+              "delta": -0.190652111,
+              "gamma": 0.004060641,
+              "theta": -0.162978442,
+              "vega": 0.209535194
+            }
+          ],
+          "net_credit": 9.975,
+          "net_debit": null,
+          "max_loss": 14502.5,
+          "max_profit": 997.5,
+          "breakeven": 145.025,
+          "breakeven_upper": null,
+          "roi_pct": 6.435483870967741,
+          "pop_est": 80.9,
+          "notes": [],
+          "variant_label": "20\u0394 55DTE",
+          "score": 45.6,
+          "recommended": false
+        },
+        {
+          "ticker": "OKTA",
+          "strategy": "momo_csp",
+          "expiration": "2027-01-15",
+          "dte": 55,
+          "legs": [
+            {
+              "action": "SELL",
+              "symbol": "OKTA  270115P00165000",
+              "underlying": "OKTA",
+              "expiration": "2027-01-15",
+              "strike": 165.0,
+              "right": "put",
+              "bid": 11.8,
+              "ask": 14.15,
+              "last": 12.73,
+              "volume": 18,
+              "open_interest": 601,
+              "implied_volatility": 0.851273148,
+              "delta": -0.242268955,
+              "gamma": 0.004763731,
+              "theta": -0.18342168,
+              "vega": 0.240765113
+            }
+          ],
+          "net_credit": 12.975,
+          "net_debit": null,
+          "max_loss": 15202.5,
+          "max_profit": 1297.5,
+          "breakeven": 152.025,
+          "breakeven_upper": null,
+          "roi_pct": 7.863636363636363,
+          "pop_est": 75.8,
+          "notes": [],
+          "variant_label": "25\u0394 55DTE",
+          "score": 56.6,
+          "recommended": false
+        },
+        {
+          "ticker": "OKTA",
+          "strategy": "momo_csp",
+          "expiration": "2027-01-15",
+          "dte": 55,
+          "legs": [
+            {
+              "action": "SELL",
+              "symbol": "OKTA  270115P00170000",
+              "underlying": "OKTA",
+              "expiration": "2027-01-15",
+              "strike": 170.0,
+              "right": "put",
+              "bid": 14.3,
+              "ask": 15.65,
+              "last": 15.0,
+              "volume": 5,
+              "open_interest": 328,
+              "implied_volatility": 0.840639888,
+              "delta": -0.269977417,
+              "gamma": 0.005104412,
+              "theta": -0.191659938,
+              "vega": 0.254761135
+            }
+          ],
+          "net_credit": 14.975,
+          "net_debit": null,
+          "max_loss": 15502.5,
+          "max_profit": 1497.5,
+          "breakeven": 155.025,
+          "breakeven_upper": null,
+          "roi_pct": 8.808823529411764,
+          "pop_est": 73.0,
+          "notes": [],
+          "variant_label": "28\u0394 55DTE",
+          "score": 64.1,
+          "recommended": false
+        },
+        {
+          "ticker": "OKTA",
+          "strategy": "momo_csp",
+          "expiration": "2027-01-15",
+          "dte": 55,
+          "legs": [
+            {
+              "action": "SELL",
+              "symbol": "OKTA  270115P00180000",
+              "underlying": "OKTA",
+              "expiration": "2027-01-15",
+              "strike": 180.0,
+              "right": "put",
+              "bid": 18.0,
+              "ask": 20.3,
+              "last": 17.79,
+              "volume": 4,
+              "open_interest": 186,
+              "implied_volatility": 0.834111417,
+              "delta": -0.330002531,
+              "gamma": 0.005634761,
+              "theta": -0.208299985,
+              "vega": 0.279046768
+            }
+          ],
+          "net_credit": 19.15,
+          "net_debit": null,
+          "max_loss": 16085.0,
+          "max_profit": 1914.9999999999998,
+          "breakeven": 160.85,
+          "breakeven_upper": null,
+          "roi_pct": 10.638888888888888,
+          "pop_est": 67.0,
+          "notes": [],
+          "variant_label": "32\u0394 55DTE",
+          "score": 79.0,
+          "recommended": false
+        }
+      ]
+    },
+    {
+      "ticker": "SBUX",
+      "strategy": "double_cal",
+      "variants": [
+        {
+          "ticker": "SBUX",
+          "strategy": "double_cal",
+          "expiration": "2026-12-18",
+          "dte": 27,
+          "legs": [
+            {
+              "action": "SELL",
+              "symbol": "SBUX  261218C00105000",
+              "underlying": "SBUX",
+              "expiration": "2026-12-18",
+              "strike": 105.0,
+              "right": "call",
+              "bid": 2.74,
+              "ask": 3.1,
+              "last": 3.02,
+              "volume": 873,
+              "open_interest": 4396,
+              "implied_volatility": 0.333062792,
+              "delta": 0.454855137,
+              "gamma": 0.041610778,
+              "theta": -0.067651281,
+              "vega": 0.113371254
+            },
+            {
+              "action": "SELL",
+              "symbol": "SBUX  261218P00105000",
+              "underlying": "SBUX",
+              "expiration": "2026-12-18",
+              "strike": 105.0,
+              "right": "put",
+              "bid": 4.4,
+              "ask": 4.75,
+              "last": 4.6,
+              "volume": 479,
+              "open_interest": 1295,
+              "implied_volatility": 0.301094663,
+              "delta": -0.553595312,
+              "gamma": 0.04590697,
+              "theta": -0.060996189,
+              "vega": 0.113071379
+            },
+            {
+              "action": "BUY",
+              "symbol": "SBUX  270115C00105000",
+              "underlying": "SBUX",
+              "expiration": "2027-01-15",
+              "strike": 105.0,
+              "right": "call",
+              "bid": 4.15,
+              "ask": 4.45,
+              "last": 4.33,
+              "volume": 86,
+              "open_interest": 9252,
+              "implied_volatility": 0.319641866,
+              "delta": 0.478142185,
+              "gamma": 0.030779546,
+              "theta": -0.046090082,
+              "vega": 0.161283245
+            },
+            {
+              "action": "BUY",
+              "symbol": "SBUX  270115P00105000",
+              "underlying": "SBUX",
+              "expiration": "2027-01-15",
+              "strike": 105.0,
+              "right": "put",
+              "bid": 5.4,
+              "ask": 6.05,
+              "last": 5.65,
+              "volume": 248,
+              "open_interest": 2583,
+              "implied_volatility": 0.28933554,
+              "delta": -0.529112371,
+              "gamma": 0.033963949,
+              "theta": -0.041671555,
+              "vega": 0.161095478
+            }
+          ],
+          "net_credit": null,
+          "net_debit": 3.3599999999999994,
+          "max_loss": 335.99999999999994,
+          "max_profit": null,
+          "breakeven": 105.0,
+          "breakeven_upper": null,
+          "roi_pct": null,
+          "pop_est": null,
+          "notes": [
+            "Back-month exp: 2027-01-15 (55 DTE)"
+          ],
+          "variant_label": "F27DTE B55DTE",
+          "score": 0.0,
+          "recommended": true
+        }
+      ]
+    },
+    {
+      "ticker": "UBER",
+      "strategy": "momo_scall",
+      "variants": [
+        {
+          "ticker": "UBER",
+          "strategy": "momo_scall",
+          "expiration": "2026-12-18",
+          "dte": 27,
+          "legs": [
+            {
+              "action": "SELL",
+              "symbol": "UBER  261218C00072500",
+              "underlying": "UBER",
+              "expiration": "2026-12-18",
+              "strike": 72.5,
+              "right": "call",
+              "bid": 0.38,
+              "ask": 0.46,
+              "last": 0.42,
+              "volume": 1902,
+              "open_interest": 11804,
+              "implied_volatility": 0.394212616,
+              "delta": 0.150836485,
+              "gamma": 0.033377945,
+              "theta": -0.029456322,
+              "vega": 0.041622826
+            }
+          ],
+          "net_credit": 0.42,
+          "net_debit": null,
+          "max_loss": null,
+          "max_profit": 42.0,
+          "breakeven": 72.92,
+          "breakeven_upper": null,
+          "roi_pct": 0.5793103448275861,
+          "pop_est": 84.9,
+          "notes": [
+            "Unbounded risk \u2014 est. Reg-T margin ~$767/contract"
+          ],
+          "variant_label": "16\u0394 27DTE",
+          "score": 74.0,
+          "recommended": false
+        },
+        {
+          "ticker": "UBER",
+          "strategy": "momo_scall",
+          "expiration": "2026-12-18",
+          "dte": 27,
+          "legs": [
+            {
+              "action": "SELL",
+              "symbol": "UBER  261218C00070000",
+              "underlying": "UBER",
+              "expiration": "2026-12-18",
+              "strike": 70.0,
+              "right": "call",
+              "bid": 0.69,
+              "ask": 0.8,
+              "last": 0.81,
+              "volume": 1005,
+              "open_interest": 11786,
+              "implied_volatility": 0.397103138,
+              "delta": 0.240550911,
+              "gamma": 0.044070888,
+              "theta": -0.039465384,
+              "vega": 0.055360063
+            }
+          ],
+          "net_credit": 0.745,
+          "net_debit": null,
+          "max_loss": null,
+          "max_profit": 74.5,
+          "breakeven": 70.745,
+          "breakeven_upper": null,
+          "roi_pct": 1.0642857142857143,
+          "pop_est": 75.9,
+          "notes": [
+            "Unbounded risk \u2014 est. Reg-T margin ~$774/contract"
+          ],
+          "variant_label": "20\u0394 27DTE",
+          "score": 130.0,
+          "recommended": false
+        },
+        {
+          "ticker": "UBER",
+          "strategy": "momo_scall",
+          "expiration": "2026-12-18",
+          "dte": 27,
+          "legs": [
+            {
+              "action": "SELL",
+              "symbol": "UBER  261218C00070000",
+              "underlying": "UBER",
+              "expiration": "2026-12-18",
+              "strike": 70.0,
+              "right": "call",
+              "bid": 0.69,
+              "ask": 0.8,
+              "last": 0.81,
+              "volume": 1005,
+              "open_interest": 11786,
+              "implied_volatility": 0.397103138,
+              "delta": 0.240550911,
+              "gamma": 0.044070888,
+              "theta": -0.039465384,
+              "vega": 0.055360063
+            }
+          ],
+          "net_credit": 0.745,
+          "net_debit": null,
+          "max_loss": null,
+          "max_profit": 74.5,
+          "breakeven": 70.745,
+          "breakeven_upper": null,
+          "roi_pct": 1.0642857142857143,
+          "pop_est": 75.9,
+          "notes": [
+            "Unbounded risk \u2014 est. Reg-T margin ~$774/contract"
+          ],
+          "variant_label": "25\u0394 27DTE",
+          "score": 130.0,
+          "recommended": false
+        },
+        {
+          "ticker": "UBER",
+          "strategy": "momo_scall",
+          "expiration": "2026-12-18",
+          "dte": 27,
+          "legs": [
+            {
+              "action": "SELL",
+              "symbol": "UBER  261218C00067500",
+              "underlying": "UBER",
+              "expiration": "2026-12-18",
+              "strike": 67.5,
+              "right": "call",
+              "bid": 1.29,
+              "ask": 1.44,
+              "last": 1.45,
+              "volume": 527,
+              "open_interest": 2315,
+              "implied_volatility": 0.407653503,
+              "delta": 0.359289462,
+              "gamma": 0.051564377,
+              "theta": -0.048662008,
+              "vega": 0.066493992
+            }
+          ],
+          "net_credit": 1.365,
+          "net_debit": null,
+          "max_loss": null,
+          "max_profit": 136.5,
+          "breakeven": 68.865,
+          "breakeven_upper": null,
+          "roi_pct": 2.022222222222222,
+          "pop_est": 64.1,
+          "notes": [
+            "Unbounded risk \u2014 est. Reg-T margin ~$1,003/contract"
+          ],
+          "variant_label": "30\u0394 27DTE",
+          "score": 184.0,
+          "recommended": true
+        },
+        {
+          "ticker": "UBER",
+          "strategy": "momo_scall",
+          "expiration": "2027-01-15",
+          "dte": 55,
+          "legs": [
+            {
+              "action": "SELL",
+              "symbol": "UBER  270115C00075000",
+              "underlying": "UBER",
+              "expiration": "2027-01-15",
+              "strike": 75.0,
+              "right": "call",
+              "bid": 0.56,
+              "ask": 0.65,
+              "last": 0.6,
+              "volume": 2592,
+              "open_interest": 13846,
+              "implied_volatility": 0.364720577,
+              "delta": 0.15960306,
+              "gamma": 0.026440048,
+              "theta": -0.019972879,
+              "vega": 0.06119165
+            }
+          ],
+          "net_credit": 0.605,
+          "net_debit": null,
+          "max_loss": null,
+          "max_profit": 60.5,
+          "breakeven": 75.605,
+          "breakeven_upper": null,
+          "roi_pct": 0.8066666666666666,
+          "pop_est": 84.0,
+          "notes": [
+            "Unbounded risk \u2014 est. Reg-T margin ~$810/contract"
+          ],
+          "variant_label": "16\u0394 55DTE",
+          "score": 49.5,
+          "recommended": false
+        },
+        {
+          "ticker": "UBER",
+          "strategy": "momo_scall",
+          "expiration": "2027-01-15",
+          "dte": 55,
+          "legs": [
+            {
+              "action": "SELL",
+              "symbol": "UBER  270115C00070000",
+              "underlying": "UBER",
+              "expiration": "2027-01-15",
+              "strike": 70.0,
+              "right": "call",
+              "bid": 1.42,
+              "ask": 1.61,
+              "last": 1.5,
+              "volume": 836,
+              "open_interest": 9385,
+              "implied_volatility": 0.377157104,
+              "delta": 0.311803047,
+              "gamma": 0.037226912,
+              "theta": -0.030071805,
+              "vega": 0.089094104
+            }
+          ],
+          "net_credit": 1.515,
+          "net_debit": null,
+          "max_loss": null,
+          "max_profit": 151.5,
+          "breakeven": 71.515,
+          "breakeven_upper": null,
+          "roi_pct": 2.164285714285714,
+          "pop_est": 68.8,
+          "notes": [
+            "Unbounded risk \u2014 est. Reg-T margin ~$852/contract"
+          ],
+          "variant_label": "30\u0394 55DTE",
+          "score": 118.1,
+          "recommended": false
+        }
+      ]
+    }
+  ]
+}

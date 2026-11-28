@@ -1,0 +1,291 @@
+{
+  "generated_at": "2026-11-28T03:51:00.776294+00:00",
+  "group_count": 3,
+  "total_variants": 4,
+  "groups": [
+    {
+      "ticker": "ADBE",
+      "strategy": "condor",
+      "variants": [
+        {
+          "ticker": "ADBE",
+          "strategy": "condor",
+          "expiration": "2027-01-15",
+          "dte": 48,
+          "legs": [
+            {
+              "action": "BUY",
+              "symbol": "ADBE  270115P00200000",
+              "underlying": "ADBE",
+              "expiration": "2027-01-15",
+              "strike": 200.0,
+              "right": "put",
+              "bid": 4.35,
+              "ask": 4.75,
+              "last": 4.55,
+              "volume": 74,
+              "open_interest": 1925,
+              "implied_volatility": 0.515744786,
+              "delta": -0.16769404,
+              "gamma": 0.005633293,
+              "theta": -0.113937463,
+              "vega": 0.216573775
+            },
+            {
+              "action": "SELL",
+              "symbol": "ADBE  270115P00205000",
+              "underlying": "ADBE",
+              "expiration": "2027-01-15",
+              "strike": 205.0,
+              "right": "put",
+              "bid": 5.35,
+              "ask": 5.95,
+              "last": 5.65,
+              "volume": 11,
+              "open_interest": 417,
+              "implied_volatility": 0.511596073,
+              "delta": -0.201057097,
+              "gamma": 0.006358318,
+              "theta": -0.126540978,
+              "vega": 0.242481246
+            },
+            {
+              "action": "SELL",
+              "symbol": "ADBE  270115C00275000",
+              "underlying": "ADBE",
+              "expiration": "2027-01-15",
+              "strike": 275.0,
+              "right": "call",
+              "bid": 4.05,
+              "ask": 4.75,
+              "last": 4.7,
+              "volume": 33,
+              "open_interest": 1570,
+              "implied_volatility": 0.471311663,
+              "delta": 0.209742255,
+              "gamma": 0.007077337,
+              "theta": -0.119542069,
+              "vega": 0.248649018
+            },
+            {
+              "action": "BUY",
+              "symbol": "ADBE  270115C00280000",
+              "underlying": "ADBE",
+              "expiration": "2027-01-15",
+              "strike": 280.0,
+              "right": "call",
+              "bid": 3.3,
+              "ask": 3.85,
+              "last": 3.47,
+              "volume": 37,
+              "open_interest": 979,
+              "implied_volatility": 0.464986274,
+              "delta": 0.177116599,
+              "gamma": 0.006469971,
+              "theta": -0.106369494,
+              "vega": 0.224259645
+            }
+          ],
+          "net_credit": 0.7999999999999985,
+          "net_debit": null,
+          "max_loss": 420.0000000000001,
+          "max_profit": 79.99999999999984,
+          "breakeven": 204.2,
+          "breakeven_upper": 275.8,
+          "roi_pct": 19.047619047619005,
+          "pop_est": 58.9,
+          "notes": [],
+          "variant_label": "20\u0394 48DTE",
+          "score": 144.8,
+          "recommended": true
+        }
+      ]
+    },
+    {
+      "ticker": "JNJ",
+      "strategy": "cal_high_iv",
+      "variants": [
+        {
+          "ticker": "JNJ",
+          "strategy": "cal_high_iv",
+          "expiration": "2026-12-18",
+          "dte": 20,
+          "legs": [
+            {
+              "action": "SELL",
+              "symbol": "JNJ   261218C00285000",
+              "underlying": "JNJ",
+              "expiration": "2026-12-18",
+              "strike": 285.0,
+              "right": "call",
+              "bid": 2.9,
+              "ask": 3.45,
+              "last": 3.39,
+              "volume": 10,
+              "open_interest": 220,
+              "implied_volatility": 0.255644939,
+              "delta": 0.311257521,
+              "gamma": 0.020890636,
+              "theta": -0.14238517,
+              "vega": 0.233873306
+            },
+            {
+              "action": "BUY",
+              "symbol": "JNJ   270115C00280000",
+              "underlying": "JNJ",
+              "expiration": "2027-01-15",
+              "strike": 280.0,
+              "right": "call",
+              "bid": 8.1,
+              "ask": 9.25,
+              "last": 8.95,
+              "volume": 100,
+              "open_interest": 8915,
+              "implied_volatility": 0.25413002,
+              "delta": 0.457147159,
+              "gamma": 0.015436357,
+              "theta": -0.103966984,
+              "vega": 0.401041196
+            }
+          ],
+          "net_credit": null,
+          "net_debit": 6.35,
+          "max_loss": 635.0,
+          "max_profit": null,
+          "breakeven": 285.0,
+          "breakeven_upper": null,
+          "roi_pct": null,
+          "pop_est": null,
+          "notes": [
+            "Back-month exp: 2027-01-15 (48 DTE)"
+          ],
+          "variant_label": "30\u0394 F20DTE B48DTE",
+          "score": 0.0,
+          "recommended": true
+        },
+        {
+          "ticker": "JNJ",
+          "strategy": "cal_high_iv",
+          "expiration": "2026-12-18",
+          "dte": 20,
+          "legs": [
+            {
+              "action": "SELL",
+              "symbol": "JNJ   261218C00280000",
+              "underlying": "JNJ",
+              "expiration": "2026-12-18",
+              "strike": 280.0,
+              "right": "call",
+              "bid": 4.7,
+              "ask": 5.5,
+              "last": 5.25,
+              "volume": 68,
+              "open_interest": 4921,
+              "implied_volatility": 0.264263132,
+              "delta": 0.422756125,
+              "gamma": 0.022383782,
+              "theta": -0.163021662,
+              "vega": 0.259037019
+            },
+            {
+              "action": "BUY",
+              "symbol": "JNJ   270115C00280000",
+              "underlying": "JNJ",
+              "expiration": "2027-01-15",
+              "strike": 280.0,
+              "right": "call",
+              "bid": 8.1,
+              "ask": 9.25,
+              "last": 8.95,
+              "volume": 100,
+              "open_interest": 8915,
+              "implied_volatility": 0.25413002,
+              "delta": 0.457147159,
+              "gamma": 0.015436357,
+              "theta": -0.103966984,
+              "vega": 0.401041196
+            }
+          ],
+          "net_credit": null,
+          "net_debit": 4.55,
+          "max_loss": 455.0,
+          "max_profit": null,
+          "breakeven": 280.0,
+          "breakeven_upper": null,
+          "roi_pct": null,
+          "pop_est": null,
+          "notes": [
+            "Back-month exp: 2027-01-15 (48 DTE)"
+          ],
+          "variant_label": "40\u0394 F20DTE B48DTE",
+          "score": 0.0,
+          "recommended": false
+        }
+      ]
+    },
+    {
+      "ticker": "PYPL",
+      "strategy": "cal_low_iv",
+      "variants": [
+        {
+          "ticker": "PYPL",
+          "strategy": "cal_low_iv",
+          "expiration": "2026-12-18",
+          "dte": 20,
+          "legs": [
+            {
+              "action": "SELL",
+              "symbol": "PYPL  261218C00060000",
+              "underlying": "PYPL",
+              "expiration": "2026-12-18",
+              "strike": 60.0,
+              "right": "call",
+              "bid": 1.25,
+              "ask": 1.36,
+              "last": 1.3,
+              "volume": 1607,
+              "open_interest": 15764,
+              "implied_volatility": 0.296322228,
+              "delta": 0.40823231,
+              "gamma": 0.092850329,
+              "theta": -0.038680229,
+              "vega": 0.054812289
+            },
+            {
+              "action": "BUY",
+              "symbol": "PYPL  270115C00060000",
+              "underlying": "PYPL",
+              "expiration": "2027-01-15",
+              "strike": 60.0,
+              "right": "call",
+              "bid": 2.0,
+              "ask": 2.3,
+              "last": 2.16,
+              "volume": 430,
+              "open_interest": 29714,
+              "implied_volatility": 0.286622506,
+              "delta": 0.448844665,
+              "gamma": 0.064009782,
+              "theta": -0.024948478,
+              "vega": 0.085326374
+            }
+          ],
+          "net_credit": null,
+          "net_debit": 1.0499999999999998,
+          "max_loss": 104.99999999999999,
+          "max_profit": null,
+          "breakeven": 60.0,
+          "breakeven_upper": null,
+          "roi_pct": null,
+          "pop_est": null,
+          "notes": [
+            "Back-month exp: 2027-01-15 (48 DTE)"
+          ],
+          "variant_label": "40\u0394 F20DTE B48DTE",
+          "score": 0.0,
+          "recommended": true
+        }
+      ]
+    }
+  ]
+}
